@@ -1,0 +1,8 @@
+site_name: Requisitos - Yellow
+nav:
+    - Home: index.md
+theme:
+  palette:
+      primary: 'yellow'
+      accent: 'grey'
+  name: 'material'
