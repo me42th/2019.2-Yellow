@@ -8,6 +8,17 @@ Yellow é um serviço de bicicletas e patinetes elétricos compartilhados via ap
 
 ## Contribuidores
 
+
+<img src="../img/group/damaso.jpg" alt="drawing" style="width:100px;"/>
+<img src="../img/group/gabi.jpg" alt="drawing" style="width:100px;"/>
+<img src="../img/group/julio.jpg" alt="drawing" style="width:100px;"/>
+<img src="../img/group/leticia.jpg" alt="drawing" style="width:100px;"/>
+<img src="../img/group/lucas.jpg" alt="drawing" style="width:100px;"/>
+<img src="../img/group/pedro.jpg" alt="drawing" style="width:100px;"/>
+<p> &nbsp&nbsp Dâmaso &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Gabriela &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Júlio &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Letícia &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Lucas &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Pedro Igor</p>
+
+
+
 | Nome              |Matrícula   | GitHub          | E-mail                          |
 |-------------------|------------|-----------------|---------------------------------|
 |  Dâmaso Júnio    | 17/0031438 | juniopereirab     |  junio.pereirab@gmail.com    |
