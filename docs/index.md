@@ -12,7 +12,7 @@ Yellow é um serviço de bicicletas e patinetes elétricos compartilhados via ap
 |-------------------|------------|-----------------|---------------------------------|
 |  Dâmaso Júnio    | 17/0031438 | juniopereirab     |  junio.pereirab@gmail.com    |
 | Gabriela Lemos    | 17/0010872 | heylisten64   |  gabriela.leemoss@gmail.com  |
-| Julio Cesar Litwin     | 16/0129443 | jclitwin    |           |
-| Letícia Karla       | 15/0135939 | leticiaarj     |               |
+| Julio Cesar Litwin     | 16/0129443 | jclitwin    |   j.litwin@live.com   |
+| Letícia Karla       | 15/0135939 | leticiaarj     |   leticiards.04@gmail.com |
 | Lucas Gomes Silva         | 16/0133505 | lucasgomesgs0            |   lucas.gomesgs0@gmail.com |
 | Pedro Igor Silva    | 17/0062635 | pedroeagle        |      pedroigor.silva@outlook.com  |
