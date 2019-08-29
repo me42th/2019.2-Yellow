@@ -11,10 +11,10 @@ Yellow é um serviço de bicicletas e patinetes elétricos compartilhados via ap
 
 <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/damaso.jpg" alt="drawing" style="width:100px;"/>
 <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/gabi.jpg" alt="drawing" style="width:100px;"/>
-<img src="../img/group/https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/julio.jpg" alt="drawing" style="width:100px;"/>
-<img src="../img/group/https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/leticia.jpg" alt="drawing" style="width:100px;"/>
-<img src="../img/group/https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/lucas.jpg" alt="drawing" style="width:100px;"/>
-<img src="../img/group/https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/pedro.jpg" alt="drawing" style="width:100px;"/>
+<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/julio.jpg" alt="drawing" style="width:100px;"/>
+<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/leticia.jpg" alt="drawing" style="width:100px;"/>
+<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/lucas.jpg" alt="drawing" style="width:100px;"/>
+<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/pedro.jpg" alt="drawing" style="width:100px;"/>
 
 
 
