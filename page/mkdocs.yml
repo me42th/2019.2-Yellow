@@ -4,10 +4,12 @@ repo_name: Requisitos-2019-2-Yellow/Yellow
 repo_url: https://github.com/Requisitos-2019-2-Yellow/Yellow
 #edit_uri: "blob/master/docs"
 site_description: Requisito do aplicativo Yellow
-site_author: Pedro Igor
+site_author: Grupo 4
 
 nav:
     - Home: index.md
+    - Pré-rastreabilidade:
+        - Rich Picture: rich_picture.md
 theme:
   palette:
       primary: 'yellow'
