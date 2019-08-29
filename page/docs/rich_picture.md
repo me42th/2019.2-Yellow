@@ -7,7 +7,7 @@ de uma aplicação diferente e após discussão foi escolhido o app Yellow.<br><
 
 Segue o primeiro rich picture feito a mão por um dos integrantes:
 
-![RP1_manuscrito](https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/issue_1_criar_gh_pages/page/img/RichPicture_v1_hm.jpg)
+![RP1_manuscrito](https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/issue_1_criar_gh_pages/page/img/RichPicture_v1_manuscrito.jpg)
 
 Primeiro rich picture. Autor: Lucas Gomes
 
