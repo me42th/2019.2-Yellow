@@ -1,5 +1,5 @@
 # Yellow
-<p align="center"><a href="https://requisitos-2019-2-yellow.github.io/Yellow/" target="_blank"><img width="240"src="https://lh3.googleusercontent.com/zz4cYHw3EvLgMEiWqJnMcuSsiIa-G4YmUotNogYjDKLhYryHyN-6YrNtIUrHrRCf2Rg"></a></p>
+<p align="center"><a href="https://github.com/Requisitos2-2019/Yellow-Grupo-4" target="_blank"><img width="240"src="https://raw.githubusercontent.com/Requisitos2-2019/Yellow-Grupo-4/master/img/icon-round.png"></a></p>
 <p align="center">"Curta seus caminhos pela cidade."</p>
 
 ## O que é Yellow?
