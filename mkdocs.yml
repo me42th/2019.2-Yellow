@@ -1,9 +1,7 @@
 site_name: Requisitos - Yellow
-site_url: https://requisitos-2019-2-yellow.github.io/Yellow/
-repo_name: Requisitos-2019-2-Yellow/Yellow
+site_url: https://yellow.netlify.com
+repo_name: Requisitos/Yellow
 repo_url: https://github.com/Requisitos-2019-2-Yellow/Yellow
-logo: 'https://raw.githubusercontent.com/Requisitos2-2019/Yellow-Grupo-4/master/img/icon-round.png'
-favicon: 'https://raw.githubusercontent.com/Requisitos2-2019/Yellow-Grupo-4/master/img/icon-round.png'
 #edit_uri: "blob/master/docs"
 site_description: Requisito do aplicativo Yellow
 
@@ -19,3 +17,5 @@ theme:
       accent: 'yellow'
   name: 'material'
   language: 'pt'
+  favicon: 'https://raw.githubusercontent.com/Requisitos2-2019/Yellow-Grupo-4/master/img/icon-round.ico'
+  logo: 'https://raw.githubusercontent.com/Requisitos2-2019/Yellow-Grupo-4/master/img/icon-round.ico'
