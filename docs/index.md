@@ -8,13 +8,28 @@ Yellow é um serviço de bicicletas e patinetes elétricos compartilhados via ap
 
 ## Contribuidores
 
+<span>
+<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/damaso.jpg" alt="drawing" style="width:100px; border-radius: 50%;padding: 15px;"/>
+<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/gabi.jpg" alt="drawing" style="width:100px;border-radius: 50%;padding: 15px;"/>
+<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/julio.jpg" alt="drawing" style="width:100px;border-radius: 50%;padding: 15px;"/>
+<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/leticia.jpg" alt="drawing" style="width:100px;border-radius: 50%;padding: 15px;"/>
+<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/lucas.jpg" alt="drawing" style="width:100px;border-radius: 50%;padding: 15px;"/>
+<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/pedro.jpg" alt="drawing" style="width:100px;border-radius: 50%;padding: 15px;"/>
 
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/damaso.jpg" alt="drawing" style="width:100px;"/>
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/gabi.jpg" alt="drawing" style="width:100px;"/>
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/julio.jpg" alt="drawing" style="width:100px;"/>
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/leticia.jpg" alt="drawing" style="width:100px;"/>
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/lucas.jpg" alt="drawing" style="width:100px;"/>
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/pedro.jpg" alt="drawing" style="width:100px;"/>
+<br>
+<span style="padding: 20px">Dâmaso Júnio</span>
+<span style="padding: 20px">Gabriela Lemos</span>
+<span style="padding: 25px">Júlio Litwin</span>
+<span style="padding: 25px">Letícia Karla</span>
+<span style="padding: 30px">Lucas Gomes</span>
+<span style="padding: 25px">Pedro Igor</span>
+
+
+
+
+
+
+
 
 
 
