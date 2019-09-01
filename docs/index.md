@@ -7,33 +7,33 @@
 Yellow é um serviço de bicicletas e patinetes elétricos compartilhados via aplicativo que não exige pontos fixos para retirada e entrega das bicicletas e patinetes.
 
 ## Contribuidores
+
 <figure style="float:left;">
-    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/damaso.jpg" alt="drawing" style="width:80px; border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/damaso.jpg" alt="drawing" style="width:120px; border-radius: 50%;"/>
     <figcaption>Dâmaso Júnio</figcaption>
 </figure>
 
 <figure style="float:left;">
-    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/gabi.jpg" alt="drawing" style="width:80px;border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/gabi.jpg" alt="drawing" style="width:120px;border-radius: 50%;"/>
     <figcaption>Gabriela Lemos</figcaption>
 </figure>
 <figure style="float:left;">
-    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/julio.jpg" alt="drawing" style="width:80px;border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/julio.jpg" alt="drawing" style="width:120px;border-radius: 50%;"/>
     <figcaption>Júlio Litwin</figcaption>
 </figure>
 <figure style="float:left;">
-    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/leticia.jpg" alt="drawing" style="width:80px;border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/leticia.jpg" alt="drawing" style="width:120px;border-radius: 50%;"/>
     <figcaption>Letícia Karla</figcaption>
 </figure>
 <figure style="float:left;">
-    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/lucas.jpg" alt="drawing" style="width:80px;border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/lucas.jpg" alt="drawing" style="width:120px;border-radius: 50%;"/>
     <figcaption>Lucas Gomes</figcaption>
 </figure>
 <figure style="float:left;">
-    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/pedro.jpg" alt="drawing" style="width:80px;border-radius: 50%;"/>
+    <img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/pedro.jpg" alt="drawing" style="width:120px;border-radius: 50%;"/>
     <figcaption>Pedro Igor</figcaption>
 </figure>
-<br>
-
+<br clear="all">
 
 | Nome              |Matrícula   | GitHub          | E-mail                          |
 |-------------------|------------|-----------------|---------------------------------|
