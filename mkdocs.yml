@@ -10,7 +10,8 @@ site_author: Grupo 4
 nav:
     - Planejamento do Grupo: 
         - Cronograma: planejamento_grupo/cronograma.md
-        - Disponibilidade Integrantes: planejamento_grupo/timetable.md 
+        - Disponibilidade Integrantes: planejamento_grupo/timetable.md
+    - Pontos de Controle: pontos_de_controle/pontos_de_controle.md 
     - Home: index.md
     - Pré-rastreabilidade:
         - Rich Picture: pre_rastreabilidade/rich_picture.md
