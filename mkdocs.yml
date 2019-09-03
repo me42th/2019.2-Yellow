@@ -8,12 +8,13 @@ site_description: Requisito do aplicativo Yellow
 site_author: Grupo 4
 
 nav:
+    - Planejamento do Grupo: 
+        - Cronograma: planejamento_grupo/cronograma.md
+        - Disponibilidade Integrantes: planejamento_grupo/timetable.md 
     - Home: index.md
     - Pré-rastreabilidade:
-        - Rich Picture: rich_picture.md
-    - Planejamento: 
-        - Cronograma: cronograma.md
-        - Disponibilidade Integrantes: timetable.md 
+        - Rich Picture: pre_rastreabilidade/rich_picture.md
+
 theme:
   palette:
       primary: 'grey'
