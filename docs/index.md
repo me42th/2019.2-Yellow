@@ -8,16 +8,32 @@ Yellow é um serviço de bicicletas e patinetes elétricos compartilhados via ap
 
 ## Contribuidores
 
+<figure style="float:left;">
+    <img src="img/group/damaso.jpg" alt="drawing" style="width:120px; border-radius: 50%;"/>
+    <figcaption>Dâmaso Júnio</figcaption>
+</figure>
 
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/damaso.jpg" alt="drawing" style="width:100px;"/>
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/gabi.jpg" alt="drawing" style="width:100px;"/>
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/julio.jpg" alt="drawing" style="width:100px;"/>
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/leticia.jpg" alt="drawing" style="width:100px;"/>
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/lucas.jpg" alt="drawing" style="width:100px;"/>
-<img src="https://raw.githubusercontent.com/Requisitos-2019-2-Yellow/Yellow/master/img/group/pedro.jpg" alt="drawing" style="width:100px;"/>
-
-
-
+<figure style="float:left;">
+    <img src="img/group/gabi.jpg" alt="drawing" style="width:120px;border-radius: 50%;"/>
+    <figcaption>Gabriela Lemos</figcaption>
+</figure>
+<figure style="float:left;">
+    <img src="img/group/julio.jpg" alt="drawing" style="width:120px;border-radius: 50%;"/>
+    <figcaption>Júlio Litwin</figcaption>
+</figure>
+<figure style="float:left;">
+    <img src="img/group/leticia.jpg" alt="drawing" style="width:120px;border-radius: 50%;"/>
+    <figcaption>Letícia Karla</figcaption>
+</figure>
+<figure style="float:left;">
+    <img src="img/group/lucas.jpg" alt="drawing" style="width:120px;border-radius: 50%;"/>
+    <figcaption>Lucas Gomes</figcaption>
+</figure>
+<figure style="float:left;">
+    <img src="img/group/pedro.jpg" alt="drawing" style="width:120px;border-radius: 50%;"/>
+    <figcaption>Pedro Igor</figcaption>
+</figure>
+<br clear="all">
 
 | Nome              |Matrícula   | GitHub          | E-mail                          |
 |-------------------|------------|-----------------|---------------------------------|

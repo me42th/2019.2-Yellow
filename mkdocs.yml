@@ -8,14 +8,19 @@ site_description: Requisito do aplicativo Yellow
 site_author: Grupo 4
 
 nav:
+    - Planejamento do Grupo: 
+        - Cronograma: planejamento_grupo/cronograma.md
+        - Disponibilidade Integrantes: planejamento_grupo/timetable.md
+    - Pontos de Controle: pontos_de_controle/pontos_de_controle.md 
     - Home: index.md
     - Pré-rastreabilidade:
-        - Rich Picture: rich_picture.md
+        - Rich Picture: pre_rastreabilidade/rich_picture.md
+
 theme:
   palette:
       primary: 'grey'
       accent: 'yellow'
   name: 'material'
   language: 'pt'
-  favicon: 'https://raw.githubusercontent.com/Requisitos2-2019/Yellow-Grupo-4/master/img/icon-round.png'
-  logo: 'https://raw.githubusercontent.com/Requisitos2-2019/Yellow-Grupo-4/master/img/icon-round.png'
+  favicon: '/img/icon-round.png'
+  logo: '/img/icon-round.png'

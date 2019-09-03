@@ -7,12 +7,12 @@ de uma aplicação diferente e após discussão foi escolhido o app Yellow.<br><
 
 Segue o primeiro rich picture feito a mão por um dos integrantes:
 
-![RP1_manuscrito](https://raw.githubusercontent.com/Requisitos2-2019/Yellow-Grupo-4/master/img/rich_pictures/RichPicture_v1_manuscrito.jpg)
+![RP1_manuscrito](/img/pre_rastreabilidade/rich_pictures/RichPicture_v1_manuscrito.jpg)
 
 Primeiro rich picture. Autor: Lucas Gomes
 
 Segue o primeiro rich picture criado por um dos integrantes do grupo adicionado de algumas sugestões do restante do grupo:
 
-![RP1](https://raw.githubusercontent.com/Requisitos2-2019/Yellow-Grupo-4/master/img/rich_pictures/RichPicture_v1.png)
+![RP1](/img/pre_rastreabilidade/rich_pictures/RichPicture_v1.png)
 
 Primeiro rich picture digital. Confeccionado em grupo.
