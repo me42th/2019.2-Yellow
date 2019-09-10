@@ -1,9 +1,9 @@
 site_name: Requisitos - Yellow
-site_url: https://yellow.netlify.com
+site_url: https://yellow.gq
 repo_name: Requisitos/Yellow
 repo_url: https://github.com/Requisitos-2019-2-Yellow/Yellow
-#edit_uri: "blob/master/docs"
-site_description: Requisito do aplicativo Yellow
+
+site_description: Requisitos do aplicativo Yellow
 
 site_author: Grupo 4
 
@@ -15,10 +15,18 @@ nav:
     - Home: index.md
     - Pré-rastreabilidade:
         - Rich Picture: pre_rastreabilidade/rich_picture.md
+    - Elicitação:
+        - Requisitos: 
+            - Brainstorm: elicitacao/requisitos/brainstorm.md
+            - Requisitos Elicitados: elicitacao/requisitos/requisitos.md
+            - 5W2H: elicitacao/requisitos/5w2h.md
+        - Priorização:
+            - MoSCoW: elicitacao/priorizacao/moscow.md
+            - First Things First: elicitacao/priorizacao/first_things_first.md
 
 theme:
   palette:
-      primary: 'grey'
+      primary: 'black'
       accent: 'yellow'
   name: 'material'
   language: 'pt'

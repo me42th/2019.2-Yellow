@@ -5,14 +5,18 @@ Como ainda não havia sido definido qual seria o app analisado, cada integrante 
 de uma aplicação diferente e após discussão foi escolhido o app Yellow.<br><br>
 
 
-Segue o primeiro rich picture feito a mão por um dos integrantes:
+Segue os rich pictures confeccionados:
 
 ![RP1_manuscrito](/img/pre_rastreabilidade/rich_pictures/RichPicture_v1_manuscrito.jpg)
 
-Primeiro rich picture. Autor: Lucas Gomes
+<b>Primeiro rich picture.</b> Autor: Lucas Gomes
 
 Segue o primeiro rich picture criado por um dos integrantes do grupo adicionado de algumas sugestões do restante do grupo:
 
 ![RP1](/img/pre_rastreabilidade/rich_pictures/RichPicture_v1.png)
 
-Primeiro rich picture digital. Confeccionado em grupo.
+<b>Primeiro rich picture digital.</b> Confeccionado em grupo.
+
+![RP2](/img/pre_rastreabilidade/rich_pictures/RichPicture_v2.png)
+
+<b>Segundo rich picture.</b> Elaborado pelo grupo após algumas considerações feitas pelo professor na primeira versão.<br><br>
