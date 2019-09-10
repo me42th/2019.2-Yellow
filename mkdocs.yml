@@ -18,6 +18,7 @@ nav:
     - Elicitação:
         - Requisitos: elicitacao/Requisitos.md
         - Brainstorm: elicitacao/Brainstorm.md
+
 theme:
   palette:
       primary: 'grey'
