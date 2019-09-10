@@ -16,8 +16,8 @@ nav:
     - Pré-rastreabilidade:
         - Rich Picture: pre_rastreabilidade/rich_picture.md
     - Elicitação:
-	- Requisitos: elicitacao/Requisitos.md
-	- Brainstorm: elicitacao/Brainstorm.md
+        - Requisitos: elicitacao/Requisitos.md
+        - Brainstorm: elicitacao/Brainstorm.md
 theme:
   palette:
       primary: 'grey'
