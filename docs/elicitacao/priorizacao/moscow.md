@@ -1,0 +1,1 @@
+![MoSCoW](/img/elicitacao/priorizacao/moscow.png)
