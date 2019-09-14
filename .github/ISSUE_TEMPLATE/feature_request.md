@@ -7,14 +7,22 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Descrição da issue**
+Descreva de forma clara e concisa o que deverá ser feito nesta issue. [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Tarefas**
+<!-- Defina com checkbox tarefas a serem realizadas. Ex:-->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+- [ ] Tarefa A.
+- [ ] Tarefa B.
+- [ ] Tarefa C.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+
+**Critérios de aceitação**
+<!--Defina com checkbox observações a serem cumpridas para que a tarefa seja aceita. Ex: -->
+- [ ] Critério A.
+- [ ] Critério B.
+- [ ] Critério C.
+
+**Assigns**
+<!-- Marque o id dos responsáveis por essa issue.>
