@@ -18,7 +18,7 @@ nav:
     - Elicitação:
         - Requisitos: 
             - Brainstorm: elicitacao/requisitos/brainstorm.md
-            - Requisitos Elicitados: elicitacao/requisitos/requisitos.md
+            - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
             - 5W2H: elicitacao/requisitos/5w2h.md
         - Priorização:
             - MoSCoW: elicitacao/priorizacao/moscow.md
