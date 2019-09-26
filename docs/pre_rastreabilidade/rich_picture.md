@@ -1,4 +1,12 @@
-# Metodologia:
+# Rich Picture
+| Nome|O que fez|Quando|
+|-----|---------|------|
+| Pedro Igor e Lucas | Criou o documento e inseriu os primeiros RP. | 29/08/2019 |
+| Lucas e Gabriela | Atualizaram os RP. | 06/09/2019 |
+
+## Metodologia:
+
+
 Os Rich Pictures são modelos que permitem a análise de problemas e a expressão de ideias de forma colaborativa. Desta forma, o modelo é de fácil comprensão para qualquer pessoa.
 
 Como ainda não havia sido definido qual seria o app analisado, cada integrante do grupo fez o Rich Picture

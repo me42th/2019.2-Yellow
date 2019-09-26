@@ -1,5 +1,10 @@
 # Requisitos Elicitados
 
+### Histórico de edições
+| Nome|O que fez|Quando|
+|-----|---------|------|
+| Pedro, Dâmaso, Letícia | Criou o documento. | 29/08/2019 |
+
 A partir do brainstorm elaborado foi possível elicitar alguns requisitos sendo eles funcionais e não funcionais.
 
 ## Requisitos Funcionais

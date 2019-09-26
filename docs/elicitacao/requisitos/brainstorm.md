@@ -1,4 +1,11 @@
 # Brainstorm
+
+### Histórico de edições
+| Nome|O que fez|Quando|
+|-----|---------|------|
+| Todo o grupo | Criou o documento. | 29/08/2019 |
+
+
 ### Como educar a população sobre normas de seguranças para o trânsito de bicicletas epatinetes? 
 
 - <b>Letícia:</b> Explicar sobre os direitos e deveres dos ciclistas auxilia para que àqueles que utilizam as amarelinhas tenham mais segurança na rua. Auxiliar os usuários a acharem ciclovias invés de compartilharem a pista com carros, motos, ônibus etc.
