@@ -16,14 +16,14 @@ A partir do brainstorm elaborado foi possível elicitar alguns requisitos sendo 
 | -------- | -------- | -------- | ------|
 | <b>RF001</b> | O sistema deve permitir o cadastro de novos usuários. |   Alta   | <b>N/A.</b> |
 | <b>RF002</b> | O sistema deve permitir login na conta. |   Alta   | <b>RF001.</b> |
-| <b>RF003</b> | O sistema deve ser capaz de recarregar créditos para a utilização dos veículos. | Alta | <b>RF001.</b> |
-| <b>RF004</b> | O sistema deve mostrar a localização dos veículos disponíveis.  | Alta | <b>RF001, RF002.</b> |
-| <b>RF005</b> | O usuário deve ser capaz de desbloquear um veículo (público).  | Alta | <b>RF001, RF002, RF003, RF004.</b> |
-| <b>RF006</b> | O aplicativo deve permitir bloquear a bicicleta novamente. | Alta | <b>RF005.</b> |
-| <b>RF007</b> | Permitir compartilhamento de crédito. | Baixo| <b>RF001.</b>|
-| <b>RF008</b> | O sistema deve informar ao usuário sobre o seu uso, e os seus gastos.  | Alta | <b>RF003.</b>|
-| <b>RF009</b> | A aplicação deve ter integração com bancos digitais de forma que facilite a inserção de crédito. | Alto| <b>RF003.</b>|
-| <b>RF010</b> | O sistema deve disponibilizar códigos e cupons promocionais. | Média | <b>RF003.</b>|
+| <b>RF003</b> | O sistema tem que ser capaz de recarregar créditos para a utilização dos veículos. | Alta | <b>RF001.</b> |
+| <b>RF004</b> | O sistema tem que mostrar a localização dos veículos disponíveis.  | Alta | <b>RF001, RF002.</b> |
+| <b>RF005</b> | O usuário tem que ser capaz de desbloquear um veículo (público).  | Alta | <b>RF001, RF002, RF003, RF004.</b> |
+| <b>RF006</b> | O aplicativo deveria permitir bloquear a bicicleta novamente. | Alta | <b>RF005.</b> |
+| <b>RF007</b> | O sistema poderia permitir compartilhamento de crédito. | Baixo| <b>RF001.</b>|
+| <b>RF008</b> | O sistema tem que informar ao usuário sobre o seu uso, e os seus gastos.  | Alta | <b>RF003.</b>|
+| <b>RF009</b> | A aplicação deveria ter integração com bancos digitais de forma que facilite a inserção de crédito. | Alta| <b>RF003.</b>|
+| <b>RF010</b> | O sistema poderia disponibilizar códigos e cupons promocionais. | Média | <b>RF003.</b>|
 
 
 ## Requisitos Não Funcionais
