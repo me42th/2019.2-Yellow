@@ -12,5 +12,3 @@
 |Should| O sistema deve permitir o cadastro de novos usuários.<br>O sistema deve permitir login na conta.<br>O aplicativo deveria permitir bloquear a bicicleta novamente.|
 |Could| O sistema poderia permitir compartilhamento de crédito.<br> A aplicação poderia ter integração com bancos digitais de forma que facilite a inserção de crédito. <br>|
 |Want| O sistema poderia disponibilizar códigos e cupons promocionais. <br>|
-
-<!--![MoSCoW](/img/elicitacao/priorizacao/moscow.png)-->
