@@ -8,18 +8,19 @@ site_description: Requisitos do aplicativo Yellow
 site_author: Grupo 4
 
 nav:
-    - Planejamento do Grupo: 
+    - Planejamento do Grupo:
         - Cronograma: planejamento_grupo/cronograma.md
         - Disponibilidade Integrantes: planejamento_grupo/timetable.md
-    - Pontos de Controle: pontos_de_controle/pontos_de_controle.md 
+    - Pontos de Controle: pontos_de_controle/pontos_de_controle.md
     - Home: index.md
     - Pré-rastreabilidade:
         - Rich Picture: pre_rastreabilidade/rich_picture.md
     - Elicitação:
-        - Requisitos: 
+        - Requisitos:
             - Brainstorm: elicitacao/requisitos/brainstorm.md
             - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
             - 5W2H: elicitacao/requisitos/5w2h.md
+            - Introspecção: elicitacao/requisitos/introspeccao.md
         - Priorização:
             - MoSCoW: elicitacao/priorizacao/moscow.md
             - First Things First: elicitacao/priorizacao/first_things_first.md
