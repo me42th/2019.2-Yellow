@@ -21,3 +21,13 @@
 <p align="center">Requisitos de <i>Software</i><br /><br />
 <a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a>
 </p>
+
+## Padrões para criação de branchs e commits:
+- Branchs: devem ter como base a devel e seguirem o seguinte padrão:
+    ```
+    issue_numero-da-issue_o_que_sera_feito
+    ```
+- Commits: devem estar em português e devem descrever de forma simples o que está sendo enviado. Além disso deve conter o número da issue pré-fixado de um '#' para que seja possível rastrear a issue do conteúdo em meio a todos os commits. Deve seguir o seguinte padrão:
+    ```
+    #n-da-issue Inserindo conteúdo sobre padrões de criação de branchs e commits ao README.md
+    ```
