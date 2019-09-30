@@ -1,6 +1,6 @@
 # Questionário
 
-#### PARTICIPANTE: Letícia Karla S. R. de Araújo.
+##### PARTICIPANTE: Letícia Karla S. R. de Araújo.
 ##### LOCAL: Remoto, via Google Forms.
 ##### DATA/HORA: 24 de Setembro de 2019 à 29 de Setembro de 2019.
 

@@ -34,6 +34,7 @@ nav:
                 - Storytelling v0: elicitacao/requisitos/storytelling_v0.md
                 - Storytelling v1: elicitacao/requisitos/storytelling_v1.md
             - Questionário: elicitacao/requisitos/questionario.md
+            - Personas: elicitacao/requisitos/personas.md
         - Priorização:
             - MoSCoW: elicitacao/priorizacao/moscow.md
             - First Things First: elicitacao/priorizacao/first_things_first.md
