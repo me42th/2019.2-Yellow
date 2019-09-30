@@ -22,7 +22,9 @@ nav:
                 - 5W2H v1: elicitacao/requisitos/5w2h_v1.md
             - Análise de Discurso: elicitacao/requisitos/analise_discurso.md
             - Análise de Protócolo: elicitacao/requisitos/analise_protocolo.md
-            - Brainstorm: elicitacao/requisitos/brainstorm.md
+            - Brainstorming:
+                - Brainstorming v0: elicitacao/requisitos/brainstorm.md
+                - Brainstorming v1: 
             - Entrevista: elicitacao/requisitos/entrevista.md
             - Introspecção: elicitacao/requisitos/introspeccao.md
             - Prototipação: elicitacao/requisitos/prototipacao.md
