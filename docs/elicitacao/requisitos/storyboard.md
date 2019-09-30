@@ -1,0 +1,1 @@
+![](/img/elicitacao/requisitos/storyboard/storyboard.jpg)
