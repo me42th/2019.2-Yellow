@@ -1,4 +1,4 @@
-# Storytelling
+# Storytelling v1
 
 ### Histórico de edições
 | Nome|O que fez|Quando|
@@ -27,6 +27,7 @@ O usuário deve ser capaz de acessar outras regiões a diferentes distâncias de
 
 #### Requisitos
 O usuário deve ser capaz de inserir crédito de forma virtual. **MUST HAVE**
+
 O usuário deve ser capaz de inserir crédito de forma física. **COULD HAVE**
 
 
@@ -34,18 +35,23 @@ O usuário deve ser capaz de inserir crédito de forma física. **COULD HAVE**
 
 #### Requisitos
 O usuário deve ser capaz de observar o histórico de viagens. **MUST HAVE**
+
 O usuário deve ser capaz de contatar o suporte sem empecilhos. **MUST HAVE**
+
 O usuário deve ser capaz de contatar o suporte por mais de uma forma. **SHOULD HAVE**
 
 **STORYTELLING 06-** Eu acabei de fazer quinze anos! Para comemorar, saí com meus amigos para um passeio de bicicleta. Aproveitamos o aplicativo de aluguel de bicicletas: baixei o aplicativo pela AppStore, me conectei pela minha conta do facebook e já estava lá, dentro do aplicativo, pronta para incluir créditos e destravar um veículo para andar no parque. E assim o fiz. Entretanto, no meio do caminho um parceiro do aplicativo notou que eu estava fora da zona do serviço e que era menor de dezoito anos. Ele me notificou que o serviço só é disponível para maiores de idade, e que não posso ultrapassar a zona cinza no mapa do aplicativo. Assim, não pude mais utilizar o serviço. Nada fora me dito até então, nenhuma aba de termos de uso ou de instruções fora aberta para que me notificasse a respeito. Fiquei bastante chateada com o ocorrido...
 
 #### Requisitos
 O usuário deve estar completamente ciente dos termos de uso do aplicativo antes mesmo de usufruir de seu serviço. Assim, a aplicação deve mostrar antes mesmo do início do cadastro. **MUST HAVE**
+
 O usuário deve receber certas instruções antes de sua primeira viagem. **COULD HAVE** 
+
 O usuário deve ser notificado das zonas limites de estacionamento do veículo. **MUST HAVE**
 
 **STORYTELLING 07-** Por morar na capital do Brasil, Brasília, minha cidade é um dos pontos turísticos mais conhecidos. Não é raro encontrar gringos de diferentes lugares aqui, que buscam conhecer um pouco mais do Brasil além de São Paulo e Rio de Janeiro. Como opções de lazer eles podem visitar os museus, conhecer o lago paranoá, e agora com o novo aplicativo se tornou mais fácil dar um passeio de bicicleta no parque da cidade, um dos atrativos daqui! Entretanto, o aplicativo não colabora com as opções de idiomas, e isso complica um pouco a vida dos estrangeiros. Além de não apresentar opção de idioma, o aplicativo não segue uma linguagem só: acessando ele, você passa por uma tela em português, outra em espanhol e outra em inglês! Embora seja um ótimo aplicativo, isso dificulta um pouco sua acessibilidade...
 
 #### Requisitos
 O aplicativo deve fornecer alternativas de idiomas. **COULD HAVE**
+
 O aplicativo deve ser coerente quanto ao idioma escolhido. **MUST HAVE**
