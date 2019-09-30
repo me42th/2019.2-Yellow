@@ -1,8 +1,8 @@
 # Questionário
 
 #### PARTICIPANTE: Letícia Karla S. R. de Araújo.
-#### LOCAL: Remoto, via Google Forms.
-#### DATA/HORA: 24 de Setembro de 2019 à 29 de Setembro de 2019.
+##### LOCAL: Remoto, via Google Forms.
+##### DATA/HORA: 24 de Setembro de 2019 à 29 de Setembro de 2019.
 
 #### A técnica de questionário teve como enfoque coletar dados, via formulário online, dos usuários de forma que auxiliasse traçar estrategicamente objetivos para levantar requisitos funcionais e não funcionais do aplicativo Yellow. 
 
