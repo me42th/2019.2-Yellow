@@ -1,9 +1,9 @@
 #Brainstorm
 ### Histórico de edições
-| Nome|O que fez|Quando| Onde|
-|-----|---------|------|
-| Todo o grupo | Criou o documento. | 29/08/2019 | hangouts|
-| Gabriela Lemos, Dâmaso Pereira e Lucas Gomes. | Reaplicaram a técnica | 23/09/2019 20h até 23h59 | hangouts |
+| Nome  | O que fez  | Quando  | Onde  |
+| ------------ | ------------ | ------------ | ------------ |
+| Todo o grupo  |  Criou o documento.  |  29/08/2019  | hangouts  |
+| Gabriela Lemos, Dâmaso Pereira e Lucas Gomes.   |  Reaplicaram a técnica | 23/09/2019 20h até 23h59   |  hangouts   |
 
 **TEMA INICIAL: **mobilidade urbana.
 
