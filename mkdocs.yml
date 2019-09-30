@@ -30,7 +30,9 @@ nav:
             - Prototipação: elicitacao/requisitos/prototipacao.md
             - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
             - Storyboard: elicitacao/requisitos/storyboard.md
-            - Storytelling v1: elicitacao/requisitos/storytelling_v1.md
+            - Storytelling:
+                - Storytelling v0: elicitacao/requisitos/storytelling_v0.md
+                - Storytelling v1: elicitacao/requisitos/storytelling_v1.md
             - Questionário: elicitacao/requisitos/questionario.md
         - Priorização:
             - MoSCoW: elicitacao/priorizacao/moscow.md
