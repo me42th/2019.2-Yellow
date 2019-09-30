@@ -86,13 +86,13 @@
 |Eduardo|"Não".|
 |Maria Clara|"Não".|
 |Pedro|"Não".|
-### Educação no trânsito
+###Educação no trânsito
 ![EducacaoEntrevista](../../img/elicitacao/entrevista/EducacaoEntrevista.png)
-### Compartilhamento de Crédito
+###Compartilhamento de Crédito
 ![CompCreditoEntrevista](../../img/elicitacao/entrevista/CompCreditoEntrevista.png)
-### Pagamento de Boletos Bancários
+###Pagamento de Boletos Bancários
 ![BolBancarioEntrevista](../../img/elicitacao/entrevista/BolBancarioEntrevista.png)
-### Indicação
+###Indicação
 ![IndicacaoEntrevista](../../img/elicitacao/entrevista/IndicacaoEntrevista.png)
 
 ### Conclusão
