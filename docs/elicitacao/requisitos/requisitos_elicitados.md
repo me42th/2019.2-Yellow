@@ -6,6 +6,7 @@
 | Pedro, Dâmaso, Letícia | Criaram o documento. | 29/08/2019 |
 | Gabriela, Dâmaso, Lucas | Alteraram e adicionaram alguns requisitos funcionais e não-funcionais baseados no novo brainstorming. | 23/09/2019 |
 | Pedro | Adicionou mais alguns requisitos funcionais e não-funcionais baseado no brainstorming criado por parte do grupo. | 26/09/2019 |
+| Lucas | Adicionou dois requisitos não-funcionais elicitados com a técnica de prototipação. | 29/09/2019 |
 
 A partir do brainstorm elaborado foi possível elicitar alguns requisitos sendo eles funcionais e não funcionais.
 
@@ -39,3 +40,5 @@ A partir do brainstorm elaborado foi possível elicitar alguns requisitos sendo 
 | <b>RNF007</b> | A aplicação deve promover descontos e promoções a públicos determinados. (estudantes, servidores públicos, usuários de determinada empresa, etc..) | Média |
 | <b>RNF008</b> | Os avisos sobre os gastos devem ser feitos de forma prévia, de forma que o usuário possa parar de utilizar antes de ser cobrado uma quantia indevida. | Alta |
 | <b>RNF009</b> | Os códigos promocionais devem funcionar tanto com formatos de descontos, como também em créditos para utilização imediata. | Média |
+| <b>RNF010</b> | A aplicação deve ter permissão para usar a câmera do dispositivo móvel. | Alta |
+| <b>RNF011</b> | O mapa deve possuir um tamanho que facilite a visualização da localização dos veículos. | Alta |
