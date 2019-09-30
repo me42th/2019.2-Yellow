@@ -7,6 +7,7 @@
 | Gabriela, Dâmaso, Lucas | Alteraram e adicionaram alguns requisitos funcionais e não-funcionais baseados no novo brainstorming. | 23/09/2019 |
 | Pedro | Adicionou mais alguns requisitos funcionais e não-funcionais baseado no brainstorming criado por parte do grupo. | 26/09/2019 |
 | Lucas | Adicionou dois requisitos não-funcionais elicitados com a técnica de prototipação. | 29/09/2019 |
+| Lucas | Adicionou dois requisitos funcionais e não-funcionais baseado na técnica de análise de discurso. | 29/09/2019 |
 
 A partir do brainstorm elaborado foi possível elicitar alguns requisitos sendo eles funcionais e não funcionais.
 
@@ -25,6 +26,7 @@ A partir do brainstorm elaborado foi possível elicitar alguns requisitos sendo 
 | <b>RF008</b> | O sistema tem que informar ao usuário sobre o seu uso, e os seus gastos.  | Alta | <b>RF003.</b>|
 | <b>RF009</b> | A aplicação deveria ter integração com bancos digitais de forma que facilite a inserção de crédito. | Alta| <b>RF003.</b>|
 | <b>RF010</b> | O sistema poderia disponibilizar códigos e cupons promocionais. | Média | <b>RF003.</b>|
+| <b>RNF011</b> | A aplicação deve disponibilizar um local para os usuários relatarem defeitos nos veículos. | Média | <b>RF001, RF002.</b>|
 
 
 ## Requisitos Não Funcionais
@@ -42,3 +44,4 @@ A partir do brainstorm elaborado foi possível elicitar alguns requisitos sendo 
 | <b>RNF009</b> | Os códigos promocionais devem funcionar tanto com formatos de descontos, como também em créditos para utilização imediata. | Média |
 | <b>RNF010</b> | A aplicação deve ter permissão para usar a câmera do dispositivo móvel. | Alta |
 | <b>RNF011</b> | O mapa deve possuir um tamanho que facilite a visualização da localização dos veículos. | Alta |
+| <b>RNF012</b> | A aplicação deve se certificar que o usuário é mais de 18 anos. | Média |
