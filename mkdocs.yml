@@ -17,11 +17,19 @@ nav:
         - Rich Picture: pre_rastreabilidade/rich_picture.md
     - Elicitação:
         - Requisitos:
+            - 5W2H:
+                - 5W2H v0: elicitacao/requisitos/5w2h_v0.md
+                - 5W2H v1: elicitacao/requisitos/5w2h_v1.md
+            - Análise de Discurso: elicitacao/requisitos/analise_discurso.md
+            - Análise de Protócolo: elicitacao/requisitos/analise_protocolo.md
             - Brainstorm: elicitacao/requisitos/brainstorm.md
-            - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
-            - 5W2H: elicitacao/requisitos/5w2h.md
-            - Introspecção: elicitacao/requisitos/introspeccao.md
             - Entrevista: elicitacao/requisitos/entrevista.md
+            - Introspecção: elicitacao/requisitos/introspeccao.md
+            - Prototipação: elicitacao/requisitos/prototipacao.md
+            - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
+            - Storyboard: elicitacao/requisitos/storyboard.md
+            - Storytelling v1: elicitacao/requisitos/storytelling_v1.md
+            - Questionário: elicitacao/requisitos/questionario.md
         - Priorização:
             - MoSCoW: elicitacao/priorizacao/moscow.md
             - First Things First: elicitacao/priorizacao/first_things_first.md
