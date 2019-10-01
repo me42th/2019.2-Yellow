@@ -16,6 +16,8 @@ nav:
     - Pré-rastreabilidade:
         - Rich Picture: pre_rastreabilidade/rich_picture.md
     - Elicitação:
+        - Modelagem:
+            - Cenários: elicitacao/modelagem/cenarios.md 
         - Requisitos:
             - 5W2H:
                 - 5W2H v0: elicitacao/requisitos/5w2h_v0.md
