@@ -42,10 +42,10 @@ nav:
             - First Things First: elicitacao/priorizacao/first_things_first.md
             - QFD-House of Quality: elicitacao/priorizacao/qfd.md
             
-        - Modelagem:
-            - Ágil: modelagem/agil.md
-            - Cenários: modelagem/cenarios.md
-            - Léxicos: modelagem/lexicos.md
+    - Modelagem:
+        - Ágil: modelagem/agil.md
+        - Cenários: modelagem/cenarios.md
+        - Léxicos: modelagem/lexicos.md
 
 
 theme:
