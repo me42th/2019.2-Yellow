@@ -4,17 +4,21 @@
 | Nome|O que fez|Quando|
 |-----|---------|------|
 | Pedro Igor | Criou o documento. | 30/09/2019 |
+| Pedro Igor | Adicionou mais detalhes aos cenários. | 30/09/2019 |
 
 <br>
 
 ****
-Cenário 001
+Utilização da Yellow - Lazer
 ****
-Título: Utilização da Yellow
 
-Objetivo: Descrever funcionamento
+Objetivo: Utilizar uma bicicleta para lazer.
 
-Contexto: Passeio no parque
+Contexto:<br>
+- Local Físico: Parque
+- Local: Tela inicial
+- Tempo: Qualquer momento
+- Pré-condição: Estar logado e ter créditos na conta
 
 Atores: Usuário em momento de lazer
 
@@ -27,14 +31,22 @@ Episódios: <br>
 - Utiliza a bicicleta para se divertir<br>
 - Bloqueia novamente a bicicleta<br>
 
-****
-Cenário 002
-****
-Título: Utilização da Yellow
+Restrições: Usuário está restrito a escolher uma bicicleta dentre as disponibilizadas.<br>
 
-Objetivo: Descrever funcionamento
+Excessões: Não encontrar bicicleta disponível, bicicleta disponível com defeito.<br>
 
-Contexto: Transporte para o trabalho
+****
+Utilização da Yellow - Trabalho
+****
+Título: 
+
+Objetivo: Utilizar uma bicicleta para o transporte para o trabalho.
+
+Contexto:<br>
+- Local Físico: Residência do usuário, parada de ônibus, estação de metrô
+- Local: Tela inicial
+- Tempo: Qualquer momento
+- Pré-condição: Estar logado e ter créditos na conta
 
 Atores: Usuário indo trabalhar
 
@@ -48,13 +60,16 @@ Episódios: <br>
 - Bloqueia novamente a bicicleta<br>
 
 ****
-Cenário 003
+Utilização da Yellow - Transporte até Faculdade
 ****
-Título: Utilização da Yellow
 
-Objetivo: Descrever funcionamento
+Objetivo: Utilizar uma bicicleta para o transporte até a faculdade.
 
-Contexto: Transporte para a faculdade
+Contexto:<br>
+- Local Físico: Residência do usuário, parada de ônibus, estação de metrô
+- Local: Tela inicial
+- Tempo: Qualquer momento
+- Pré-condição: Estar logado e ter créditos na conta
 
 Atores: Usuário indo para a faculdade
 
@@ -66,6 +81,25 @@ Episódios: <br>
 - Ao encontrar uma bicicleta desbloqueia e aluga<br>
 - Utiliza a bicicleta para se locomover até a faculdade<br>
 - Após utilização bloqueia novamente<br>
+
+
+****
+Utilização da Yellow - Transporte entre prédios da faculdade
+****
+
+Objetivo: Utilizar uma bicicleta para o transporte entre prédios da faculdade.
+
+Contexto:<br>
+- Local Físico: Prédio da faculdade<br>
+- Local: Tela inicial<br>
+- Tempo: Qualquer momento<br>
+- Pré-condição: Estar logado e ter créditos na conta<br>
+
+Atores: Usuário se locomovendo pela faculdade
+
+Recursos: Smartphone
+
+Episódios: <br>
 - Usuário precisa de uma bicicleta para se locomover entre os prédios da universidade<br>
 - Usuário utiliza o smartphone para procurar uma bicicleta<br>
 - Ao encontrar uma bicicleta desbloqueia e aluga<br>
