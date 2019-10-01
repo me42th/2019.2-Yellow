@@ -43,6 +43,7 @@ nav:
     - Modelagem:
         - Ágil: modelagem/agil.md
         - Gestão de Qualidade Total: modelagem/gestaoqualidade.md
+        - Casos de Uso: casosDeUso.md
 
 theme:
   palette:
