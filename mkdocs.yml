@@ -16,6 +16,7 @@ nav:
     - Pré-rastreabilidade:
         - Rich Picture: pre_rastreabilidade/rich_picture.md
     - Elicitação:
+         
         - Requisitos:
             - 5W2H:
                 - 5W2H v0: elicitacao/requisitos/5w2h_v0.md
@@ -40,10 +41,15 @@ nav:
             - MoSCoW: elicitacao/priorizacao/moscow.md
             - First Things First: elicitacao/priorizacao/first_things_first.md
             - QFD-House of Quality: elicitacao/priorizacao/qfd.md
+            
     - Modelagem:
         - Ágil: modelagem/agil.md
+        - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Gestão de Qualidade Total: modelagem/gestaoqualidade.md
-        - Casos de Uso: casosDeUso.md
+        - Casos de Uso: modelagem/casosDeUso.md
+        - Cenários: modelagem/cenarios.md
+        - Léxicos: modelagem/lexicos.md
+
 
 theme:
   palette:
