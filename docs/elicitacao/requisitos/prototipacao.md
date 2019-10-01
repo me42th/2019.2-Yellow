@@ -8,24 +8,24 @@
 
 ## Protótipo
 * ### Tela inicial
-![Tela inicial](/img/elicitacao/requisitos/prototipacao/TelaInicial.png)
+![Tela inicial](/img/elicitacao/requisitos/prototipacao/tela_inicial.png)
 
 
 * ### Crie a sua conta
-![Crie a sua conta](/img/elicitacao/requisitos/prototipacao/CriarConta.png)
+![Crie a sua conta](/img/elicitacao/requisitos/prototipacao/criar_conta.png)
 
 
 * ### Após login
-![Após login](/img/elicitacao/requisitos/prototipacao/Interno.png)
+![Após login](/img/elicitacao/requisitos/prototipacao/interno.png)
 
 * ### Carteira
-![Carteira](/img/elicitacao/requisitos/prototipacao/Carteira.png)
+![Carteira](/img/elicitacao/requisitos/prototipacao/carteira.png)
 
 * ### Adicionar cŕedito
-![Adicionar cŕedito](/img/elicitacao/requisitos/prototipacao/AdicionarCredito.png)
+![Adicionar cŕedito](/img/elicitacao/requisitos/prototipacao/adicionar_credito.png)
 
 * ### Desbloquear veículo
-![Desbloquear veículo](/img/elicitacao/requisitos/prototipacao/Camera.png)
+![Desbloquear veículo](/img/elicitacao/requisitos/prototipacao/camera.png)
 
 
 ## Desenvolvimento do protótipo

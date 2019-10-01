@@ -7,7 +7,7 @@
 ## Fluxograma
 #### O fluxograma é uma ferramenta da qualidade utilizada para representar a sequência e interação das atividades do processo por meio de símbolos gráficos. Os símbolos proporcionam uma melhor visualização do funcionamento do processo, ajudando no seu entendimento e tornando a descrição do processo mais visual e intuitiva.
 
-![FluxogramaGQ](/img/modelagem/gestaoqualidade/FluxogramaGQ.png)
+![FluxogramaGQ](/img/modelagem/gestaoqualidade/fluxograma.png)
 
 ## Diagrama Ishikawa (Espinha de Peixe)
 #### Diagrama de Ishikawa para o problema de desempenho do app. Causas dos problemas:
@@ -17,7 +17,7 @@
 
 #### Tendo em vista os problemas citados, foi criado o diagrama abaixo:
 
-![EspinhaPeixeGQ](/img/modelagem/gestaoqualidade/EspinhaPeixeGQ.png)
+![EspinhaPeixeGQ](/img/modelagem/gestaoqualidade/espinha_de_peixe.png)
 
 ## Folha de Verificação
 #### Com o intuito de guiar o usuário para a utilização correta da aplicação é possível utilizar a folha de verificação que se trata de um check-list a ser cumprido pelo usuário.
@@ -57,24 +57,24 @@
 * Muito caro: 5.
 * Problema no desempenho do app: 8.
 
-![TblParetoGQ](/img/modelagem/gestaoqualidade/TblParetoGQ.png)
+![TblParetoGQ](/img/modelagem/gestaoqualidade/tabela_de_pareto.png)
 
-![GraficoParetoGQ](/img/modelagem/gestaoqualidade/GraficoParetoGQ.png)
+![GraficoParetoGQ](/img/modelagem/gestaoqualidade/grafico_de_pareto.png)
 
 ## Histograma
 #### O histograma é usado para analisar a frequência de vezes que as saídas de um processo estão padronizadas, atendendo aos requisitos estabelecidos e qual a variação que elas sofrem. No caso do abaixo analisaremos os problemas estudados no aplicativo Yellow. Com os dados dispostos graficamente, o Histograma permite a análise de evidências para a tomada de decisão da variação de frequências de maneira visual facilmente.
 
-![HistogramaGQ](/img/modelagem/gestaoqualidade/HistogramaGQ.png)
+![HistogramaGQ](/img/modelagem/gestaoqualidade/histograma.png)
 
 ## Diagrama de Dispersão
 #### O diagrama de dispersão é uma representação gráfica da possível relação entre duas variáveis e, dessa forma, mostra de forma gráfica os pares de dados numéricos e sua relação. Utilizado na técnica para validar se determinada variável independente analisada tem impacto real em determinada variável dependente. Dessa forma é possível identificar possíveis raízes de problemas. 
 
-![DiagramaDeDispersaoGQ](/img/modelagem/gestaoqualidade/DiagramaDeDispersaoGQ.png)
+![DiagramaDeDispersaoGQ](/img/modelagem/gestaoqualidade/diagrama_de_dispersao.png)
 
 ## Controle Estatístico de Processo (CEP)
 #### Os gráficos de controle ou cartas de controle  fornecem auxílio para tomada de decisão, no gráfico os pontos dispostos fora dos limites de controle indicam que o processo está “fora de controle”. Se todos os pontos dispostos estão dentro dos limites e dispostos de forma aleatória, consideramos que “não existem evidências de que o processo esteja fora de controle".
 
-![CartaControleGQ](/img/modelagem/gestaoqualidade/CartaControleGQ.png)
+![CartaControleGQ](/img/modelagem/gestaoqualidade/carta_de_controle.png)
 
 ## Fonte de Pesquisa
 * [Reclame aqui](https://www.reclameaqui.com.br/empresa/yellow_292088).
