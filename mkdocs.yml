@@ -44,12 +44,12 @@ nav:
             - First Things First: elicitacao/priorizacao/first_things_first.md
             - QFD-House of Quality: elicitacao/priorizacao/qfd.md
 
-        - Modelagem:
-            - Ágil: modelagem/agil.md
-            - Casos de Uso: modelagem/casosDeUso.md
-            - Cenários: modelagem/cenarios.md
-            - Especificação Suplementar: modelagem/especificacao_suplementar.md
-            - Léxicos: modelagem/lexicos.md
+    - Modelagem:
+        - Ágil: modelagem/agil.md
+        - Casos de Uso: modelagem/casosDeUso.md
+        - Cenários: modelagem/cenarios.md
+        - Especificação Suplementar: modelagem/especificacao_suplementar.md
+        - Léxicos: modelagem/lexicos.md
 
 
 theme:
