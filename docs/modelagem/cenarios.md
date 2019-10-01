@@ -8,6 +8,11 @@
 
 <br>
 
+
+## Sobre Cenários
+Cenários são utilizados para o desenvolvimento de possibilidades de utilização de determinado produto. Sendo assim, são definidas características de cenários reais para a imaginação de algo atualmente imaginável porém de possível execução. É definido um objetivo que comumente é a realização de uma tarefa disponível, logo em seguida são descritos características como contexto, atores participantes, recursos necessários, cenas deste cenário, restrições aos participantes das cenas assim como excessões que possam interromper o cumprimento do objetivo inicial.
+
+
 ****
 Utilização da Yellow - Lazer
 ****
