@@ -7,13 +7,13 @@
 #### A técnica de entrevista teve como enfoque coletar dados pessoalmente dos usuários, de forma que auxiliasse traçar estrategicamente objetivos para levantar requisitos funcionais e não funcionais do aplicativo Yellow. 
 
 ### Local de Entrevista
-![LocalEntrevista](/img/elicitacao/requisitos/entrevista/LocalEntrevista.png)
+![LocalEntrevista](/img/elicitacao/requisitos/entrevista/local_entrevista.png)
 ### Idades
-![IdadeEntrevista](/img/elicitacao/requisitos/entrevista/IdadeEntrevista.png)
+![IdadeEntrevista](/img/elicitacao/requisitos/entrevista/idade_entrevista.png)
 ### Sexo
-![SexoEntrevista](/img/elicitacao/requisitos/entrevista/SexoEntrevista.png)
+![SexoEntrevista](/img/elicitacao/requisitos/entrevista/sexo_entrevista.png)
 ### Tempo como usuário
-![TempoEntrevista](/img/elicitacao/requisitos/entrevista/TempoEntrevista.png)
+![TempoEntrevista](/img/elicitacao/requisitos/entrevista/tempo_entrevista.png)
 ### Motivo da Utilização
 | Nome|Opinião|
 |-----|---------|
@@ -46,21 +46,21 @@
 |Pedro|"Para ir em lugares mais longes de onde eu moro".|
 
 ### Valor Cobrado
-![ValorCobradoEntrevista](/img/elicitacao/requisitos/entrevista/ValorCobradoEntrevista.png)
+![ValorCobradoEntrevista](/img/elicitacao/requisitos/entrevista/valor_cobrado_entrevista.png)
 ### Atendimento Técnico
-![AssistTecnEntrevista](/img/elicitacao/requisitos/entrevista/AssistTecnEntrevista.png)
+![AssistTecnEntrevista](/img/elicitacao/requisitos/entrevista/assistencia_tecnica_entrevista.png)
 ### Uso +Bike
-![UsoBike](/img/elicitacao/requisitos/entrevista/UsoBike.png)
+![UsoBike](/img/elicitacao/requisitos/entrevista/uso_bike.png)
 ### +Bike ou Yellow?
-![PreferenciaEntrevista](/img/elicitacao/requisitos/entrevista/PreferenciaEntrevista.png)
+![PreferenciaEntrevista](/img/elicitacao/requisitos/entrevista/preferencia_entrevista.png)
 ### Bicicleta ou Patinete?
-![PatineteOuBicicleta](/img/elicitacao/requisitos/entrevista/PatineteOuBicicleta.png)
+![PatineteOuBicicleta](/img/elicitacao/requisitos/entrevista/patinete_ou_bicicleta.png)
 ### Lazer ou Locomoção?
-![LocomocaoEntrevista](/img/elicitacao/requisitos/entrevista/LocomocaoEntrevista.png)
+![LocomocaoEntrevista](/img/elicitacao/requisitos/entrevista/locomocao_entrevista.png)
 ### Mais rápido?
-![RapidezEntrevista](/img/elicitacao/requisitos/entrevista/RapidezEntrevista.png)
+![RapidezEntrevista](/img/elicitacao/requisitos/entrevista/rapidez_entrevista.png)
 ### Mais econômico?
-![EconomiaEntrevista](/img/elicitacao/requisitos/entrevista/EconomiaEntrevista.png)
+![EconomiaEntrevista](/img/elicitacao/requisitos/entrevista/economia_entrevista.png)
 ### Necessidade de Assistência Técnica
 | Nome|Opinião|
 |-----|---------|
@@ -92,13 +92,13 @@
 |Pedro|"Não".|
 
 ###Educação no trânsito
-![EducacaoEntrevista](/img/elicitacao/requisitos/entrevista/EducacaoEntrevista.png)
+![EducacaoEntrevista](/img/elicitacao/requisitos/entrevista/educacao_entrevista.png)
 ###Compartilhamento de Crédito
-![CompCreditoEntrevista](/img/elicitacao/requisitos/entrevista/CompCreditoEntrevista.png)
+![CompCreditoEntrevista](/img/elicitacao/requisitos/entrevista/compartilhamento_de_credito_entrevista.png)
 ###Pagamento de Boletos Bancários
-![BolBancarioEntrevista](/img/elicitacao/requisitos/entrevista/BolBancarioEntrevista.png)
+![BolBancarioEntrevista](/img/elicitacao/requisitos/entrevista/boleto_bancario_entrevista.png)
 ###Indicação
-![IndicacaoEntrevista](/img/elicitacao/requisitos/entrevista/IndicacaoEntrevista.png)
+![IndicacaoEntrevista](/img/elicitacao/requisitos/entrevista/indicacao_entrevista.png)
 
 ### Conclusão
 
