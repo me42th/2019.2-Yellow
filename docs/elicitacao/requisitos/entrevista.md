@@ -90,6 +90,7 @@
 |Eduardo|"Não".|
 |Maria Clara|"Não".|
 |Pedro|"Não".|
+
 ###Educação no trânsito
 ![EducacaoEntrevista](/img/elicitacao/requisitos/entrevista/EducacaoEntrevista.png)
 ###Compartilhamento de Crédito
