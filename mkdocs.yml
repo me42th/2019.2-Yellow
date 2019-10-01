@@ -42,6 +42,7 @@ nav:
             - QFD-House of Quality: elicitacao/priorizacao/qfd.md
     - Modelagem:
         - Ágil: modelagem/agil.md
+        - Gestão de Qualidade Total: modelagem/gestaoqualidade.md
 
 theme:
   palette:
