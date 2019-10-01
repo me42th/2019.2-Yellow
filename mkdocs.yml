@@ -44,9 +44,9 @@ nav:
             
     - Modelagem:
         - Ágil: modelagem/agil.md
+        - Gestão de Qualidade Total: modelagem/gestaoqualidade.md
         - Cenários: modelagem/cenarios.md
         - Léxicos: modelagem/lexicos.md
-
 
 theme:
   palette:

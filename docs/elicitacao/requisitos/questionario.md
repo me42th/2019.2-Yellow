@@ -6,6 +6,7 @@
 
 #### A técnica de questionário teve como enfoque coletar dados, via formulário online, dos usuários de forma que auxiliasse traçar estrategicamente objetivos para levantar requisitos funcionais e não funcionais do aplicativo Yellow. 
 
+
 ### Usuário da Yellow?
 ![UtilizacaoQuestionario.png](../../img/elicitacao/questionario/UtilizacaoQuestionario.png)
 ### Sexo
