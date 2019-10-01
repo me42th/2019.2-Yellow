@@ -46,8 +46,10 @@ nav:
         - Ágil: modelagem/agil.md
         - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Gestão de Qualidade Total: modelagem/gestaoqualidade.md
+        - Casos de Uso: modelagem/casosDeUso.md
         - Cenários: modelagem/cenarios.md
         - Léxicos: modelagem/lexicos.md
+
 
 theme:
   palette:
