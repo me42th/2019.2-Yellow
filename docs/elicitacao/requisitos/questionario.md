@@ -7,17 +7,17 @@
 #### A técnica de questionário teve como enfoque coletar dados, via formulário online, dos usuários de forma que auxiliasse traçar estrategicamente objetivos para levantar requisitos funcionais e não funcionais do aplicativo Yellow. 
 
 ### Usuário da Yellow?
-![UtilizacaoQuestionario.png](../../img/elicitacao/questionario/UtilizacaoQuestionario.png)
+![UtilizacaoQuestionario.png](/img/elicitacao/requisitos/questionario/UtilizacaoQuestionario.png)
 ### Sexo
-![SexoQuestionario](../../img/elicitacao/questionario/SexoQuestionario.png)
+![SexoQuestionario](/img/elicitacao/requisitos/questionario/SexoQuestionario.png)
 ### Idade
-![IdadeQuestionario](../../img/elicitacao/questionario/IdadeQuestionario.png)
+![IdadeQuestionario](/img/elicitacao/requisitos/questionario/IdadeQuestionario.png)
 ### Meio de transporte utilizado
-![TransporteQuestionario](../../img/elicitacao/questionario/TransporteQuestionario.png)
+![TransporteQuestionario](/img/elicitacao/requisitos/questionario/TransporteQuestionario.png)
 ### Dificuldade de utilizar
-![DificuldadeQuestionario](../../img/elicitacao/questionario/DificuldadeQuestionario.png)
+![DificuldadeQuestionario](/img/elicitacao/requisitos/questionario/DificuldadeQuestionario.png)
 ### Instruções
-![nstrucoesQuestionario](../../img/elicitacao/questionario/InstrucoesQuestionario.png)
+![nstrucoesQuestionario](/img/elicitacao/requisitos/questionario/InstrucoesQuestionario.png)
 ### Opiniões sobre a opção de Compartilhar Crédito
 * "Excelente".
 * "Nem sabia que existia".
@@ -42,19 +42,19 @@
 * "Ainda não usei".
 
 ### Já enfretou problemas no aplicativo?
-![ProblemasQuestionario](../../img/elicitacao/questionario/ProblemasQuestionario.png)
+![ProblemasQuestionario](/img/elicitacao/requisitos/questionario/ProblemasQuestionario.png)
 
 ### Tipos de problema Financeiro 
-![ProbFinQuestionario](../../img/elicitacao/questionario/ProbFinQuestionario.png)
+![ProbFinQuestionario](/img/elicitacao/requisitos/questionario/ProbFinQuestionario.png)
 
 ### Ajuda
-![AjudaQuestionário](../../img/elicitacao/questionario/AjudaQuestionário.png)
+![AjudaQuestionário](/img/elicitacao/requisitos/questionario/AjudaQuestionário.png)
 
 ### Tipos de problemas técnicos
-![TiposProbTecQuestionarios](../../img/elicitacao/questionario/TiposProbTecQuestionarios.png)
+![TiposProbTecQuestionarios](/img/elicitacao/requisitos/questionario/TiposProbTecQuestionarios.png)
 
 ### Motivo da não utilização
-![MotivoNaoUtilizarQuestionario](../../img/elicitacao/questionario/MotivoNaoUtilizarQuestionario.png)
+![MotivoNaoUtilizarQuestionario](/img/elicitacao/requisitos/questionario/MotivoNaoUtilizarQuestionario.png)
 
 ### Conclusão
 
