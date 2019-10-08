@@ -5,6 +5,7 @@
 |-----|---------|------|
 | Pedro Igor | Criou o documento. | 30/09/2019 |
 | Pedro Igor | Adicionou mais detalhes aos cenários. | 30/09/2019 |
+| Pedro Igor | Adicionou cenários para a tela "Meu saldo". | 08/10/2019 |
 
 <br>
 
@@ -148,6 +149,85 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Restrições:</b> Usuário está restrito a pagar algum tipo de conta ou serviço.<br>
 
 <b>Excessões:</b> Erro na conexão com a internet. Bug no app que não mostra o conteúdo a ser mostrado.<br>
+
+
+****
+### <b>Recarga de celular</b>
+****
+
+<b>Objetivo:</b> Recarregar número de celular.
+
+<b>Contexto:</b><br><br>
+- <b>Local:</b> Tela "Meu Saldo".<br>
+- <b>Tempo:</b> Qualquer momento.<br>
+- <b>Pré-condição:</b> Estar logado. Ter crédito suficiente para uma recarga de celular.<br>
+
+<b>Atores:</b> Usuário.
+
+<b>Recursos:</b> Smartphone.
+
+<b>Episódios:</b> <br>
+- Usuário abre o aplicativo e clica em "Meu saldo".<br>
+- Usuário navega até "Recargas de celular e planos" e seleciona uma operadora.<br>
+- Usuário informa um número de celular para que seja realizado o serviço.<br>
+- Usuário seleciona o valor da recarga e clica em "Próximo".<br>
+- Usuário confirma o pagamento com o saldo na Yellow.<br>
+
+<b>Restrições:</b> Usuário está restrito a fazer recargas nas operadoras disponíveis, restrito ao valor máximo de crédito disponível na conta.<br>
+
+<b>Excessões:</b> Erro na conexão com a internet.<br>
+
+
+****
+### <b>Transferir crédito</b>
+****
+
+<b>Objetivo:</b> Transferir créditos entre contas.
+
+<b>Contexto:</b><br><br>
+- <b>Local:</b> Tela "Meu Saldo".<br>
+- <b>Tempo:</b> Qualquer momento.<br>
+- <b>Pré-condição:</b> Ambos os usuários estarem logados. Ter crédito em uma das contas.<br>
+
+<b>Atores:</b> Dois usuários.
+
+<b>Recursos:</b> Smartphone.
+
+<b>Episódios:</b> <br>
+- Usuário abre o aplicativo e clica em "Meu saldo".<br>
+- Usuário navega até "Transferir dinheiro" e clica em "Enviar ou receber com QR".<br>
+- Usuário informa o valor a ser recebido ou enviado.<br>
+- Usuário prossegue e é gerado um QR Code para que seja feito o envio/recepção do crédito.<br>
+
+<b>Restrições:</b> Usuário está restrito a enviar o crédito disponível na conta.<br>
+
+<b>Excessões:</b> Erro na conexão com a internet.<br>
+
+
+****
+### <b>Adicionar crédito</b>
+****
+
+<b>Objetivo:</b> Adicionar crédito a conta.
+
+<b>Contexto:</b><br><br>
+- <b>Local:</b> Tela "Meu Saldo".<br>
+- <b>Tempo:</b> Qualquer momento.<br>
+- <b>Pré-condição:</b> Estar logado.<br>
+
+<b>Atores:</b> Usuário.
+
+<b>Recursos:</b> Smartphone, dinheiro para ser inserido na conta.
+
+<b>Episódios:</b> <br>
+- Usuário abre o aplicativo e clica em "Meu saldo" ou clica em "Adicionar crédito" na tela inicial.<br>
+- Usuário seleciona "Adicionar crédito".<br>
+- Usuário seleciona o valor ser inserido e a forma de pagamento.<br>
+- Usuário confirma a compra de crédito.<br>
+
+<b>Restrições:</b> Usuário está restrito inserir as quantidades disponíveis.<br>
+
+<b>Excessões:</b> Erro na conexão com a internet. Boleto vencer.<br>
 
 
 
