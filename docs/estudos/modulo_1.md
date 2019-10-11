@@ -3,6 +3,10 @@
  * Engenharia de Software
 	- conceitos relevantes
 	- ciclo de vida
+ * Engenharia de Requisitos
+	- conceitos básicos
+	- requisitos funcionais e não funcionais
+	- atividades elementares
 
 * Processos de produção de produtos de software ainda bastante insatisfátorios. (orientado, meta)
 * A engenharia de Software se preocupa em impedir falhas causadas por esses sistemas ainda insatisfatórios, evoluindo cada vez mais tais processos.
@@ -38,6 +42,11 @@
 	* de suporte: visando, principalmente, monitoramento do desempenho do software.
 	
 * O ideal pode ser inviável.
+
+---------------------------------------------------------------------------------------
+* Engenharia de Requisitos: disciplina que procura sistematizar o processo de definição de requisitos, necessária uma vez que a complexidade dos sistemas exige mais atenção ao correto entendimento do problema, antes de pensar na solução. Assim, faz parte da fase inicial dos projetos. ~~Difere de um processo ad hoc~~
+* Quanto mais nos distanciamos da definição do produto e nos aproximamos de um produto concreto, mais custoso será corrigir problemas bem como adicionar novas funcionalidades.
+// 8/56 
 ## SWEBOK
 
 ## ATIVIDADES
