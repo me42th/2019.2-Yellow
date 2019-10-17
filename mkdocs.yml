@@ -47,8 +47,10 @@ nav:
             - QFD-House of Quality: elicitacao/priorizacao/qfd.md
 
     - Modelagem:
-        - Ágil: modelagem/agil.md
-        - Casos de Uso: modelagem/casos_de_uso.md
+        - Ágil: 
+            - Ágil v1: modelagem/agil.md
+            - Ágil v2: modelagem/agil_v2.md
+        - Casos de Uso: modelagem/casosDeUso.md
         - Cenários: modelagem/cenarios.md
         - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Léxicos: modelagem/lexicos.md
