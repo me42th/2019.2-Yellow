@@ -22,8 +22,8 @@ A Yellow é uma aplicação de dispositivo móvel que visa facilitar o transport
 ### Referências
 - **Termos e condições gerais de uso das plataformas Grow**. Disponível em: https://www.yellow.app/termos-de-uso
 - **Site da Yellow** Disponível em: https://www.yellow.app/
-- **Projeto de Software Floricultura Beija-FlorEspecificação Suplementar** Disponível em: encurtador.com.br/cuCIO
-- **Especificação Suplementar – Sistema de Treinamento de Pilotos-STP**. Disponível em: encurtador.com.br/hq135
+- **Projeto de Software Floricultura Beija-FlorEspecificação Suplementar** Disponível em: https://bit.ly/2MoiQAu
+- **Especificação Suplementar – Sistema de Treinamento de Pilotos-STP**. Disponível em: https://ice.unifei.edu.br/ramos/SiteTpit/DocsSTP/Gloss%E1rioSTP.doc
 
 
 ### Visão geral
