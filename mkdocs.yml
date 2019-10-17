@@ -37,7 +37,9 @@ nav:
             - Storytelling:
                 - Storytelling v0: elicitacao/requisitos/storytelling_v0.md
                 - Storytelling v1: elicitacao/requisitos/storytelling_v1.md
-            - Requisitos Elicitados: elicitacao/requisitos/requisitos_elicitados.md
+            - Requisitos Elicitados: 
+                - Requisitos v1: elicitacao/requisitos/requisitos_elicitados/requisitos_elicitados_v1.md
+                - Requisitos v2: elicitacao/requisitos/requisitos_elicitados/requisitos_elicitados_v2.md
 
         - Priorização:
             - MoSCoW: elicitacao/priorizacao/moscow.md
