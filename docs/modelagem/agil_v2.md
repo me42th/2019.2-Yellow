@@ -68,22 +68,13 @@ Em suma, a técnica é bastante amigável para modelagem do sistema como um todo
     - **US30:** Eu, como usuário do sistema, desejo examinar a quantia de créditos que possuo na conta.<br>
 
 **EP04 - Usuário**
- -  **FE07: **Relação Usuário-Sistema
-
-    - **US35:** Eu, como usuário, desejo escolher entre possibilidades de login, Google entre Facebook.
-    
-    - **US36:** Eu, como usuário, desejo optar pela minha opção de idioma. 
-    
-    - **US37:** Eu, como usuário, desejo ser capaz de fazer login na aplicação.
-    
-    - **US38:** Eu, como usuário, desejo ser capaz de sair da atual conta em uso. 
-    
-    - **US39:** Eu, como usuário, quero ser capaz de contatar o suporte sem eventuais empecilhos. 
-    
-    - **US40:** Eu, como usuário, desejo ser capaz de contatar o suporte por mais de uma forma. 
-    
-    - **US41:** Eu, como usuário, quero ter acesso ao meu histórico de viagens. 
-    
-    - **US42:** Eu, como usuário, desejo que a verificação de cadastro seja flexível. 
-    
-    - **US43:** Eu, como usuário, quero ser capaz de compartilhar a minha viagem.
+  - **FE07: **Relação Usuário-Sistema<br>
+    - **US35:** Eu, como usuário, desejo escolher entre possibilidades de login, Google entre Facebook. <br>
+    - **US36:** Eu, como usuário, desejo optar pela minha opção de idioma. <br>
+    - **US37:** Eu, como usuário, desejo ser capaz de fazer login na aplicação. <br>
+    - **US38:** Eu, como usuário, desejo ser capaz de sair da atual conta em uso. <br>
+    - **US39:** Eu, como usuário, quero ser capaz de contatar o suporte sem eventuais empecilhos. <br>
+    - **US40:** Eu, como usuário, desejo ser capaz de contatar o suporte por mais de uma forma. <br>
+    - **US41:** Eu, como usuário, quero ter acesso ao meu histórico de viagens. <br>
+    - **US42:** Eu, como usuário, desejo que a verificação de cadastro seja flexível. <br>
+    - **US43:** Eu, como usuário, quero ser capaz de compartilhar a minha viagem. <br>
