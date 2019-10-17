@@ -31,7 +31,7 @@ Este documento apresenta uma introdução a aplicação Yellow. No decorrer dest
 
 Funcionalidade
 ===
-
+As funcionalidades referentes ao aplicativo Yellow, funcionais e não-funcionais, foram expostas nos Casos de Uso e nos [Requisitos elicitados](https://github.com/Requisitos-de-Software/2019.2-Yellow/blob/master/docs/elicitacao/requisitos/requisitos_elicitados.md) de acordo com as técnicas de elicitação.
 
 Usabilidade
 ===
