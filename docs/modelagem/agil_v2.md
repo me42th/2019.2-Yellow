@@ -71,11 +71,19 @@ Em suma, a técnica é bastante amigável para modelagem do sistema como um todo
  -  **FE07: **Relação Usuário-Sistema
 
     - **US35:** Eu, como usuário, desejo escolher entre possibilidades de login, Google entre Facebook.
+    
     - **US36:** Eu, como usuário, desejo optar pela minha opção de idioma. 
-**US37: **Eu, como usuário, desejo ser capaz de fazer login na aplicação.
-**US38: **Eu, como usuário, desejo ser capaz de sair da atual conta em uso. 
-**US39:** Eu, como usuário, quero ser capaz de contatar o suporte sem eventuais empecilhos. 
-**US40:** Eu, como usuário, desejo ser capaz de contatar o suporte por mais de uma forma. 
-**US41:** Eu, como usuário, quero ter acesso ao meu histórico de viagens. 
-**US42:** Eu, como usuário, desejo que a verificação de cadastro seja flexível. 
-**US43:** Eu, como usuário, quero ser capaz de compartilhar a minha viagem.
+    
+    - **US37:** Eu, como usuário, desejo ser capaz de fazer login na aplicação.
+    
+    - **US38:** Eu, como usuário, desejo ser capaz de sair da atual conta em uso. 
+    
+    - **US39:** Eu, como usuário, quero ser capaz de contatar o suporte sem eventuais empecilhos. 
+    
+    - **US40:** Eu, como usuário, desejo ser capaz de contatar o suporte por mais de uma forma. 
+    
+    - **US41:** Eu, como usuário, quero ter acesso ao meu histórico de viagens. 
+    
+    - **US42:** Eu, como usuário, desejo que a verificação de cadastro seja flexível. 
+    
+    - **US43:** Eu, como usuário, quero ser capaz de compartilhar a minha viagem.
