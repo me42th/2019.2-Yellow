@@ -50,10 +50,18 @@ nav:
         - Ágil: 
             - Ágil v1: modelagem/agil.md
             - Ágil v2: modelagem/agil_v2.md
-        - Casos de Uso: modelagem/casosDeUso.md
+        - Casos de Uso: modelagem/casos_de_uso.md
         - Cenários: modelagem/cenarios.md
         - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Léxicos: modelagem/lexicos.md
+        - NFR Framework: 
+            - NFR: modelagem/nfr_framework/nfr.md
+            - Confiabilidade: modelagem/nfr_framework/confiabilidade.md
+            - Desempenho: modelagem/nfr_framework/desempenho.md
+            - Geral: modelagem/nfr_framework/geral.md
+            - Interface: modelagem/nfr_framework/interface.md
+            - Usabilidade: modelagem/nfr_framework/usabilidade.md
+            
 
 
 theme:

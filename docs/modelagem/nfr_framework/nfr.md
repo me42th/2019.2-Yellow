@@ -1,0 +1,1 @@
+![](../../img/modelagem/nfr_framework/nfr.jpg)
