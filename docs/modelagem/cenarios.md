@@ -157,7 +157,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 <b>Objetivo:</b> Recarregar número de celular.
 
-<b>Contexto:</b><br><br>
+<b>Contexto:</b><br>
 - <b>Local:</b> Tela "Meu Saldo".<br>
 - <b>Tempo:</b> Qualquer momento.<br>
 - <b>Pré-condição:</b> Estar logado. Ter crédito suficiente para uma recarga de celular.<br>
@@ -184,7 +184,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 <b>Objetivo:</b> Transferir créditos entre contas.
 
-<b>Contexto:</b><br><br>
+<b>Contexto:</b><br>
 - <b>Local:</b> Tela "Meu Saldo".<br>
 - <b>Tempo:</b> Qualquer momento.<br>
 - <b>Pré-condição:</b> Ambos os usuários estarem logados. Ter crédito em uma das contas.<br>
@@ -210,7 +210,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 <b>Objetivo:</b> Adicionar crédito a conta.
 
-<b>Contexto:</b><br><br>
+<b>Contexto:</b><br>
 - <b>Local:</b> Tela "Meu Saldo".<br>
 - <b>Tempo:</b> Qualquer momento.<br>
 - <b>Pré-condição:</b> Estar logado.<br>
