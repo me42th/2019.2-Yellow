@@ -43,7 +43,9 @@ nav:
                 - Requisitos v3: elicitacao/requisitos/requisitos_elicitados/requisitos_elicitados_v3.md
 
         - Priorização:
-            - MoSCoW: elicitacao/priorizacao/moscow.md
+            - MoSCoW:
+              - MoSCoW_v1: elicitacao/priorizacao/moscow.md
+              - MoSCoW_v2: elicitacao/priorizacao/moscow_v2.md
             - First Things First: elicitacao/priorizacao/first_things_first.md
             - QFD-House of Quality: elicitacao/priorizacao/qfd.md
 
