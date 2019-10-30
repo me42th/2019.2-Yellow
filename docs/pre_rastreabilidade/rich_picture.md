@@ -3,6 +3,7 @@
 |-----|---------|------|
 | Pedro Igor e Lucas | Criou o documento e inseriu os primeiros RP. | 29/08/2019 |
 | Lucas e Gabriela | Atualizaram os RP. | 06/09/2019 |
+| Dâmaso Júnio | Criou a terceira versão do RichPicture | 30/10/2019 |
 
 ## Metodologia:
 
@@ -28,3 +29,7 @@ Segue o primeiro rich picture criado por um dos integrantes do grupo adicionado 
 ![RP2](/img/pre_rastreabilidade/rich_pictures/RichPicture_v2.png)
 
 <b>Segundo rich picture.</b> Elaborado pelo grupo após algumas considerações feitas pelo professor na primeira versão.<br><br>
+
+![RP3](/img/pre_rastreabilidade/rich_pictures/RichPicture_v3.png)
+
+<b>Terceira versão do Rich Picture.</b> Elaborado com o intuito de adicionar mais atores ao Rich Picture de acordo com as indicações dos monitore <br><br>
