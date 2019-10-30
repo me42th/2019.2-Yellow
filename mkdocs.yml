@@ -53,7 +53,9 @@ nav:
         - Ágil:
             - Ágil v1: modelagem/agil.md
             - Ágil v2: modelagem/agil_v2.md
-        - Casos de Uso: modelagem/casos_de_uso.md
+        - Casos de Uso:
+            - Casos de Uso v1: modelagem/casos_de_uso.md
+            - Casos de Uso v2: modelagem/casos_de_uso_v2.md
         - Cenários: modelagem/cenarios.md
         - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Léxicos: modelagem/lexicos.md
