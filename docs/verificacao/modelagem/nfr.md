@@ -105,7 +105,7 @@ Responsável pela correção	Versão	Rastreabilidade
 
 ### 7.1.Correção dos Critérios Especificos
 |Inspeção|Correção|
-|---||---|
+|---|---|
 |1||
 |2||
 |3||
