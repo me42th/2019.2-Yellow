@@ -86,7 +86,7 @@ A inspeção pôde ser realizada a partir da verificação e análise dos checkl
 |Você conseguiu entender, a partir do título, o que o modelo NFR Softgoal se trata?|||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|
 |Você conseguiu entender as metas/objetivos do NFR Softgoal?|||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|
 |Você conseguiu identificar os atores nos NFR Softgoal?|||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|
-|Você conseguiu entender os episódios descritos nos modelos NFR Softgoal?|||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|
+|Você conseguiu entender os episódios descritos nos modelos NFR Softgoal?||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>||
 
 ### 6.3. Qualidade exigida
 Neste tópico serão verificados a qualidade que se revelou a abordagem dos requisitos não funcionais na técnica.
