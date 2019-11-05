@@ -61,6 +61,10 @@ nav:
             - Geral: modelagem/nfr_framework/geral.md
             - Interface: modelagem/nfr_framework/interface.md
             - Usabilidade: modelagem/nfr_framework/usabilidade.md
+    - Análise:
+        - Verificação:
+            - Rich Picture: analise/verificacao/rich_picture.md
+        - Validação: analise/validacao/validacao.md
             
 
 
