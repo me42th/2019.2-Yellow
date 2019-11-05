@@ -63,12 +63,12 @@ nav:
             - Usabilidade: modelagem/nfr_framework/usabilidade.md
     - Análise:
         - Verificação:
-            - NFR: verificacao/modelagem/nfr.md
-            - Casos de Uso: verificacao/modelagem/casos_de_uso.md
-            - Especificação Suplementar: verificacao/modelagem/especificacao_suplementar.md
-            - Ágil: verificacao/modelagem/agil.md
-            - Cenários: verificacao/modelagem/cenarios.md
-            - Léxicos: verificacao/modelagem/lexicos.md
+            - NFR: analise/verificacao/nfr.md
+            - Casos de Uso: analise/verificacao/casos_de_uso.md
+            - Especificação Suplementar: analise/verificacao/especificacao_suplementar.md
+            - Ágil: analise/verificacao/agil.md
+            - Cenários: analise/verificacao/cenarios.md
+            - Léxicos: analise/verificacao/lexicos.md
             - Rich Picture: analise/verificacao/rich_picture.md
         - Validação: analise/validacao/validacao.md
 
