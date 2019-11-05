@@ -8,3 +8,8 @@ Email recebido:
 ![](../../img/analise/validacao/print_email_recebido.png)
 Tentativa de contato com o email solicitado:
 ![](../../img/analise/validacao/print_email_nao_enviado.png)
+
+## Referências
+Requisitos da aplicação Habitica - <https://requisitos-habitica.netlify.com/VerificacaoRP> Acesso em 05/11/2019
+HOWARD, Andrew Monk. Steve." The Rich Picture: A Tool for Reasoning About Work Context.
+Complexity and Rich Pictures. http://leadershipforchange.org.uk/wp-content/uploads/Complexity-and-rich-pictures.pdf.
