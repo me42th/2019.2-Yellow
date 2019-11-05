@@ -70,6 +70,14 @@ nav:
         - Verificação:
             - Ágil: analise/verificacao/inspecao_agil.md
             - Especificação Suplementar: verificao/especificacao_suplementar.md
+            - NFR: analise/verificacao/nfr.md
+            - Casos de Uso: analise/verificacao/casos_de_uso.md
+            - Especificação Suplementar: analise/verificacao/especificacao_suplementar.md
+            - Ágil: analise/verificacao/agil.md
+            - Cenários: analise/verificacao/cenarios.md
+            - Léxicos: analise/verificacao/lexicos.md
+            - Rich Picture: analise/verificacao/rich_picture.md
+        - Validação: analise/validacao/validacao.md
 
 theme:
   palette:
