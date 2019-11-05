@@ -79,8 +79,8 @@ A inspeção pôde ser realizada a partir da verificação e análise dos checkl
 |Os NFR Softgoal constituem critérios de qualidade / Requisitos Não Funcionais?||||
 
 ### 6.2. Checklist: critérios subjetivos
-|Regras|Consegui | Consegui com dificuldade|Não consegui|
-| ------------ | ------------ | ------------ | ------------ | ------------ |
+| Regras | Consegui | Consegui com dificuldade | Não consegui |
+| ------------ | ------------ | ------------ | ------------ |
 |Você conseguiu entender, a partir do título, o que o modelo NFR Softgoal se trata?||||
 |Você conseguiu entender as metas/objetivos do NFR Softgoal?||||
 |Você conseguiu identificar os atores nos NFR Softgoal?||||
@@ -92,7 +92,7 @@ A inspeção pôde ser realizada a partir da verificação e análise dos checkl
 * Qualidade Baixa: Reprovação em mais de 6 critérios
 
 |NFR Softgoal|Qualidade Alta|Qualidade Média|Qualidade Baixa|Qual critério não atende?|
-|-------|
+|-------|-------|-------|-------|-------|
 |NFR01|
 |NFR02|
 |NFR03|
@@ -105,24 +105,24 @@ Responsável pela correção	Versão	Rastreabilidade
 
 ### 7.1.Correção dos Critérios Especificos
 |Inspeção|Correção|
-|---|
-|1|
-|2|
-|3|
-|4|
-|5|
-|6|
+|---||---|
+|1||
+|2||
+|3||
+|4||
+|5||
+|6||
 
 * Na coluna de correção contem os links para as versões corrigidas.
 
 ### 7.2. Correção da Qualidade exigida
 
 |Inspeção|Correção|
-|--|
-|1|
-|2|
-|3|
-|4|
+|--|--|
+|1||
+|2||
+|3||
+|4||
 
 * Na coluna de correção contem os links para as versões corrigidas.
 
