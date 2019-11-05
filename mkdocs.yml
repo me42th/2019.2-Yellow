@@ -65,8 +65,14 @@ nav:
         - Verificação:
             - Rich Picture: analise/verificacao/rich_picture.md
         - Validação: analise/validacao/validacao.md
-            
-
+    - Validação:
+        - NFR: /verificacao/modelagem/nfr.md
+        - Casos de Uso: /verificacao/modelagem/casos_de_uso.md
+        - Especificação Suplementar: /verificacao/modelagem/especificacao_suplementar.md
+        - Ágil: /verificacao/modelagem/agil.md
+        - Cenários: /verificacao/modelagem/cenarios.md
+        - Léxicos: /verificacao/modelagem/lexicos.md
+        - RichPicture: /verificacao/pre-rastreabilidade/richpicture.md
 
 theme:
   palette:
