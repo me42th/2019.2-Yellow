@@ -87,6 +87,7 @@ A inspeção pôde ser realizada a partir da verificação e análise dos checkl
 |Você conseguiu entender os episódios descritos nos modelos NFR Softgoal?|||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|
 
 ### 6.3. Qualidade exigida
+Neste tópico serão verificados a qualidade que se revelou a abordagem dos requisitos não funcionais na técnica.
 * Qualidade Alta: Reprovação de 1 a 2 critérios 
 * Qualidade Média: Reprovação dentre 3 a 6 critérios
 * Qualidade Baixa: Reprovação em mais de 6 critérios
