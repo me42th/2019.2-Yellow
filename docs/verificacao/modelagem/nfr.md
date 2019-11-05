@@ -58,7 +58,7 @@ O processo de adoção dos critérios a serem observados neste documento foram i
 |Você entendeu os episódios descritos nos modelos NFR Softgoal?|
 
 ### 6. Inspeção
-A inspeção pôde ser realizada a partir da verificação e análise dos checklists desenvolvidos até então, que possuem suas modificações corretivas, para garantir que todos os critérios sejam cumpridos.
+A inspeção pôde ser realizada a partir da verificação e análise dos checklists desenvolvidos até então, que possuem suas modificações corretivas, para garantir que todos os critérios sejam cumpridos. Neste documento, será analisado o artefato [NFR 2.0](http://https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/devel/docs/modelagem/nfr_framework/nfr%202.0/NFR%202.0.jpg "NFR 2.0").
 
 ### 6.1. Checklist: critérios específicos
 
