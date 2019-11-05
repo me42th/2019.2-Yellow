@@ -27,7 +27,7 @@ Tópicos importantes a serem avaliados:
 Foi fundamental nesta etapa a devida preparação do integrante a respeito do processo de verificação. Assim, o integrante estaria ciente da importância da adoção de critérios, e de como eles são esboçados para o projeto. Após todos os critérios colhidos, foi realizada a técnica do check list.
 
 
-###5. Critérios
+### 5. Critérios
 O processo de adoção dos critérios a serem observados neste documento foram inspirados em grupos anteriores da disciplina que realizaram o mesmo projeto em aplicação diferentes. Assim, avaliaremos nossos artefatos com diferentes perspectivas. Caso necessário, será acrescentado pela equipe critérios que não foram abordados mas que consideremos como uma possível falha no nosso artefato.
 
 ### 5.1 Critérios específicos
