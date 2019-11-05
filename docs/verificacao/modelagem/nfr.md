@@ -77,7 +77,7 @@ A inspeção pôde ser realizada a partir da verificação e análise dos checkl
 |A notação está padronizada com o que manda a técnica?|Alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>| A notação não segue em todo os padrões da técnica, uma vez que muitas operações não podem ser vistas no modelo.|
 |Os NFR Softgoal constituem critérios de qualidade / Requisitos Não Funcionais?|Alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>| Não fica explícito na técnica de quais requisitos se tratam dos que foram previamente levantados.|
 |Softgoals condizem com o contexto?|Muito alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|Não é possível perceber o contexto, devido a não rastreabilidade dos requisitos.|
-|Softgoals são decompostos em níveis abstracionais maiores para níveis de menos abstração?||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/t.png" alt="drawing" width="25"/></center>|Alto||
+|Softgoals são decompostos em níveis abstracionais maiores para níveis de menos abstração?|Alto|<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/t.png" alt="drawing" width="25"/></center>|||
 
 ### 6.2. Checklist: critérios subjetivos
 | Regras | Consegui | Consegui com dificuldade | Não consegui |
