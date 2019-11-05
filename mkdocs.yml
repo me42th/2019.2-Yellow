@@ -69,8 +69,6 @@ nav:
     - Análise:
         - Verificação:
             - Ágil: analise/verificacao/inspecao_agil.md
-
-    - Verificação:
             - Especificação Suplementar: verificao/especificacao_suplementar.md
 
 theme:
