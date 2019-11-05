@@ -66,6 +66,9 @@ nav:
             - Geral: modelagem/nfr_framework/geral.md
             - Interface: modelagem/nfr_framework/interface.md
             - Usabilidade: modelagem/nfr_framework/usabilidade.md
+    - Análise:
+        - Verificação:
+            - Ágil: analise/inspecao_agil.md
 
 
 
