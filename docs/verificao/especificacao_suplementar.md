@@ -37,7 +37,7 @@ Este documento tem como objetivo verificar a especificação suplementar para de
 
 ### Conclusão
 
-
+É concluído que apenas 31,6% da análise de verificação foram realizada. Com tal resultado, com porcentagem a baixo do esperado, será necessário ser realizado a correção/melhoraria do documento de especificação suplementar o quanto antes.
 
 ### Referências
 - **Requisitos de Software Habitica Especificação Suplementar **. Disponível em: https://requisitos-habitica.herokuapp.com/EspecificacaoSuplementar
