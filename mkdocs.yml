@@ -67,7 +67,8 @@ nav:
             - Interface: modelagem/nfr_framework/interface.md
             - Usabilidade: modelagem/nfr_framework/usabilidade.md
 
-
+    - Verificação:
+            - Especificação Suplementar: verificao/especificacao_suplementar.md
 
 theme:
   palette:
