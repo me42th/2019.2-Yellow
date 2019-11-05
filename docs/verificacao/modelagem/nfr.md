@@ -63,28 +63,27 @@ A inspeção pôde ser realizada a partir da verificação e análise dos checkl
 ### 6.1. Checklist: critérios específicos
 |Regras|Impacto|Atende|Não atende| Motivo|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-|O foco do modelo é demonstrar como um NFR Softgoal é cumprido?||||
-|Os diagramas possuem rastreabilidade?||||
-|O modelo contém Claim Softgoal?||||
-|As labels de cumprimento dos NFR Softgoal e Operationalizing Softgoal foram feitas?||||
-|Os diagramas possuem versionamento?||||
-|Foi utilizado uma ferramenta adequada para criação do NFR?||||
-|Os Operationalizing Softgoal constituem funcionalidades escritas com o uso de verbos?||||
-|O NFR contém mais que três níveis de contribuições?||||
-|Existem correções para serem feitas?||||
-|Há separação no uso de contribuições OR e AND e contruibuições help, make, hurt e break?||||
-|As relações de dependência estão corretas?||||
-|A notação está padronizada?||||
-|A notação está padronizada?||||
-|Os NFR Softgoal constituem critérios de qualidade / Requisitos Não Funcionais?||||
+|O foco do modelo é demonstrar como um NFR Softgoal é cumprido?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)||
+|Os diagramas possuem rastreabilidade?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)||
+|O modelo contém Claim Softgoal?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)||
+|As labels de cumprimento dos NFR Softgoal e Operationalizing Softgoal foram feitas?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)||
+|Os diagramas possuem versionamento?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)||
+|Foi utilizado uma ferramenta adequada para criação do NFR?||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/t.png)|||
+|Os Operationalizing Softgoal constituem funcionalidades escritas com o uso de verbos?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)||
+|O NFR contém mais que três níveis de contribuições?||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/t.png)|||
+|Existem correções para serem feitas?||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/t.png)|||
+|Há separação no uso de contribuições OR e AND e contruibuições help, make, hurt e break?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)||
+|As relações de dependência estão corretas?|||||
+|A notação está padronizada?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)||
+|Os NFR Softgoal constituem critérios de qualidade / Requisitos Não Funcionais?||||||
 
 ### 6.2. Checklist: critérios subjetivos
 | Regras | Consegui | Consegui com dificuldade | Não consegui |
 | ------------ | ------------ | ------------ | ------------ |
-|Você conseguiu entender, a partir do título, o que o modelo NFR Softgoal se trata?||||
-|Você conseguiu entender as metas/objetivos do NFR Softgoal?||||
-|Você conseguiu identificar os atores nos NFR Softgoal?||||
-|Você conseguiu entender os episódios descritos nos modelos NFR Softgoal?|||||
+|Você conseguiu entender, a partir do título, o que o modelo NFR Softgoal se trata?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)|
+|Você conseguiu entender as metas/objetivos do NFR Softgoal?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)|
+|Você conseguiu identificar os atores nos NFR Softgoal?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)|
+|Você conseguiu entender os episódios descritos nos modelos NFR Softgoal?|||![](https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png)|
 
 ### 6.3. Qualidade exigida
 * Qualidade Alta: Reprovação de 1 a 2 critérios 
