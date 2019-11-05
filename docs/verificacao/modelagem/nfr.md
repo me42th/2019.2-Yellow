@@ -22,7 +22,7 @@ Tópicos importantes a serem avaliados:
 ### 4. Preparação
 |  Data  | Participante  |  Observação |
 | ------------ | ------------ | ------------ |
-| 05/11/2019  | Gabriela de Oliveira Lemos  | Entendimento a respeito do processo de verificação e do conteúdo a ser verificado  |
+| 04/11/2019  | Gabriela de Oliveira Lemos  | Entendimento a respeito do processo de verificação e do conteúdo a ser verificado  |
 
 Foi fundamental nesta etapa a devida preparação do integrante a respeito do processo de verificação. Assim, o integrante estaria ciente da importância da adoção de critérios, e de como eles são esboçados para o projeto. Após todos os critérios colhidos, foi realizada a técnica do check list.
 
