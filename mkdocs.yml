@@ -37,24 +37,29 @@ nav:
             - Storytelling:
                 - Storytelling v0: elicitacao/requisitos/storytelling_v0.md
                 - Storytelling v1: elicitacao/requisitos/storytelling_v1.md
-            - Requisitos Elicitados: 
+            - Requisitos Elicitados:
                 - Requisitos v1: elicitacao/requisitos/requisitos_elicitados/requisitos_elicitados_v1.md
                 - Requisitos v2: elicitacao/requisitos/requisitos_elicitados/requisitos_elicitados_v2.md
+                - Requisitos v3: elicitacao/requisitos/requisitos_elicitados/requisitos_elicitados_v3.md
 
         - Priorização:
-            - MoSCoW: elicitacao/priorizacao/moscow.md
+            - MoSCoW:
+              - MoSCoW_v1: elicitacao/priorizacao/moscow.md
+              - MoSCoW_v2: elicitacao/priorizacao/moscow_v2.md
             - First Things First: elicitacao/priorizacao/first_things_first.md
             - QFD-House of Quality: elicitacao/priorizacao/qfd.md
 
     - Modelagem:
-        - Ágil: 
+        - Ágil:
             - Ágil v1: modelagem/agil.md
             - Ágil v2: modelagem/agil_v2.md
-        - Casos de Uso: modelagem/casos_de_uso.md
+        - Casos de Uso:
+            - Casos de Uso v1: modelagem/casos_de_uso.md
+            - Casos de Uso v2: modelagem/casos_de_uso_v2.md
         - Cenários: modelagem/cenarios.md
         - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Léxicos: modelagem/lexicos.md
-        - NFR Framework: 
+        - NFR Framework:
             - NFR: modelagem/nfr_framework/nfr.md
             - Confiabilidade: modelagem/nfr_framework/confiabilidade.md
             - Desempenho: modelagem/nfr_framework/desempenho.md
@@ -63,6 +68,8 @@ nav:
             - Usabilidade: modelagem/nfr_framework/usabilidade.md
     - Análise:
         - Verificação:
+            - Ágil: analise/verificacao/inspecao_agil.md
+            - Especificação Suplementar: verificao/especificacao_suplementar.md
             - NFR: analise/verificacao/nfr.md
             - Casos de Uso: analise/verificacao/casos_de_uso.md
             - Especificação Suplementar: analise/verificacao/especificacao_suplementar.md
@@ -71,7 +78,6 @@ nav:
             - Léxicos: analise/verificacao/lexicos.md
             - Rich Picture: analise/verificacao/rich_picture.md
         - Validação: analise/validacao/validacao.md
-
 
 theme:
   palette:
