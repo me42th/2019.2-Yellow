@@ -77,7 +77,8 @@ nav:
             - Cenários: analise/verificacao/cenarios.md
             - Léxicos: analise/verificacao/lexicos.md
             - Rich Picture: analise/verificacao/rich_picture.md
-            - Cenários: analise/verificacao/cenarios.md
+            - MoSCoW: analise/verificacao/moscow.md
+            - Personas: analise/verificacao/personas.md
         - Validação: analise/validacao/validacao.md
 
 theme:
