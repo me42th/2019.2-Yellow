@@ -7,6 +7,7 @@
 | Pedro Igor | Adicionou mais detalhes aos cenários. | 30/09/2019 |
 | Pedro Igor | Adicionou cenários para a tela "Meu saldo". | 08/10/2019 |
 | Pedro Igor | Adicionou cenários de login/cadastro e menu lateral esquerdo. | 01/11/2019 |
+| Pedro Igor | Refatorou cenários de acordo com os resultados da inspeção realizada pelo Dâmaso. | 18/11/2019 |
 
 <br>
 
