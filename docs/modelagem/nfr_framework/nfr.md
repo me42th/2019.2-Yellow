@@ -1,1 +1,0 @@
-![](../../img/analise/verificacao/nfr_framework/nfr.jpg)
