@@ -64,28 +64,28 @@ A inspeção pôde ser realizada a partir da verificação e análise dos checkl
 
 |Regras|Impacto|Atende|Não atende| Motivo|
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-|O foco do modelo é demonstrar como um NFR Softgoal é cumprido?|Alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>| O foco não é especificado de forma clara no documento. Os objetivos que a equipe deseja encontrar não é citado também.|
-|Os diagramas possuem rastreabilidade?|Muito alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>| A rastreabilidade dos requisitos elicitados não fora levantada de forma clara e objetiva no documento. Para isso, é necessário uma tabela com os hyperlinks dos requisitos não funcionais.			|
-|O modelo conseguiu explorar bem a operação Claim Softgoal?|Médio||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|Contém apenas um claim softgoal, o que pode ser considerado pouco visto sua tamanha importância de validar nossa metodologia com base nos assuntos conceitualizados em sala de aula.|
-|As labels de cumprimento dos NFR Softgoal e Operationalizing Softgoal foram feitas?|Alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|Não foi adicionado nenhuma notação que assemelhe-se as labels, muito menos uma tabela de identificação.|
-|Os diagramas possuem versionamento?|Médio||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|Apesar de os diagramas possuírem versionamento, o mesmo não é declarado no documento.|
-|Foi utilizado uma ferramenta adequada para criação do NFR?|Alto|<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/t.png" alt="drawing" width="25"/></center>|||
-|Os Operationalizing Softgoal constituem funcionalidades escritas com o uso de verbos?|Muito alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>| Apenas um. Isso dificulta a alcançar os requisitos não funcionais, que permanecem muitos ainda abstratos no modelo.|
-|O NFR contém mais que três níveis de contribuições?|Muito alto|<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/t.png" alt="drawing" width="25"/></center>|||
-|Existem correções para serem feitas?|Alto|<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/t.png" alt="drawing" width="25"/></center>|||
-|Há separação no uso de contribuições OR e AND e contruibuições help, make, hurt e break?|Alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|As notações não existem no modelo.|
-|A notação está padronizada com o que manda a técnica?|Alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>| A notação não segue em todo os padrões da técnica, uma vez que muitas operações não podem ser vistas no modelo.|
-|Os NFR Softgoal constituem critérios de qualidade / Requisitos Não Funcionais?|Alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>| Não fica explícito na técnica de quais requisitos se tratam dos que foram previamente levantados.|
-|Softgoals condizem com o contexto?|Muito alto||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|Não é possível perceber o contexto, devido a não rastreabilidade dos requisitos.|
-|Softgoals são decompostos em níveis abstracionais maiores para níveis de menos abstração?|Alto|<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/t.png" alt="drawing" width="25"/></center>|||
+|O foco do modelo é demonstrar como um NFR Softgoal é cumprido?|Alto||<center>![](../../img/analise/verificacao/t.png)</center>| O foco não é especificado de forma clara no documento. Os objetivos que a equipe deseja encontrar não é citado também.|
+|Os diagramas possuem rastreabilidade?|Muito alto||<center>![](../../img/analise/verificacao/t.png)</center>| A rastreabilidade dos requisitos elicitados não fora levantada de forma clara e objetiva no documento. Para isso, é necessário uma tabela com os hyperlinks dos requisitos não funcionais.			|
+|O modelo conseguiu explorar bem a operação Claim Softgoal?|Médio||<center>![](../../img/analise/verificacao/t.png)</center>|Contém apenas um claim softgoal, o que pode ser considerado pouco visto sua tamanha importância de validar nossa metodologia com base nos assuntos conceitualizados em sala de aula.|
+|As labels de cumprimento dos NFR Softgoal e Operationalizing Softgoal foram feitas?|Alto||<center>![](../../img/analise/verificacao/t.png)</center>|Não foi adicionado nenhuma notação que assemelhe-se as labels, muito menos uma tabela de identificação.|
+|Os diagramas possuem versionamento?|Médio||<center>![](../../img/analise/verificacao/t.png)</center>|Apesar de os diagramas possuírem versionamento, o mesmo não é declarado no documento.|
+|Foi utilizado uma ferramenta adequada para criação do NFR?|Alto|<center>![](../../img/analise/verificacao/w.png)</center>|||
+|Os Operationalizing Softgoal constituem funcionalidades escritas com o uso de verbos?|Muito alto||<center>![](../../img/analise/verificacao/t.png)</center>| Apenas um. Isso dificulta a alcançar os requisitos não funcionais, que permanecem muitos ainda abstratos no modelo.|
+|O NFR contém mais que três níveis de contribuições?|Muito alto|<center>![](../../img/analise/verificacao/w.png)</center>|||
+|Existem correções para serem feitas?|Alto|<center>![](../../img/analise/verificacao/w.png)</center>|||
+|Há separação no uso de contribuições OR e AND e contruibuições help, make, hurt e break?|Alto||<center>![](../../img/analise/verificacao/t.png)</center>|As notações não existem no modelo.|
+|A notação está padronizada com o que manda a técnica?|Alto||<center>![](../../img/analise/verificacao/t.png)</center>| A notação não segue em todo os padrões da técnica, uma vez que muitas operações não podem ser vistas no modelo.|
+|Os NFR Softgoal constituem critérios de qualidade / Requisitos Não Funcionais?|Alto||<center>![](../../img/analise/verificacao/t.png)</center>| Não fica explícito na técnica de quais requisitos se tratam dos que foram previamente levantados.|
+|Softgoals condizem com o contexto?|Muito alto||<center>![](../../img/analise/verificacao/t.png)</center>|Não é possível perceber o contexto, devido a não rastreabilidade dos requisitos.|
+|Softgoals são decompostos em níveis abstracionais maiores para níveis de menos abstração?|Alto|<center>![](../../img/analise/verificacao/w.png)</center>|||
 
 ### 6.2. Checklist: critérios subjetivos
 | Regras | Consegui | Consegui com dificuldade | Não consegui |
 | ------------ | ------------ | ------------ | ------------ |
-|Você conseguiu entender, a partir do título, o que o modelo NFR Softgoal se trata?|||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|
-|Você conseguiu entender as metas/objetivos do NFR Softgoal?|||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|
-|Você conseguiu identificar os atores nos NFR Softgoal?|||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>|
-|Você conseguiu entender os episódios descritos nos modelos NFR Softgoal?||<center><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2019.2-Yellow/master/docs/verificacao/img/w.png" alt="drawing" width="25"/></center>||
+|Você conseguiu entender, a partir do título, o que o modelo NFR Softgoal se trata?|||<center>![](../../img/analise/verificacao/t.png)</center>|
+|Você conseguiu entender as metas/objetivos do NFR Softgoal?|||<center>![](../../img/analise/verificacao/t.png)</center>|
+|Você conseguiu identificar os atores nos NFR Softgoal?|||<center>![](../../img/analise/verificacao/t.png)</center>|
+|Você conseguiu entender os episódios descritos nos modelos NFR Softgoal?||<center>![](../../img/analise/verificacao/t.png)</center>||
 
 ### 8. Referencias
 SERRANO, Maurício; SERRANO, Milene. Requisit Slides Aula 023. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
