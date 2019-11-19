@@ -1,25 +1,39 @@
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Letícia Karla | Criou o documento. |24/09/2019| Remoto, via Google Forms |
+|1.1| Dâmaso Júnio | Formatou o documento | 19/11/2019 | Remoto |
+
 # Questionário
 
-##### PARTICIPANTE: Letícia Karla S. R. de Araújo.
-##### LOCAL: Remoto, via Google Forms.
-##### DATA/HORA: 24 de Setembro de 2019 à 29 de Setembro de 2019.
 
-#### A técnica de questionário teve como enfoque coletar dados, via formulário online, dos usuários de forma que auxiliasse traçar estrategicamente objetivos para levantar requisitos funcionais e não funcionais do aplicativo Yellow. 
+<p align="justify">A técnica de questionário teve como enfoque coletar dados, via formulário online, dos usuários de forma que auxiliasse traçar estrategicamente objetivos para levantar requisitos funcionais e não funcionais do aplicativo Yellow.</p>
 
 
-### Usuário da Yellow?
+**Usuário da Yellow?**
+
 ![UtilizacaoQuestionario.png](/img/elicitacao/requisitos/questionario/utilizacao_questionario.png)
-### Sexo
+
+**Sexo**
+
 ![SexoQuestionario](/img/elicitacao/requisitos/questionario/sexo_questionario.png)
-### Idade
+
+**Idade**
+
 ![IdadeQuestionario](/img/elicitacao/requisitos/questionario/idade_questionario.png)
-### Meio de transporte utilizado
+
+**Meio de transporte utilizado**
+
 ![TransporteQuestionario](/img/elicitacao/requisitos/questionario/transporte_questionario.png)
-### Dificuldade de utilizar
+
+**Dificuldade de utilizar**
+
 ![DificuldadeQuestionario](/img/elicitacao/requisitos/questionario/dificuldade_questionario.png)
-### Instruções
+
+**Instruções**
+
 ![nstrucoesQuestionario](/img/elicitacao/requisitos/questionario/instrucoes_questionario.png)
-### Opiniões sobre a opção de Compartilhar Crédito
+
+**Opiniões sobre a opção de Compartilhar Crédito:**
 * "Excelente".
 * "Nem sabia que existia".
 * "Eu nem sabia, mas já achei um arraso".
@@ -31,9 +45,9 @@
 * "Boa".
 * "Bem interessante".
 
-### Opiniões sobre a opção de pagar boletos bancários
+**Opiniões sobre a opção de pagar boletos bancários:**
 * "Boa".
-* "Muito boa". 
+* "Muito boa".
 * "Nunca usei".
 * "Tendência".
 * "Muito útil".
@@ -42,32 +56,38 @@
 * "Maravilhosa".
 * "Ainda não usei".
 
-### Já enfretou problemas no aplicativo?
+**Já enfretou problemas no aplicativo?**
+
 ![ProblemasQuestionario](/img/elicitacao/requisitos/questionario/problema_questionario.png)
 
-### Tipos de problema Financeiro 
+**Tipos de problema Financeiro**
+
 ![ProbFinQuestionario](/img/elicitacao/requisitos/questionario/problema_financeiro_questionario.png)
 
-### Ajuda
+**Ajuda**
+
 ![AjudaQuestionário](/img/elicitacao/requisitos/questionario/ajuda_questionario.png)
 
-### Tipos de problemas técnicos
+**Tipos de problemas técnicos**
+
 ![TiposProbTecQuestionarios](/img/elicitacao/requisitos/questionario/tipos_problemas_tecnicos_questionario.png)
 
-### Motivo da não utilização
+**Motivo da não utilização**
+
 ![MotivoNaoUtilizarQuestionario](/img/elicitacao/requisitos/questionario/motivo_nao_utilizar_questionario.png)
 
-### Conclusão
+## Conclusão
 
-#### Com o uso desta técnica em conjunto com outras técnicas de elicitação, o grupo pode realizar uma análise sobre quais os requisitos funcionais e não funcionais seriam convenientes de serem levantados. Os quais o funcionais mais afetados pela técnica são:
-* RF001 (O sistema deve permitir o cadastro de novos usuários); 
+<p align="jusitfy">Com o uso desta técnica em conjunto com outras técnicas de elicitação, o grupo pode realizar uma análise sobre quais os requisitos funcionais e não funcionais seriam convenientes de serem levantados. Os quais o funcionais mais afetados pela técnica são:</p>
+
+* RF001 (O sistema deve permitir o cadastro de novos usuários);
 * RF003 (O sistema tem que ser capaz de recarregar créditos para a utilização dos veículos);
 * RF004 (O sistema tem que mostrar a localização dos veículos disponíveis);
 * RF005 (O usuário tem que ser capaz de desbloquear um veículo (público));
-* RF007 (O sistema poderia permitir compartilhamento de crédito); 
-* RF009 (A aplicação deveria ter integração com bancos digitais de forma que facilite a inserção de crédito). 
+* RF007 (O sistema poderia permitir compartilhamento de crédito);
+* RF009 (A aplicação deveria ter integração com bancos digitais de forma que facilite a inserção de crédito).
 
-#### Já os não funcionais mais afetados pela técnica são:
+Já os não funcionais mais afetados pela técnica são:
 * RNF001 (A aplicação deve ser prática e simples de utilizar);
 * RNF005 (O custo para aluguel de um meio de transporte deve ser baixo);
 * RNF006 (A aplicação deve abranger a maior área urbana possível);
