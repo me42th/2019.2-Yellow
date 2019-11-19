@@ -68,25 +68,27 @@
 
 -  **FE06:**  Recarga de crédito 
  
-| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | História de usuário |
+| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | 
 |--|--|--|--|--|--|
-|RQ26| O usuário deve ser capaz de cadastrar um cartão de crédito.  |
-|RQ27|  O usuário deve ser capaz inserir créditos de forma virtual.  |
-|RQ28|  O usuário deve ser capaz de inserir créditos de forma física.  |
-|RQ29| O usuário deve ser capaz de optar a transação entre diferentes empresas do setor de pagamento fossem englobadas.  |
-|RQ30|  O usuário deve ser capaz de examinar a quantia de créditos que possuo na conta. | 
+|RQ26| O usuário deve ser capaz de cadastrar um cartão de crédito.  | - | Brainstorm | Ágil |
+|RQ27|  O usuário deve ser capaz inserir créditos de forma virtual.  | RichPicture | Brainstorm | Ágil |
+|RQ28|  O usuário deve ser capaz de inserir créditos de forma física.  | - | Brainstorm | Ágil |
+|RQ29| O usuário deve ser capaz de optar a transação entre diferentes empresas do setor de pagamento fossem englobadas.  | - | Brainstorm | Ágil |
+|RQ30|  O usuário deve ser capaz de examinar a quantia de créditos que possuo na conta. | - | Brainstorm | Ágil |
 
 ### EP04 - Usuário
  -  **FE07:** Relação Usuário-Sistema  
 
-| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | História de usuário |
+| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem |
 |--|--|--|--|--|--|
-|RQ35| O usuário deve ser capaz de escolher entre possibilidades de login, Google entre Facebook.  
-|RQ36|  O usuário deve ser capaz de optar pela minha opção de idioma.  
-|RQ37|  O usuário deve ser capaz de fazer login na aplicação.  
-|RQ38| O usuário deve ser capaz de sair da atual conta em uso.  
-|RQ39|  O usuário deve ser capaz de contatar o suporte sem eventuais empecilhos.  
-|RQ40|  O usuário deve ser capaz de contatar o suporte por mais de uma forma.  
-|RQ41|  O usuário deve ter acesso ao meu histórico de viagens.  
-|RQ42|  O usuário deve ser capaz de verificar o cadastro de modo flexível.  
-|RQ43| O usuário deve ser capaz de compartilhar a minha viagem.
+|RQ35| O usuário deve ser capaz de escolher entre possibilidades de login, Google entre Facebook.  |-|Análise de Protocolo, Introspecção, Observação|Ágil, Casos de Uso|
+|RQ36|  O usuário deve ser capaz de optar pela opção de idioma.  |-|Storytelling|Ágil, Especificação Suplementar, NFR Framework|
+|RQ37|  O usuário deve ser capaz de fazer login na aplicação.  |-|-|Ágil, Casos de Uso|
+|RQ38| O usuário deve ser capaz de sair da atual conta em uso.  |-|Introspecção|Ágil, Léxico, Cenários|
+|RQ39|  O usuário deve ser capaz de contatar o suporte sem eventuais empecilhos. |RichPicture|Análise de Discurso, Introspecção, Observação, Storytelling|Ágil, Léxico, Cenários, Casos de Uso|
+|RQ40|  O usuário deve ser capaz de contatar o suporte por mais de uma forma.  |-|Storytelling|Ágil|
+|RQ41|  O usuário deve ter acesso ao meu histórico de viagens.  |-|Introspecção, Observação, Storytelling|Ágil, Léxico, Cenários|
+|RQ42|  O usuário deve ser capaz de verificar o cadastro de modo flexível. |-|Análise de Protocolo, Observação|Ágil, Casos de Uso|
+|RQ43| O usuário deve ser capaz de compartilhar a viagem. |-|Observação|Ágil|
+
+**Histórias de Usuário:** Brevemente descrito em Requisitos Elicitados e aprofundado no Ágil. Refatoração.
