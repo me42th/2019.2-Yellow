@@ -13,11 +13,11 @@ Uma notação que usa descrição de termos via léxico é o: **LAL - Léxico Am
 | Definição | Sinônimo(s) | Noção | Impacto | Classificação |
 |-----|---------|------|---------|---------|
 | Escanear | Digitalizar | Reconhecer o veículo | O usuário deverá escanear o código do véiculo na hora que deseja alugar | Verbo
-| Patinete | - | Tipo de veículo | Objeto com duas rodas e elétrico, utilizado para ser alugado pelo usuário | Objeto
+| Patinete | Scooter | Tipo de veículo | Objeto com duas rodas e elétrico, utilizado para ser alugado pelo usuário | Objeto
 | Bike | Bicicleta | Tipo de veículo | Objeto com duas rodas e movida pelo esforço do próprio usuário, utilizado para ser alugado pelo usuário | Objeto
-| Minha carteira | - | Saldo atual | O usuário encontrará atual saldo na conta para uso em futuras viagens | Objeto
-| Transferir crédito | - | Enviar saldo para outra pessoa | O usuário poderá enviar o saldo da sua conta para outra pessoa caso seja requisitado por terceiros ou por vontade própria | Verbo
-| Realizar recarga de celular | - | Fazer recarga de créditos da operadora | O usuário poderá solicitar recarga de créditos no próprio aplicativo da Yellow, caso necessite realizar pelo próprio aplicativo | Verbo
+| Minha carteira | Bolsa | Saldo atual | O usuário encontrará atual saldo na conta para uso em futuras viagens | Objeto
+| Transferir crédito | Enviar, depositar | Enviar saldo para outra pessoa | O usuário poderá enviar o saldo da sua conta para outra pessoa caso seja requisitado por terceiros ou por vontade própria | Verbo
+| Realizar recarga de celular | Enviar, depositar, transferir | Fazer recarga de créditos da operadora | O usuário poderá solicitar recarga de créditos no próprio aplicativo da Yellow, caso necessite realizar pelo próprio aplicativo | Verbo
 | Pedir reembolso | Devolução | Solicitar o dinheiro de volta | O usuário poderá pedir reembolso quando tiver algum problema de compra ou não tem mais interesse no uso do aplicativo | Verbo
 | Pagar conta e serviços | Financiar, Custear, Bancar, Desembolsar, Despender | Pagar contas e/ou serviços | O usuário poderá realizar serviços exteriores dentro da Yellow, tais como pagar boleto caso deseje efetuar no próprio aplicativo | Verbo
 | Saldo | Crédito | Tipo de moeda usada para poder utilizar uns dos veículos | O usuário faz a compra com cartão de crédito ou outros meios e então é trocado para saldo dentro da própria Yellow | Estado
