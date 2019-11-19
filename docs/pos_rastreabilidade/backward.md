@@ -70,25 +70,25 @@
  
 | ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | 
 |--|--|--|--|--|
-|RQ26| O usuário deve ser capaz de cadastrar um cartão de crédito.  | - | Brainstorm | Ágil |
-|RQ27|  O usuário deve ser capaz inserir créditos de forma virtual.  | RichPicture | Brainstorm | Ágil |
-|RQ28|  O usuário deve ser capaz de inserir créditos de forma física.  | - | Brainstorm | Ágil |
-|RQ29| O usuário deve ser capaz de optar a transação entre diferentes empresas do setor de pagamento fossem englobadas.  | - | Brainstorm | Ágil |
-|RQ30|  O usuário deve ser capaz de examinar a quantia de créditos que possuo na conta. | - | Brainstorm | Ágil |
+|RQ26| O usuário deve ser capaz de cadastrar um cartão de crédito.  | - | [B0](../elicitacao/requisitos/brainstorm_v0.md), [B1](../elicitacao/requisitos/brainstorm_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ27|  O usuário deve ser capaz inserir créditos de forma virtual.  | [RP](../pre_rastreabilidade/rich_picture.md) | [B0](../elicitacao/requisitos/brainstorm_v0.md), [B1](../elicitacao/requisitos/brainstorm_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ28|  O usuário deve ser capaz de inserir créditos de forma física.  | - | [B0](../elicitacao/requisitos/brainstorm_v0.md), [B1](../elicitacao/requisitos/brainstorm_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ29| O usuário deve ser capaz de optar a transação entre diferentes empresas do setor de pagamento fossem englobadas.  | - | [B0](../elicitacao/requisitos/brainstorm_v0.md), [B1](../elicitacao/requisitos/brainstorm_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ30|  O usuário deve ser capaz de examinar a quantia de créditos que possuo na conta. | - | [B0](../elicitacao/requisitos/brainstorm_v0.md), [B1](../elicitacao/requisitos/brainstorm_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 
 ### EP04 - Usuário
  -  **FE07:** Relação Usuário-Sistema  
 
 | ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem |
 |--|--|--|--|--|
-|RQ35| O usuário deve ser capaz de escolher entre possibilidades de login, Google entre Facebook.  |-|Análise de Protocolo, Introspecção, Observação|Ágil, Casos de Uso|
-|RQ36|  O usuário deve ser capaz de optar pela opção de idioma.  |-|Storytelling|Ágil, Especificação Suplementar, NFR Framework|
-|RQ37|  O usuário deve ser capaz de fazer login na aplicação.  |-|-|Ágil, Casos de Uso|
-|RQ38| O usuário deve ser capaz de sair da atual conta em uso.  |-|Introspecção|Ágil, Léxico, Cenários|
-|RQ39|  O usuário deve ser capaz de contatar o suporte sem eventuais empecilhos. |RichPicture|Análise de Discurso, Introspecção, Observação, Storytelling|Ágil, Léxico, Cenários, Casos de Uso|
-|RQ40|  O usuário deve ser capaz de contatar o suporte por mais de uma forma.  |-|Storytelling|Ágil|
-|RQ41|  O usuário deve ter acesso ao meu histórico de viagens.  |-|Introspecção, Observação, Storytelling|Ágil, Léxico, Cenários|
-|RQ42|  O usuário deve ser capaz de verificar o cadastro de modo flexível. |-|Análise de Protocolo, Observação|Ágil, Casos de Uso|
-|RQ43| O usuário deve ser capaz de compartilhar a viagem. |-|Observação|Ágil|
+|RQ35| O usuário deve ser capaz de escolher entre possibilidades de login, Google entre Facebook.  |-|[AP](../elicitacao/requisitos/analise_protocolo.md), [Introspecção](../elicitacao/requisitos/introspeccao.md), [Observação](../elicitacao/requisitos/observacao.md)|[Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md), [UC](../modelagem/casos_de_uso_v2.md)|
+|RQ36|  O usuário deve ser capaz de optar pela opção de idioma.  |-|[ST1](../elicitacao/requisitos/storytelling_v1.md)|[Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md), [ES](../modelagem/especificacao_suplementar.md), [NFR](../modelagem/nfr_framework/nfr.md)|
+|RQ37|  O usuário deve ser capaz de fazer login na aplicação.  |-|-|[Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md), [UC](../modelagem/casos_de_uso_v2.md)|
+|RQ38| O usuário deve ser capaz de sair da atual conta em uso.  |-|[Introspecção](../elicitacao/requisitos/introspeccao.md)|[Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md), [Léxico](../modelagem/lexicos.md), [Cenários](../modelagem/cenarios.md)|
+|RQ39|  O usuário deve ser capaz de contatar o suporte sem eventuais empecilhos. |[RP](../pre_rastreabilidade/rich_picture.md)|[AD](../elicitacao/requisitos/analise_discurso.md), [Introspecção](../elicitacao/requisitos/introspeccao.md), [Observação](../elicitacao/requisitos/observacao.md), [ST1](../elicitacao/requisitos/storytelling_v1.md)|[Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md), [Léxico](../modelagem/lexicos.md), [Cenários](../modelagem/cenarios.md), [UC](../modelagem/casos_de_uso_v2.md)|
+|RQ40|  O usuário deve ser capaz de contatar o suporte por mais de uma forma.  |-|[ST1](../elicitacao/requisitos/storytelling_v1.md)|[Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md)|
+|RQ41|  O usuário deve ter acesso ao meu histórico de viagens.  |-|[Introspecção](../elicitacao/requisitos/introspeccao.md), [Observação](../elicitacao/requisitos/observacao.md), [ST1](../elicitacao/requisitos/storytelling_v1.md)|[Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md), [Léxico](../modelagem/lexicos.md), [Cenários](../modelagem/cenarios.md)|
+|RQ42|  O usuário deve ser capaz de verificar o cadastro de modo flexível. |-|[AP](../elicitacao/requisitos/analise_protocolo.md), [Observação](../elicitacao/requisitos/observacao.md)|[Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md), [UC](../modelagem/casos_de_uso_v2.md)|
+|RQ43| O usuário deve ser capaz de compartilhar a viagem. |-|[Observação](../elicitacao/requisitos/observacao.md)|[Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md)|
 
 **Histórias de Usuário:** Brevemente descrito em Requisitos Elicitados e aprofundado no Ágil. Refatoração.
