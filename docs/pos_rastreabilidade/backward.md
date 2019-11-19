@@ -15,8 +15,8 @@ O objetivo da técnica é verificar a rastreabilidade do projeto, utilizando com
 
 -  **FE01 -**  Aluguel  
 
-| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | História de usuário |
-|--|--|--|--|--|--|
+| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem |
+|--|--|--|--|--|
 |RQ01  |O usuário deve ser capaz de realizar o desbloqueio de uma bicicleta.    | [RP](../pre_rastreabilidade/rich_picture.md)| [Entrevista](../elicitacao/requisitos/entrevista.md), [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 |RQ02| O usuário deve ser capaz de realizar o desbloqueio de um patinete. | [RP](../pre_rastreabilidade/rich_picture.md) | [Entrevista](../elicitacao/requisitos/entrevista.md), [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 |RQ03|O usuário deve ser capaz de bloquear a bicicleta após o uso.|  [RP](../pre_rastreabilidade/rich_picture.md) | [Entrevista](../elicitacao/requisitos/entrevista.md), [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
@@ -29,8 +29,8 @@ O objetivo da técnica é verificar a rastreabilidade do projeto, utilizando com
 
 -  **FE02 -**  Suporte 
 
-| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | História de usuário |
-|--|--|--|--|--|--|
+| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem |
+|--|--|--|--|--|
 |RQ10|  O usuário deve ser capaz de ter acesso ao suporte para apoio em um imprevisto durante o uso do aplicativo.  | [RP](../pre_rastreabilidade/rich_picture.md) | [AD](../elicitacao/requisitos/analise_discurso.md), [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 |RQ11|  O desenvolvedor deve ser capaz de emitir dicas e instruções nos tempos de ociosidade do aplicativo.  | Não consta | Não consta | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 |RQ12|  O usuário deve ser capaz de acessar a central de ajuda.  | [RP](../pre_rastreabilidade/rich_picture.md) | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
@@ -41,15 +41,15 @@ O objetivo da técnica é verificar a rastreabilidade do projeto, utilizando com
 
 - **FE03** -  Mapa  
 
-| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | História de usuário |
-|--|--|--|--|--|--|
+| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem |
+|--|--|--|--|--|
 |RQ15|  O usuário deve ser capaz de visualizar o mapa de disponibilidade.|  [RP](../pre_rastreabilidade/rich_picture.md) | [Prototipação](../elicitacao/requisitos/prototipacao.md), [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 |RQ16|  O usuário deve ser capaz de acessar outras regiões a diferentes distâncias de onde me encontro para saber se há veículos disponíveis naqueles locais.|  [RP](../pre_rastreabilidade/rich_picture.md) | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 
 -  **FE04 -**  Localização 
 
-| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | História de usuário |
-|--|--|--|--|--|--|
+| ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | 
+|--|--|--|--|--|
 |RQ17|  O usuário deve ser capaz de verificar a localização das bicicletas no mapa.| [Prototipação](../elicitacao/requisitos/prototipacao.md) | [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 |RQ18|  O usuário deve ser capaz de verificar a localização dos patinetes no mapa. | [Prototipação](../elicitacao/requisitos/prototipacao.md) | [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 |RQ19|  O usuário deve ser capaz de verificar sua localização atual.  | Não consta | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
