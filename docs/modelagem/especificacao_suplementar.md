@@ -1,6 +1,7 @@
 | Especificação Suplementar | Versão: 1.0| 
 | -------- | -------- |
-| Participantes: Lucas Gomes e Julio Litwin | Data: 30/09/2019|
+| Participantes: Lucas Gomes | Data: 30/09/2019|
+| Participantes: Lucas Gomes | Data: 18/11/2019|
 
 Introdução
 ===
@@ -36,7 +37,7 @@ As funcionalidades referentes ao aplicativo Yellow, funcionais e não-funcionais
 Usabilidade
 ===
 - ### **Facilidade de uso**
-A aplicação deve ser intuitiva e de fácil compreensão ao ponto de que os usuários não precisem de treinamento para fazer uso do sistema.
+A aplicação deve ser intuitiva e de fácil compreensão e memorização ao ponto de que os usuários não precisem de treinamento para fazer uso do sistema.
 
 - ### **Idioma**
 O idioma da aplicação deve estar de acordo com o que a língua falada no país ou com o idioma pré-configurado no dispositivo móvel.
@@ -63,9 +64,16 @@ O desbloqueio dos veículos devem ocorrer de forma rápida, afim de evitar estre
 - ### **Gargalo ao movimentar o mapa**
 A aplicação deve mostrar o mínimo de gargalo possível quando o usuário movimentar o mapa em busca de algum veículo.
 
+- ### **Consumo de memória**
+É necessário que a aplicação tenha um consumo de memória razóavel para evitar gargalos em dispositivos cujo o sistema operacional não seja atual.
+
 Suportabilidade
 ===
+- ### **Compatibilidade**
 A aplicação da Yellow está disponível apenas para dispositivos móveis, mais especificamente nos sistemas operacionais iOS e Android.
+
+- ### **Escalabilidade**
+A aplicação deve suportar uma grande quantidade de acesso simultâneo sem prejudicar o uso pela parte do usuário.
 
 Restrições de Design
 ===
