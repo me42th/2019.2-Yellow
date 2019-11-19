@@ -61,10 +61,12 @@
 
 | ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem |
 |--|--|--|--|--|
-|RQ22|  O desenvolvedor deve ser capaz de disponibilizar promoções para os meus usuários.  |
-|RQ23| O usuário deve ser capaz de solicitar reembolso em caso de cobranças indevidas.  |
-|RQ24|  O usuário deve ser capaz de compartilhar créditos com outros usuários.  |
-|RQ25| O usuário deve ser capaz de observar promoções ativas no atual momento.  |
+|RQ22|  O desenvolvedor deve ser capaz de disponibilizar promoções para os meus usuários.  |-|Brainstorm, Observação|Ágil|
+|RQ23| O usuário deve ser capaz de solicitar reembolso em caso de cobranças indevidas.  |-|Instrospecção, Observação|Ágil|
+|RQ24|  O usuário deve ser capaz de compartilhar créditos com outros usuários.  |-|Análise de Protocolo, Brainstorm, Entrevista, Instrospecção, Questionário|Ágil|
+|RQ25| O usuário deve ser capaz de observar promoções ativas no atual momento.  |-|Brainstorm, Observação|Ágil|
+
+
 
 -  **FE06:**  Recarga de crédito 
  
