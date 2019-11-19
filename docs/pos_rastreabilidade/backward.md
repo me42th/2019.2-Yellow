@@ -69,7 +69,7 @@
 -  **FE06:**  Recarga de crédito 
  
 | ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | 
-|--|--|--|--|--|--|
+|--|--|--|--|--|
 |RQ26| O usuário deve ser capaz de cadastrar um cartão de crédito.  | - | Brainstorm | Ágil |
 |RQ27|  O usuário deve ser capaz inserir créditos de forma virtual.  | RichPicture | Brainstorm | Ágil |
 |RQ28|  O usuário deve ser capaz de inserir créditos de forma física.  | - | Brainstorm | Ágil |
@@ -80,7 +80,7 @@
  -  **FE07:** Relação Usuário-Sistema  
 
 | ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem |
-|--|--|--|--|--|--|
+|--|--|--|--|--|
 |RQ35| O usuário deve ser capaz de escolher entre possibilidades de login, Google entre Facebook.  |-|Análise de Protocolo, Introspecção, Observação|Ágil, Casos de Uso|
 |RQ36|  O usuário deve ser capaz de optar pela opção de idioma.  |-|Storytelling|Ágil, Especificação Suplementar, NFR Framework|
 |RQ37|  O usuário deve ser capaz de fazer login na aplicação.  |-|-|Ágil, Casos de Uso|
