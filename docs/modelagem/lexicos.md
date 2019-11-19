@@ -4,6 +4,7 @@
 | Nome|O que fez|Quando|
 |-----|---------|------|
 | Julio | Criou o documento. | 30/09/2019 |
+| Julio | Adicionado léxicos de cenários que estavam faltando. | 19/11/2019 |
 
 ## Metodologia:
 Uma notação que usa descrição de termos via léxico é o: **LAL - Léxico Ampliado da Linguagem**. Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. O principal objetivo a ser perseguido pelos Engenheiros de Requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo.
@@ -14,10 +15,12 @@ Uma notação que usa descrição de termos via léxico é o: **LAL - Léxico Am
 | Patinete | - | Tipo de veículo | Objeto com duas rodas e elétrico | Objeto
 | Bike | Bicicleta | Tipo de veículo | Objeto com duas rodas e movida pelo esforço do próprio usuário | Objeto
 | Minha carteira | - | Saldo atual | O usuário encontrará atual saldo na conta para uso em futuras viagens | Objeto
-| Transferir para amigos | - | Enviar saldo para outra pessoa | O usuário pode enviar saldo da sua conta para outra pessoa | Verbo
-| Recarga de celular | - | Fazer recarga de créditos da operadora | O usuário pode solicitar recarga de créditos no próprio aplicativo da Yellow | Verbo
+| Transferir crédito | - | Enviar saldo para outra pessoa | O usuário pode enviar saldo da sua conta para outra pessoa | Verbo
+| Realizar recarga de celular | - | Fazer recarga de créditos da operadora | O usuário pode solicitar recarga de créditos no próprio aplicativo da Yellow | Verbo
 | Pedir reembolso | Devolução | Solicitar o dinheiro de volta | O usuário pode pedir reembolso quando tiver algum problema de compra ou não tem mais interesse no uso do aplicativo | Verbo
+| Pagar conta e serviços | Financiar, Custear, Bancar, Desembolsar, Despender | Pagar contas e/ou serviços | O usuário poderá realizar serviços exteriores dentro da Yellow, tais como pagar boleto | Verbo
 | Saldo | Crédito | Tipo de moeda usada para poder utilizar uns dos veículos | O usuário faz a compra com cartão de crédito ou outros meios e então é trocado para saldo dentro da própria Yellow | Estado
+| Histórico de transações | Relato, descrição  | Mostrar todas as transações anteriores já realizadas | O usuário poderá encontrar todas as transações anteriores já realizadas dentro da Yellow, tais como aluguel ou outros serviços | Estado
 | Promoções | Cupons | Viagens grátis ou descontos | O usuário pode ganhar pela a Yellow algumas promoções de viagens com horas grátis ou descontos | Objeto
 | Histórico de corridas | Relato | Histórico de todas as viagens já realizadas anteriormente | O usuário pode conferir/verificar todas as viagens já realizadas, tempo, preço e etc | Objeto
 | Central de Ajuda | Assistência | Obter informações | O usuário pode encontrar dúvidas já respondida na própria central | Objeto
