@@ -1,10 +1,8 @@
-# MoSCoW
-### Histórico de edições
-| Nome|O que fez|Quando|
-|-----|---------|------|
-| Dâmaso | Criou essa versão atualizada | 19/10/2019 |
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|2.0| Dâmaso Júnio | Criou o documento. |19/10/2019| Remoto, via Google Drive|
 
-<br>
+# MoSCoW
 
 ||MoSCoW|
 |---|------|
