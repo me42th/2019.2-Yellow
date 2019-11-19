@@ -78,9 +78,8 @@ nav:
             - Cenários: analise/verificacao/cenarios.md
         - Validação: analise/validacao/validacao.md
     - Pós-Rastreabilidade:
-        - BackWard From: pos-rastreabilidade/backward.md
-        - Forward To: pos-rastreabilidade/forwardto.md
-        - FactBox: pos-rastreabilidade/forwardto.md
+        - BackWard From: pos_rastreabilidade/backward.md
+        - Forward To: pos_rastreabilidade/forwardto.md
         
 theme:
   palette:
