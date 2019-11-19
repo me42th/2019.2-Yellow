@@ -4,6 +4,7 @@
 | Nome|O que fez|Quando|Versão|
 |-----|---------|------|--|
 | Gabriela Lemos | Criou o documento. | 18/11/2019 |1.0|
+| Gabriela Lemos e Pedro Igor | Linkaram cada requisito para os artefatos que o elicitou. | 19/11/2019 |1.1|
 
 ## 1. Objetivo
 
@@ -15,25 +16,25 @@
 
 | ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | História de usuário |
 |--|--|--|--|--|--|
-|RQ01  |O usuário deve ser capaz de realizar o desbloqueio de uma bicicleta.    |
-|RQ02| O usuário deve ser capaz de realizar o desbloqueio de um patinete. | 
-|RQ03|O usuário deve ser capaz de bloquear a bicicleta após o uso.|  
-|RQ04|O usuário deve ser capaz de bloquear o patinete após o uso. | 
-|RQ05| O usuário deve receber informações de valor cobrado, tempo, distância, entre outras informações. | 
-|RQ06|  O usuário deve ser capaz de avaliar a viagem.  |
-|RQ07|  O usuário deve ser capaz de compartilhar a minha viagem. | 
-|RQ08|  O usuário deve ser capaz de identificar o nível de bateria do veículo elétrico.  |
-|RQ09|  O usuário deve receber certas instruções antes de minha primeira viagem. | 
+|RQ01  |O usuário deve ser capaz de realizar o desbloqueio de uma bicicleta.    | [RP](../pre_rastreabilidade/rich_picture.md)| [Entrevista](../elicitacao/requisitos/entrevista.md), [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ02| O usuário deve ser capaz de realizar o desbloqueio de um patinete. | [RP](../pre_rastreabilidade/rich_picture.md) | [Entrevista](../elicitacao/requisitos/entrevista.md), [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ03|O usuário deve ser capaz de bloquear a bicicleta após o uso.|  [RP](../pre_rastreabilidade/rich_picture.md) | [Entrevista](../elicitacao/requisitos/entrevista.md), [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ04|O usuário deve ser capaz de bloquear o patinete após o uso. | [RP](../pre_rastreabilidade/rich_picture.md) | [Entrevista](../elicitacao/requisitos/entrevista.md), [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ05| O usuário deve receber informações de valor cobrado, tempo, distância, entre outras informações. | [RP](../pre_rastreabilidade/rich_picture.md) | [Entrevista](../elicitacao/requisitos/entrevista.md), [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ06|  O usuário deve ser capaz de avaliar a viagem.  | Não consta | Não consta | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ07|  O usuário deve ser capaz de compartilhar a minha viagem. | Não consta | Não consta | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ08|  O usuário deve ser capaz de identificar o nível de bateria do veículo elétrico.  | Não consta | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ09|  O usuário deve receber certas instruções antes de minha primeira viagem. | Não consta | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 
 -  **FE02 -**  Suporte 
 
 | ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | História de usuário |
 |--|--|--|--|--|--|
-|RQ10|  O usuário deve ser capaz de ter acesso ao suporte para apoio em um imprevisto durante o uso do aplicativo.  |
-|RQ11|  O desenvolvedor deve ser capaz de emitir dicas e instruções nos tempos de ociosidade do aplicativo.  |
-|RQ12|  O usuário deve ser capaz de acessar a central de ajuda.  |
-|RQ13|  O usuário deve ser capaz de reportar um veículo atrapalhando a circulação. | 
-|RQ14|  O usuário deve ter acesso aos termos de uso da aplicação.  
+|RQ10|  O usuário deve ser capaz de ter acesso ao suporte para apoio em um imprevisto durante o uso do aplicativo.  | [RP](../pre_rastreabilidade/rich_picture.md) | [AD](../elicitacao/requisitos/analise_discurso.md), [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ11|  O desenvolvedor deve ser capaz de emitir dicas e instruções nos tempos de ociosidade do aplicativo.  | Não consta | Não consta | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ12|  O usuário deve ser capaz de acessar a central de ajuda.  | [RP](../pre_rastreabilidade/rich_picture.md) | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ13|  O usuário deve ser capaz de reportar um veículo atrapalhando a circulação. | [RP](../pre_rastreabilidade/rich_picture.md) | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ14|  O usuário deve ter acesso aos termos de uso da aplicação. | Não consta | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 
 ### EP02 -  Navegação  
 
@@ -41,18 +42,18 @@
 
 | ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | História de usuário |
 |--|--|--|--|--|--|
-|RQ15|  O usuário deve ser capaz de visualizar o mapa de disponibilidade.|  
-|RQ16|  O usuário deve ser capaz de acessar outras regiões a diferentes distâncias de onde me encontro para saber se há veículos disponíveis naqueles locais.|  
+|RQ15|  O usuário deve ser capaz de visualizar o mapa de disponibilidade.|  [RP](../pre_rastreabilidade/rich_picture.md) | [Prototipação](../elicitacao/requisitos/prototipacao.md), [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ16|  O usuário deve ser capaz de acessar outras regiões a diferentes distâncias de onde me encontro para saber se há veículos disponíveis naqueles locais.|  [RP](../pre_rastreabilidade/rich_picture.md) | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 
 -  **FE04 -**  Localização 
 
 | ID | Requisito | Pré-Rastreabilidade | Elicitação | Modelagem | História de usuário |
 |--|--|--|--|--|--|
-|RQ17|  O usuário deve ser capaz de verificar a localização das bicicletas no mapa.|  
-|RQ18|  O usuário deve ser capaz de verificar a localização dos patinetes no mapa.  
-|RQ19|  O usuário deve ser capaz de verificar sua localização atual.  
-|RQ20|  O usuário devo ser informado sobre a ultrapassagem dos limites de disponibilidades.  
-|RQ21|  O usuário deve ser capaz de identificar o tipo de veículo localizado no mapa.  
+|RQ17|  O usuário deve ser capaz de verificar a localização das bicicletas no mapa.| [Prototipação](../elicitacao/requisitos/prototipacao.md) | [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ18|  O usuário deve ser capaz de verificar a localização dos patinetes no mapa. | [Prototipação](../elicitacao/requisitos/prototipacao.md) | [Questionário](../elicitacao/requisitos/questionario.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ19|  O usuário deve ser capaz de verificar sua localização atual.  | Não consta | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ20|  O usuário devo ser informado sobre a ultrapassagem dos limites de disponibilidades. | Não consta | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
+|RQ21|  O usuário deve ser capaz de identificar o tipo de veículo localizado no mapa. | Não consta | [ST1](../elicitacao/requisitos/storytelling_v1.md) | [Ágil V1](../modelagem/agil.md), [Ágil V2](../modelagem/agil_v2.md) |
 
 ### EP03 -  Pagamentos  
 
