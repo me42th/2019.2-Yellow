@@ -1,182 +1,91 @@
 # BackWardFrom
 
-
-
 ### Tabela de versionamento
-
-
-| Nome|O que fez|Quando|Vers„o|
-
+| Nome|O que fez|Quando|Vers√£o|
 |-----|---------|------|--|
-
 | Gabriela Lemos | Criou o documento. | 18/11/2019 |1.0|
-
-
 
 ## 1. Objetivo
 
+## 2. T√©cnica
 
-
-## 2. TÈcnica
-
-
-
-### EP01 -  VeÌculos  
-
-
+### EP01 -  Ve√≠culos  
 
 -  **FE01 -**  Aluguel  
 
-
-
-| ID | Requisito | PrÈ-Rastreabilidade | ElicitaÁ„o | Modelagem | HistÛria de usu·rio |
-
+| ID | Requisito | Pr√©-Rastreabilidade | Elicita√ß√£o | Modelagem | Hist√≥ria de usu√°rio |
 |--|--|--|--|--|--|
-
-|RQ01  |O usu·rio deve ser capaz de realizar o desbloqueio de uma bicicleta.    |
-
-|RQ02| O usu·rio deve ser capaz de realizar o desbloqueio de um patinete. | 
-
-|RQ03|O usu·rio deve ser capaz de bloquear a bicicleta apÛs o uso.|
-
-|RQ04|O usu·rio deve ser capaz de bloquear o patinete apÛs o uso. | 
-
-|RQ05| O usu·rio deve receber informaÁıes de valor cobrado, tempo, dist‚ncia, entre outras informaÁıes. | 
-
-|RQ06|  O usu·rio deve ser capaz de avaliar a viagem.  |
-
-|RQ07|  O usu·rio deve ser capaz de compartilhar a minha viagem. |
-
-|RQ08|  O usu·rio deve ser capaz de identificar o nÌvel de bateria do veÌculo elÈtrico.  |
-
-|RQ09|  O usu·rio deve receber certas instruÁıes antes de minha primeira viagem. | 
-
-
+|RQ01  |O usu√°rio deve ser capaz de realizar o desbloqueio de uma bicicleta.    |
+|RQ02| O usu√°rio deve ser capaz de realizar o desbloqueio de um patinete. | 
+|RQ03|O usu√°rio deve ser capaz de bloquear a bicicleta ap√≥s o uso.|  
+|RQ04|O usu√°rio deve ser capaz de bloquear o patinete ap√≥s o uso. | 
+|RQ05| O usu√°rio deve receber informa√ß√µes de valor cobrado, tempo, dist√¢ncia, entre outras informa√ß√µes. | 
+|RQ06|  O usu√°rio deve ser capaz de avaliar a viagem.  |
+|RQ07|  O usu√°rio deve ser capaz de compartilhar a minha viagem. | 
+|RQ08|  O usu√°rio deve ser capaz de identificar o n√≠vel de bateria do ve√≠culo el√©trico.  |
+|RQ09|  O usu√°rio deve receber certas instru√ß√µes antes de minha primeira viagem. | 
 
 -  **FE02 -**  Suporte 
 
-
-
-| ID | Requisito | PrÈ-Rastreabilidade | ElicitaÁ„o | Modelagem | HistÛria de usu·rio |
-
+| ID | Requisito | Pr√©-Rastreabilidade | Elicita√ß√£o | Modelagem | Hist√≥ria de usu√°rio |
 |--|--|--|--|--|--|
+|RQ10|  O usu√°rio deve ser capaz de ter acesso ao suporte para apoio em um imprevisto durante o uso do aplicativo.  |
+|RQ11|  O desenvolvedor deve ser capaz de emitir dicas e instru√ß√µes nos tempos de ociosidade do aplicativo.  |
+|RQ12|  O usu√°rio deve ser capaz de acessar a central de ajuda.  |
+|RQ13|  O usu√°rio deve ser capaz de reportar um ve√≠culo atrapalhando a circula√ß√£o. | 
+|RQ14|  O usu√°rio deve ter acesso aos termos de uso da aplica√ß√£o.  
 
-|RQ10|  O usu·rio deve ser capaz de ter acesso ao suporte para apoio em um imprevisto durante o uso do aplicativo.  |
-
-|RQ11|  O desenvolvedor deve ser capaz de emitir dicas e instruÁıes nos tempos de ociosidade do aplicativo.  |
-
-|RQ12|  O usu·rio deve ser capaz de acessar a central de ajuda.  |
-
-|RQ13|  O usu·rio deve ser capaz de reportar um veÌculo atrapalhando a circulaÁ„o. | 
-
-|RQ14|  O usu·rio deve ter acesso aos termos de uso da aplicaÁ„o.  
-
-
-
-### EP02 -  NavegaÁ„o  
-
-
+### EP02 -  Navega√ß√£o  
 
 - **FE03** -  Mapa  
 
-
-
-| ID | Requisito | PrÈ-Rastreabilidade | ElicitaÁ„o | Modelagem | HistÛria de usu·rio |
-
+| ID | Requisito | Pr√©-Rastreabilidade | Elicita√ß√£o | Modelagem | Hist√≥ria de usu√°rio |
 |--|--|--|--|--|--|
+|RQ15|  O usu√°rio deve ser capaz de visualizar o mapa de disponibilidade.|  
+|RQ16|  O usu√°rio deve ser capaz de acessar outras regi√µes a diferentes dist√¢ncias de onde me encontro para saber se h√° ve√≠culos dispon√≠veis naqueles locais.|  
 
-|RQ15|  O usu·rio deve ser capaz de visualizar o mapa de disponibilidade.|  
+-  **FE04 -**  Localiza√ß√£o 
 
-|RQ16|  O usu·rio deve ser capaz de acessar outras regiıes a diferentes dist‚ncias de onde me encontro para saber se h· veÌculos disponÌveis naqueles locais.|  
-
-
-
--  **FE04 -**  LocalizaÁ„o 
-
-
-
-| ID | Requisito | PrÈ-Rastreabilidade | ElicitaÁ„o | Modelagem | HistÛria de usu·rio |
-
+| ID | Requisito | Pr√©-Rastreabilidade | Elicita√ß√£o | Modelagem | Hist√≥ria de usu√°rio |
 |--|--|--|--|--|--|
-
-|RQ17|  O usu·rio deve ser capaz de verificar a localizaÁ„o das bicicletas no mapa.|  
-
-|RQ18|  O usu·rio deve ser capaz de verificar a localizaÁ„o dos patinetes no mapa.  
-
-|RQ19|  O usu·rio deve ser capaz de verificar sua localizaÁ„o atual.  
-
-|RQ20|  O usu·rio devo ser informado sobre a ultrapassagem dos limites de disponibilidades.  
-
-|RQ21|  O usu·rio deve ser capaz de identificar o tipo de veÌculo localizado no mapa.  
-
-
+|RQ17|  O usu√°rio deve ser capaz de verificar a localiza√ß√£o das bicicletas no mapa.|  
+|RQ18|  O usu√°rio deve ser capaz de verificar a localiza√ß√£o dos patinetes no mapa.  
+|RQ19|  O usu√°rio deve ser capaz de verificar sua localiza√ß√£o atual.  
+|RQ20|  O usu√°rio devo ser informado sobre a ultrapassagem dos limites de disponibilidades.  
+|RQ21|  O usu√°rio deve ser capaz de identificar o tipo de ve√≠culo localizado no mapa.  
 
 ### EP03 -  Pagamentos  
 
+-  **FE05:**  Intera√ß√£o  
 
-
--  **FE05:**  InteraÁ„o  
-
-
-
-| ID | Requisito | PrÈ-Rastreabilidade | ElicitaÁ„o | Modelagem | HistÛria de usu·rio |
-
+| ID | Requisito | Pr√©-Rastreabilidade | Elicita√ß√£o | Modelagem | Hist√≥ria de usu√°rio |
 |--|--|--|--|--|--|
+|RQ22|  O desenvolvedor deve ser capaz de disponibilizar promo√ß√µes para os meus usu√°rios.  |
+|RQ23| O usu√°rio deve ser capaz de solicitar reembolso em caso de cobran√ßas indevidas.  |
+|RQ24|  O usu√°rio deve ser capaz de compartilhar cr√©ditos com outros usu√°rios.  |
+|RQ25| O usu√°rio deve ser capaz de observar promo√ß√µes ativas no atual momento.  |
 
-|RQ22|  O desenvolvedor deve ser capaz de disponibilizar promoÁıes para os meus usu·rios.  |
-
-|RQ23| O usu·rio deve ser capaz de solicitar reembolso em caso de cobranÁas indevidas.  |
-
-|RQ24|  O usu·rio deve ser capaz de compartilhar crÈditos com outros usu·rios.  |
-
-|RQ25| O usu·rio deve ser capaz de observar promoÁıes ativas no atual momento.  |
-
-
-
--  **FE06:**  Recarga de crÈdito 
+-  **FE06:**  Recarga de cr√©dito 
  
-
-| ID | Requisito | PrÈ-Rastreabilidade | ElicitaÁ„o | Modelagem | HistÛria de usu·rio |
-
+| ID | Requisito | Pr√©-Rastreabilidade | Elicita√ß√£o | Modelagem | Hist√≥ria de usu√°rio |
 |--|--|--|--|--|--|
+|RQ26| O usu√°rio deve ser capaz de cadastrar um cart√£o de cr√©dito.  |
+|RQ27|  O usu√°rio deve ser capaz inserir cr√©ditos de forma virtual.  |
+|RQ28|  O usu√°rio deve ser capaz de inserir cr√©ditos de forma f√≠sica.  |
+|RQ29| O usu√°rio deve ser capaz de optar a transa√ß√£o entre diferentes empresas do setor de pagamento fossem englobadas.  |
+|RQ30|  O usu√°rio deve ser capaz de examinar a quantia de cr√©ditos que possuo na conta. | 
 
-|RQ26| O usu·rio deve ser capaz de cadastrar um cart„o de crÈdito.  |
+### EP04 - Usu√°rio
+ -  **FE07:** Rela√ß√£o Usu√°rio-Sistema  
 
-|RQ27|  O usu·rio deve ser capaz inserir crÈditos de forma virtual.  |
-
-|RQ28|  O usu·rio deve ser capaz de inserir crÈditos de forma fÌsica.  |
-
-|RQ29| O usu·rio deve ser capaz de optar a transaÁ„o entre diferentes empresas do setor de pagamento fossem englobadas.  |
-
-|RQ30|  O usu·rio deve ser capaz de examinar a quantia de crÈditos que possuo na conta. | 
-
-
-
-### EP04 - Usu·rio
- 
-
--  **FE07:** RelaÁ„o Usu·rio-Sistema  
-
-
-
-| ID | Requisito | PrÈ-Rastreabilidade | ElicitaÁ„o | Modelagem | HistÛria de usu·rio |
-
+| ID | Requisito | Pr√©-Rastreabilidade | Elicita√ß√£o | Modelagem | Hist√≥ria de usu√°rio |
 |--|--|--|--|--|--|
-
-|RQ35| O usu·rio deve ser capaz de escolher entre possibilidades de login, Google entre Facebook.  
-
-|RQ36|  O usu·rio deve ser capaz de optar pela minha opÁ„o de idioma.  
-
-|RQ37|  O usu·rio deve ser capaz de fazer login na aplicaÁ„o.  
-
-|RQ38| O usu·rio deve ser capaz de sair da atual conta em uso.  
-
-|RQ39|  O usu·rio deve ser capaz de contatar o suporte sem eventuais empecilhos.  
-
-|RQ40|  O usu·rio deve ser capaz de contatar o suporte por mais de uma forma.  
-
-|RQ41|  O usu·rio deve ter acesso ao meu histÛrico de viagens.  
-
-|RQ42|  O usu·rio deve ser capaz de verificar o cadastro de modo flexÌvel.  
-
-|RQ43| O usu·rio deve ser capaz de compartilhar a minha viagem.
+|RQ35| O usu√°rio deve ser capaz de escolher entre possibilidades de login, Google entre Facebook.  
+|RQ36|  O usu√°rio deve ser capaz de optar pela minha op√ß√£o de idioma.  
+|RQ37|  O usu√°rio deve ser capaz de fazer login na aplica√ß√£o.  
+|RQ38| O usu√°rio deve ser capaz de sair da atual conta em uso.  
+|RQ39|  O usu√°rio deve ser capaz de contatar o suporte sem eventuais empecilhos.  
+|RQ40|  O usu√°rio deve ser capaz de contatar o suporte por mais de uma forma.  
+|RQ41|  O usu√°rio deve ter acesso ao meu hist√≥rico de viagens.  
+|RQ42|  O usu√°rio deve ser capaz de verificar o cadastro de modo flex√≠vel.  
+|RQ43| O usu√°rio deve ser capaz de compartilhar a minha viagem.
