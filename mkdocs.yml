@@ -77,7 +77,11 @@ nav:
             - Rich Picture: analise/verificacao/rich_picture.md
             - Cenários: analise/verificacao/cenarios.md
         - Validação: analise/validacao/validacao.md
-
+    - Pós-Rastreabilidade:
+        - BackWard From: pos-rastreabilidade/backward.md
+        - Forward To: pos-rastreabilidade/forwardto.md
+        - FactBox: pos-rastreabilidade/forwardto.md
+        
 theme:
   palette:
       primary: 'black'
