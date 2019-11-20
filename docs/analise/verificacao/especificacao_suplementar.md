@@ -1,12 +1,12 @@
-| Nome | O que fez |  Quando | 
-| -------- | -------- | -------- |
-| Julio Litwin | Criou o documento. |Data: 04/11/2019|
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Julio Litwin | Criou o documento. |04/11/2019| Remoto, via Google Drive|
 
-Introdução
-===
-### Finalidade
+# Especificação Suplementar (Verificação)
 
-Este documento tem como objetivo verificar a especificação suplementar para detectar os erros e defeitos antes de finalizar o projeto. Para a especificação suplementar, será analisado a forma como foram levantados e documentados os requisitos não funcionais de usabilidade, confiabilidade, desempenho e suportabilidade. Foi utilizado o Checklist para fazer essa verificação o que facilita a identificação de erros. Checklist é básicamente um conjunto de perguntas ou afirmações sobre determinada circunstância ao qual se deseja verificar, dependendo da sua finalidade e objetivo. 
+**Finalidade**
+
+<p align="justify">Este documento tem como objetivo verificar a especificação suplementar para detectar os erros e defeitos antes de finalizar o projeto. Para a especificação suplementar, será analisado a forma como foram levantados e documentados os requisitos não funcionais de usabilidade, confiabilidade, desempenho e suportabilidade. Foi utilizado o Checklist para fazer essa verificação o que facilita a identificação de erros. Checklist é básicamente um conjunto de perguntas ou afirmações sobre determinada circunstância ao qual se deseja verificar, dependendo da sua finalidade e objetivo. </p>
 
 ### Tabela de Perguntas
 | ID | Questão | Inspeção |  
@@ -37,7 +37,7 @@ Este documento tem como objetivo verificar a especificação suplementar para de
 
 ### Conclusão
 
-É concluído que apenas 31,6% da análise de verificação foram realizada. Com tal resultado, com porcentagem a baixo do esperado, será necessário ser realizado a correção/melhoraria do documento de especificação suplementar o quanto antes.
+<p align="justify">É concluído que apenas 31,6% da análise de verificação foram realizada. Com tal resultado, com porcentagem a baixo do esperado, será necessário ser realizado a correção/melhoraria do documento de especificação suplementar o quanto antes.</p>
 
 ### Referências
 - **Requisitos de Software Habitica Especificação Suplementar **. Disponível em: https://requisitos-habitica.herokuapp.com/EspecificacaoSuplementar

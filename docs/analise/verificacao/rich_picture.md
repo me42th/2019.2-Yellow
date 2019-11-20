@@ -1,8 +1,9 @@
-| Nome|O que fez|Quando|
-|-----|---------|------|
-| Pedro Igor | Criou o documento. | 05/11/2019 |
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Pedro Igor | Criou o documento. |05/11/2019| Remoto, via Google Drive|
 
-# Verificação Rich Pictures
+# Rich Picture (Verificação)
+
 ## Objetivo
 O objetivo no processo de verificação consiste em reavaliar todos os módulos até então desenvolvidos, visando um maior êxito quanto ao processo de validação. É importante que o nosso trabalho esteja o mais próximo da realidade da aplicação e tenhamos plena convicção que os dados inseridos no projeto de fato agregam para a aplicação algum conteúdo de forma adequada, precisa e correta.
 

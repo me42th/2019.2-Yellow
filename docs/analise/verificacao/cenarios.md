@@ -1,6 +1,8 @@
-|Versão| Nome | O que fez |  Quando |
-|------|------| --------  |-------- |
-|1.0| Dâmaso Júnio | Criou o documento. |Data: 04/11/2019|
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Dâmaso Júnio | Criou o documento. |04/11/2019| Remoto, via Google Drive|
+
+# Cenários (Verificação)
 
 **Checklist**
 
@@ -32,7 +34,7 @@
 **Pendências**
 
 - Cenários não linkados com os léxicos: C01, C04, C07
-- Atores não linkados com os léxicos: Todos 
+- Atores não linkados com os léxicos: Todos
 
 **Solução**
 

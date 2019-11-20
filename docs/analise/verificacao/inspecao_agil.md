@@ -1,9 +1,11 @@
-| Inspeção Ágil  | Data e Versão| 
-| -------- | -------- |
-| Participantes: Lucas Gomes | Data: 04/11/2019, Versão 1.0|
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Lucas Gomes | Criou o documento. |04/11/2019| Remoto, via Google Drive|
 
-## Introdução 
-A inspeção do backlog tem por objetivo encontrar possíveis erros, ausência de informações e melhorias necessárias no documento. 
+# Ágil (Verificação)
+
+## Introdução
+A inspeção do backlog tem por objetivo encontrar possíveis erros, ausência de informações e melhorias necessárias no documento.
 
 ## Metodologia
 Para realizar a inspeção em cima do documento foi elaborado um checklist com as principais características necessárias em um backlog. Logo abaixo segue uma tabela com os itens e se o item foi atendido (check verde) ou não (um x vermelho).
@@ -30,6 +32,6 @@ Para realizar a inspeção em cima do documento foi elaborado um checklist com a
 ## Conclusão
 Analisando a checklist utilizada como forma de avaliar se o documento atende ou não as especificações de um backlog e o gráfico gerado por ela, é possível visualizar que o documento se encontra com 50% dos tópicos atendidos, porcentagem abaixo do esperado pela quantidade de detalhes que o documento possui. Visando a melhoria do backlog, é necessário adicionar as informações citadas anteriormente como melhoras.
 
-## Referências
+### Referências
 - **SERRANO, Maurício; SERRANO, Milene. Requisitos** - Aula 15. 2º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 - **SERRANO, Maurício; SERRANO, Milene. Requisitos** - Aula 20. 2º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
