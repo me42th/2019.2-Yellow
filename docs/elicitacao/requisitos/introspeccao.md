@@ -1,6 +1,9 @@
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Dâmaso Júnio | Criou o documento. |27/09/2019| Remoto, via Google Drive |
+|1.1| Dâmaso Júnio | Formatou o documento | 18/11/2019 | Remoto |
 
-<center><h1>Introspecção</h1></center>
-<center>Autor: Damaso Junio</center>
+# Introspecção
 
 **Primeiro acesso ao aplicativo:**
 

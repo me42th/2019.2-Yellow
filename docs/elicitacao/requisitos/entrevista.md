@@ -1,20 +1,31 @@
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Letícia Karla | Realizou as entrevistas |26/09/2019 das 09hrs às 14hrs,</br> 27/09/2019 das 09hrs às 12hrs,</br> 28/09/2019 das 13hrs às 14hrs| Campus Darcy Ribeiro</br> Rodoviária do Plano Piloto</br> Águas Claras|
+|1.1| Dâmaso Júnio | Formatou o documento | 18/11/2019 | Remoto
+
 # Entrevista
 
-##### PARTICIPANTE: Letícia Karla S. R. de Araújo.
-##### LOCAL: Brasília: Campus Darcy Ribeiro, Brasília: Rodoviária do Plano Piloto, Água Claras.
-##### DATA/HORA: 26 de Setembro de 2019 - De 09h à 14h, 27 de Setembro de 2019 - De 09h à 12h, 28 de Setembro de 2019 - De 13h à 14h.
 
-#### A técnica de entrevista teve como enfoque coletar dados pessoalmente dos usuários, de forma que auxiliasse traçar estrategicamente objetivos para levantar requisitos funcionais e não funcionais do aplicativo Yellow. 
+<p align="justify">A técnica de entrevista teve como enfoque coletar dados pessoalmente dos usuários, de forma que auxiliasse traçar estrategicamente objetivos para levantar requisitos funcionais e não funcionais do aplicativo Yellow.</p>
 
-### Local de Entrevista
+**Local de Entrevista**
+
 ![LocalEntrevista](/img/elicitacao/requisitos/entrevista/local_entrevista.png)
-### Idades
+
+**Idades**
+
 ![IdadeEntrevista](/img/elicitacao/requisitos/entrevista/idade_entrevista.png)
-### Sexo
+
+**Sexo**
+
 ![SexoEntrevista](/img/elicitacao/requisitos/entrevista/sexo_entrevista.png)
-### Tempo como usuário
+
+**Tempo como usuário**
+
 ![TempoEntrevista](/img/elicitacao/requisitos/entrevista/tempo_entrevista.png)
-### Motivo da Utilização
+
+**Motivo da Utilização**
+
 | Nome|Opinião|
 |-----|---------|
 |Adriana| "Para ir da rodoviária ao trabalho".|
@@ -45,23 +56,40 @@
 |Maria Clara|"Para passear com a minha família no parque de águas claras".|
 |Pedro|"Para ir em lugares mais longes de onde eu moro".|
 
-### Valor Cobrado
+**Valor Cobrado**
+
 ![ValorCobradoEntrevista](/img/elicitacao/requisitos/entrevista/valor_cobrado_entrevista.png)
-### Atendimento Técnico
+
+**Atendimento Técnico**
+
 ![AssistTecnEntrevista](/img/elicitacao/requisitos/entrevista/assistencia_tecnica_entrevista.png)
-### Uso +Bike
+
+**Uso +Bike**
+
 ![UsoBike](/img/elicitacao/requisitos/entrevista/uso_bike.png)
-### +Bike ou Yellow?
+
+**+Bike ou Yellow?**
+
 ![PreferenciaEntrevista](/img/elicitacao/requisitos/entrevista/preferencia_entrevista.png)
-### Bicicleta ou Patinete?
+
+**Bicicleta ou Patinete?**
+
 ![PatineteOuBicicleta](/img/elicitacao/requisitos/entrevista/patinete_ou_bicicleta.png)
-### Lazer ou Locomoção?
+
+**Lazer ou Locomoção?**
+
 ![LocomocaoEntrevista](/img/elicitacao/requisitos/entrevista/locomocao_entrevista.png)
-### Mais rápido?
+
+**Mais rápido?**
+
 ![RapidezEntrevista](/img/elicitacao/requisitos/entrevista/rapidez_entrevista.png)
-### Mais econômico?
+
+**Mais econômico?**
+
 ![EconomiaEntrevista](/img/elicitacao/requisitos/entrevista/economia_entrevista.png)
-### Necessidade de Assistência Técnica
+
+**Necessidade de Assistência Técnica**
+
 | Nome|Opinião|
 |-----|---------|
 |Adriana|"Não".|
@@ -91,26 +119,34 @@
 |Maria Clara|"Não".|
 |Pedro|"Não".|
 
-###Educação no trânsito
+**Educação no trânsito**
+
 ![EducacaoEntrevista](/img/elicitacao/requisitos/entrevista/educacao_entrevista.png)
-###Compartilhamento de Crédito
+
+**Compartilhamento de Crédito**
+
 ![CompCreditoEntrevista](/img/elicitacao/requisitos/entrevista/compartilhamento_de_credito_entrevista.png)
-###Pagamento de Boletos Bancários
+
+**Pagamento de Boletos Bancários**
+
 ![BolBancarioEntrevista](/img/elicitacao/requisitos/entrevista/boleto_bancario_entrevista.png)
-###Indicação
+
+**Indicação**
+
 ![IndicacaoEntrevista](/img/elicitacao/requisitos/entrevista/indicacao_entrevista.png)
 
-### Conclusão
+**Conclusão**
 
-#### Com o uso desta técnica em conjunto com outras técnicas de elicitação, o grupo pode realizar uma análise sobre quais os requisitos funcionais e não funcionais seriam convenientes de serem levantados. Os quais o funcionais mais afetados pela técnica são:
-* RF001 (O sistema deve permitir o cadastro de novos usuários); 
+<p align="justify">Com o uso desta técnica em conjunto com outras técnicas de elicitação, o grupo pode realizar uma análise sobre quais os requisitos funcionais e não funcionais seriam convenientes de serem levantados. Os quais o funcionais mais afetados pela técnica são:</p>
+
+* RF001 (O sistema deve permitir o cadastro de novos usuários);
 * RF003 (O sistema tem que ser capaz de recarregar créditos para a utilização dos veículos);
 * RF004 (O sistema tem que mostrar a localização dos veículos disponíveis);
 * RF005 (O usuário tem que ser capaz de desbloquear um veículo (público));
-* RF007 (O sistema poderia permitir compartilhamento de crédito); 
-* RF009 (A aplicação deveria ter integração com bancos digitais de forma que facilite a inserção de crédito). 
+* RF007 (O sistema poderia permitir compartilhamento de crédito);
+* RF009 (A aplicação deveria ter integração com bancos digitais de forma que facilite a inserção de crédito).
 
-#### Já os não funcionais mais afetados pela técnica são:
+Já os não funcionais mais afetados pela técnica são:
 * RNF001 (A aplicação deve ser prática e simples de utilizar);
 * RNF005 (O custo para aluguel de um meio de transporte deve ser baixo);
 * RNF006 (A aplicação deve abranger a maior área urbana possível);

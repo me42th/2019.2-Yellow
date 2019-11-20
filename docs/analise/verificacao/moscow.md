@@ -1,6 +1,8 @@
-|Versão| Nome | O que fez |  Quando |
-|------|------| --------  |-------- |
-|1.0| Dâmaso Júnio | Criou o documento. |Data: 16/11/2019|
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Dâmaso Júnio | Criou o documento. |16/11/2019| Remoto, via Google Drive|
+
+# MoSCoW (Verificação)
 
 **Checklist**
 
