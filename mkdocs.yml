@@ -71,19 +71,20 @@ nav:
               - NFR: modelagem/nfr_framework/nfr_v2/nfr_v2.md
     - Análise:
         - Verificação:
-            - Ágil: analise/verificacao/inspecao_agil.md
-            - Especificação Suplementar: verificao/especificacao_suplementar.md
-            - NFR: analise/verificacao/nfr.md
-            - Casos de Uso: analise/verificacao/casos_de_uso.md
-            - Especificação Suplementar: analise/verificacao/especificacao_suplementar.md
             - Ágil: analise/verificacao/agil.md
+            - NFR: analise/verificacao/nfr.md
+            #- Casos de Uso: analise/verificacao/casos_de_uso.md
+            - Especificação Suplementar: analise/verificacao/especificacao_suplementar.md
             - Cenários: analise/verificacao/cenarios.md
-            - Léxicos: analise/verificacao/lexicos.md
+            #- Léxicos: analise/verificacao/lexicos.md
             - Rich Picture: analise/verificacao/rich_picture.md
             - MoSCoW: analise/verificacao/moscow.md
             - Personas: analise/verificacao/personas.md
         - Validação: analise/validacao/validacao.md
-
+    - Pós-Rastreabilidade:
+        - BackWard From: pos_rastreabilidade/backward.md
+        - Forward To: pos_rastreabilidade/forwardto.md
+        
 theme:
   palette:
       primary: 'black'

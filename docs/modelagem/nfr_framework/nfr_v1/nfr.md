@@ -2,4 +2,4 @@
 |------|------| --------  |-------- |
 |1.0| Todos do grupo | Criaram o documento. |Data: 15/10/2019|
 
-![](../../../img/analise/verificacao/nfr_framework/nfr.jpg)
+![](../../../img/modelagem/nfr_framework/nfr.jpg)
