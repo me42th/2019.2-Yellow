@@ -1,14 +1,14 @@
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Julio Litwin | Criou o documento. |30/09/2019| Remoto, via Google Drive|
+|1.1| Julio Litwin | Adicionado léxicos de cenários que estavam faltando |19/11/2019| Remoto, via Google Drive|
+|1.2| Julio Litwin | Corrigido alguns problemas a partir da análise realizada. |19/11/2019| Remoto, via Google Drive|
+
 # Léxico
 
-### Histórico de edições
-| Nome|O que fez|Quando|
-|-----|---------|------|
-| Julio | Criou o documento. | 30/09/2019 |
-| Julio | Adicionado léxicos de cenários que estavam faltando. | 19/11/2019 |
-| Julio | Corrigido alguns problemas a partir da análise realizada | 19/11/2019 |
+**Metodologia:**
 
-## Metodologia:
-Uma notação que usa descrição de termos via léxico é o: **LAL - Léxico Ampliado da Linguagem**. Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. O principal objetivo a ser perseguido pelos Engenheiros de Requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo.
+<p align="justify">Uma notação que usa descrição de termos via léxico é o: **LAL - Léxico Ampliado da Linguagem**. Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. O principal objetivo a ser perseguido pelos Engenheiros de Requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo.</p>
 
 | Definição | Sinônimo(s) | Noção | Impacto | Classificação |
 |-----|---------|------|---------|---------|
@@ -28,5 +28,5 @@ Uma notação que usa descrição de termos via léxico é o: **LAL - Léxico Am
 | Termos de Uso | Regras, condições | Condições e regras para o uso da Yellow | O usuário deverá ler e concordar com os termos de uso da Yellow para poder usufruir sem problemas futuros e o usuário sempre terá acesso aos termos caso ainda haja alguma dúvida. | Objeto
 | Sair | Fechar, terminar | Sair da atual conta em uso | O usuário poderá deslogar a atual conta da Yellow caso deseje fechar o aplicativo | Verbo
 
-## Referência:
+### Referências
 SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

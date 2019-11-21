@@ -60,12 +60,15 @@ nav:
         - Especificação Suplementar: modelagem/especificacao_suplementar.md
         - Léxicos: modelagem/lexicos.md
         - NFR Framework:
-            - NFR: modelagem/nfr_framework/nfr.md
-            - Confiabilidade: modelagem/nfr_framework/confiabilidade.md
-            - Desempenho: modelagem/nfr_framework/desempenho.md
-            - Geral: modelagem/nfr_framework/geral.md
-            - Interface: modelagem/nfr_framework/interface.md
-            - Usabilidade: modelagem/nfr_framework/usabilidade.md
+            - NFR v1:
+              - NFR: modelagem/nfr_framework/nfr_v1/nfr.md
+              - Confiabilidade: modelagem/nfr_framework/nfr_v1/confiabilidade.md
+              - Desempenho: modelagem/nfr_framework/nfr_v1/desempenho.md
+              - Geral: modelagem/nfr_framework/nfr_v1/geral.md
+              - Interface: modelagem/nfr_framework/nfr_v1/interface.md
+              - Usabilidade: modelagem/nfr_framework/nfr_v1/usabilidade.md
+            - NFR v2:
+              - NFR: modelagem/nfr_framework/nfr_v2/nfr_v2.md
     - Análise:
         - Verificação:
             - Ágil: analise/verificacao/agil.md
@@ -75,7 +78,8 @@ nav:
             - Cenários: analise/verificacao/cenarios.md
             #- Léxicos: analise/verificacao/lexicos.md
             - Rich Picture: analise/verificacao/rich_picture.md
-            - Cenários: analise/verificacao/cenarios.md
+            - MoSCoW: analise/verificacao/moscow.md
+            - Personas: analise/verificacao/personas.md
         - Validação: analise/validacao/validacao.md
     - Pós-Rastreabilidade:
         - BackWard From: pos_rastreabilidade/backward.md

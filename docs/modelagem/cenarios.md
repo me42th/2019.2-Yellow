@@ -1,25 +1,20 @@
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Pedro Igor | Criou o documento. |30/09/2019| Remoto|
+|1.1| Pedro Igor | Adicionou mais detalhes aos cenários |30/09/2019| Remoto|
+|1.2| Pedro Igor | Adicionou mais cenários para a tela "Meu Saldo." |08/10/2019| Remoto|
+|1.3| Pedro Igor | Adicionou mais cenários de login/cadastro e menu lateral esquerdo. |01/11/2019| Remoto|
+|1.4| Pedro Igor | Refatorou cenários de acordo com os resultados da inspeção realizada pelo Dâmaso. |01/11/2019| Remoto |
+|1.5| Dâmaso Júnio | Formatou tabela de versão. |19/11/2019| Remoto |
+
 # Cenários
 
-### Histórico de edições
-| Nome|O que fez|Quando|
-|-----|---------|------|
-| Pedro Igor | Criou o documento. | 30/09/2019 |
-| Pedro Igor | Adicionou mais detalhes aos cenários. | 30/09/2019 |
-| Pedro Igor | Adicionou cenários para a tela "Meu saldo". | 08/10/2019 |
-| Pedro Igor | Adicionou cenários de login/cadastro e menu lateral esquerdo. | 01/11/2019 |
-| Pedro Igor | Refatorou cenários de acordo com os resultados da inspeção realizada pelo Dâmaso. | 18/11/2019 |
-
-<br>
+<p align="justify">Cenários são utilizados para o desenvolvimento de possibilidades de utilização de determinado produto. Sendo assim, são definidas características de cenários reais para a imaginação de algo atualmente imaginável porém de possível execução. É definido um objetivo que comumente é a realização de uma tarefa disponível, logo em seguida são descritos características como contexto, atores participantes, recursos necessários, cenas deste cenário, restrições aos participantes das cenas assim como exceções que possam interromper o cumprimento do objetivo inicial.</p>
 
 
-## Sobre Cenários
-Cenários são utilizados para o desenvolvimento de possibilidades de utilização de determinado produto. Sendo assim, são definidas características de cenários reais para a imaginação de algo atualmente imaginável porém de possível execução. É definido um objetivo que comumente é a realização de uma tarefa disponível, logo em seguida são descritos características como contexto, atores participantes, recursos necessários, cenas deste cenário, restrições aos participantes das cenas assim como excessões que possam interromper o cumprimento do objetivo inicial.
-
-
-## <b>Saldo</b>
+## Saldo
 ****
-### <b>Histórico de transações</b>
-****
+**Histórico de transações**
 
 <b>Objetivo:</b> Visualizar o histórico de transações.
 
@@ -44,8 +39,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Solicitação de reembolso</b>
-****
+**Solicitação de reembolso**
 
 <b>Objetivo:</b> Solicitar um reembolso.
 
@@ -74,8 +68,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Centro de Ajuda</b>
-****
+**Centro de Ajuda**
 
 <b>Objetivo:</b> Encontrar ajuda na utilização.
 
@@ -100,8 +93,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Excessões:</b> Erro na conexão com a internet. Bug no app que não mostra o conteúdo a ser mostrado.<br>
 
 ****
-### <b>Pagar conta e serviços</b>
-****
+**Pagar conta e serviços**
 
 <b>Objetivo:</b> Pagar uma conta ou serviço por meio do app.
 
@@ -127,8 +119,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Pagar conta e serviços</b>
-****
+**Pagar conta e serviços**
 
 <b>Objetivo:</b> Pagar uma conta ou serviço por meio do app.
 
@@ -154,8 +145,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Recarga de celular</b>
-****
+**Recarga de celular**
 
 <b>Objetivo:</b> Recarregar número de celular.
 
@@ -181,8 +171,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Transferir crédito</b>
-****
+**Transferir crédito**
 
 <b>Objetivo:</b> Transferir créditos entre contas.
 
@@ -207,8 +196,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Adicionar crédito</b>
-****
+**Adicionar crédito**
 
 <b>Objetivo:</b> Adicionar crédito a conta.
 
@@ -233,11 +221,10 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 
-## <b>Cadastro e Login</b>
+## Cadastro e Login
 
 ****
-### <b>No Android e IOS</b>
-****
+**No Android e IOS**
 
 <b>Objetivo:</b> Criar uma conta ou entrar em uma conta existente.
 
@@ -262,12 +249,9 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 
-## <b>Utilização</b>
-
-
+## Utilização
 ****
-### <b>Centro de Ajuda (Tela principal) </b>
-****
+**Centro de Ajuda (Tela principal)**
 
 <b>Objetivo:</b> Encontrar ajuda com carteira, bicicleta ou patinete.
 
@@ -293,8 +277,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Reportar problema</b>
-****
+**Reportar problema**
 
 <b>Objetivo:</b> Reportar problema encontrado na utilização da aplicação.
 
@@ -319,8 +302,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
 
 ****
-### <b>Contatar suporte</b>
-****
+**Contatar suporte**
 
 <b>Objetivo:</b> Entrar em contato com o suporte.
 
@@ -345,8 +327,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
 
 ****
-### <b>Encontrar patinete</b>
-****
+**Encontrar patinete**
 
 <b>Objetivo:</b> Encontrar um patinete disponível para utilização.
 
@@ -371,8 +352,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Encontrar bicicleta</b>
-****
+**Encontrar bicicleta**
 
 <b>Objetivo:</b> Encontrar uma bicicleta disponível para utilização.
 
@@ -397,10 +377,9 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Liberar veículo</b>
-****
+**Liberar veículo**
 
-<b>Objetivo:</b> Liberar um veículo para utilização. 
+<b>Objetivo:</b> Liberar um veículo para utilização.
 
 <b>Contexto:</b><br>
 - <b>Local:</b> Tela inicial.<br>
@@ -423,8 +402,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Excessões:</b> Rasura no QR Code do veículo.<br>
 
 ****
-### <b>Utilização da Yellow - Lazer</b>
-****
+**Utilização da Yellow - Lazer**
 
 <b>Objetivo:</b> Utilizar uma bicicleta para lazer.
 
@@ -450,9 +428,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Excessões:</b> Não encontrar bicicleta disponível, bicicleta disponível com defeito.<br>
 
 ****
-### <b>Utilização da Yellow - Trabalho</b>
-****
-Título: 
+**Utilização da Yellow - Trabalho**
 
 <b>Objetivo:</b> Utilizar uma bicicleta para o transporte para o trabalho.
 
@@ -474,8 +450,7 @@ Título:
 - O usuário bloqueia novamente a bicicleta.<br>
 
 ****
-### <b>Utilização da Yellow - Transporte até Faculdade</b>
-****
+**Utilização da Yellow - Transporte até Faculdade**
 
 <b>Objetivo:</b> Utilizar uma bicicleta para o transporte até a faculdade.
 
@@ -498,8 +473,7 @@ Título:
 
 
 ****
-### <b>Utilização da Yellow - Transporte entre prédios da faculdade</b>
-****
+**Utilização da Yellow - Transporte entre prédios da faculdade**
 
 <b>Objetivo:</b> Utilizar uma bicicleta para o transporte entre prédios da faculdade.
 
@@ -520,11 +494,10 @@ Título:
 - O usuário se locomove para os locais necessários.<br>
 - O usuário bloqueia novamente a bicicleta.<br>
 
-## <b>Menu lateral esquerdo</b>
+## Menu lateral esquerdo
 
 ****
-### <b>Ganhe corridas grátis</b>
-****
+**Ganhe corridas grátis**
 
 <b>Objetivo:</b> Ganhar corridas grátis.
 
@@ -549,8 +522,7 @@ Título:
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
 
 ****
-### <b>Promoções</b>
-****
+**Promoções**
 
 <b>Objetivo:</b> Aplicar promoções.
 
@@ -576,8 +548,7 @@ Título:
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo, código de promoção antigo ou inválido.<br>
 
 ****
-### <b>Minhas viagens</b>
-****
+**Minhas viagens**
 
 <b>Objetivo:</b> Visualizar viagens realizadas.
 
@@ -601,8 +572,7 @@ Título:
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo, demora ao processar viagem recém finalizada.<br>
 
 ****
-### <b>Termos e condições</b>
-****
+**Termos e condições**
 
 <b>Objetivo:</b> Visualizar termos e condições.
 
@@ -626,8 +596,7 @@ Título:
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
 
 ****
-### <b>Deslogar (sair) da conta</b>
-****
+**Deslogar (sair) da conta**
 
 <b>Objetivo:</b> Sair da conta.
 
