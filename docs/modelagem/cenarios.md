@@ -11,9 +11,26 @@
 
 <p align="justify">Cenários são utilizados para o desenvolvimento de possibilidades de utilização de determinado produto. Sendo assim, são definidas características de cenários reais para a imaginação de algo atualmente imaginável porém de possível execução. É definido um objetivo que comumente é a realização de uma tarefa disponível, logo em seguida são descritos características como contexto, atores participantes, recursos necessários, cenas deste cenário, restrições aos participantes das cenas assim como exceções que possam interromper o cumprimento do objetivo inicial.</p>
 
+# Rastreabilidade
+Como o intuito dos cenários é criar cenas da utilização da aplicação, por consequência, grande parte (se não todos) dos requisitos elicitados participam da rastreabilidade deste artefato.
+### Pré-rastreabilidade:
+[Rich Picture](../pre_rastreabilidade/rich_picture.md)
+### Elicitação:
+[5W2H](../elicitacao/requisitos/5w2h_v2.md)<br>
+[Análise de Discuso](../elicitacao/requisitos/analise_discurso.md)<br>
+[Bainstrorming](../elicitacao/requisitos/brainstorm_v1.md)<br>
+[Entrevista](../elicitacao/requisitos/entrevista.md)<br>
+[Introspecção](../elicitacao/requisitos/introspeccao.md)<br>
+[Observação](../elicitacao/requisitos/observacao.md)<br>
+[Questionário](../elicitacao/requisitos/questionario.md)<br>
+[Story Telling](../elicitacao/requisitos/storytelling_v1.md)<br>
+[Requisitos Elicitados](../elicitacao/requisitos/requisitos_elicitados/requisitos_elicitados_v3.md)
+
+
+<br>
 
 ## Saldo
-****
+***
 **Histórico de transações**
 
 <b>Objetivo:</b> Visualizar o histórico de transações.
@@ -618,3 +635,6 @@
 <b>Restrições:</b> Usuário está restrito a sair de sua conta.<br>
 
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
+
+# Conclusão
+Os cenários foram úteis para visualizar na prática a utilização da aplicação, o caminho feliz da utilização. O detalhamento dos cenários permitem até mesmo que sirvam como uma espécie de guia de utilização da aplicação assim como visualizar possíveis erros que o usuário possa encontrar.

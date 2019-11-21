@@ -1,11 +1,11 @@
-|**Versão| A**utor | O que fez |  Quando | Onde |
+|**Versão**| Autor | O que fez |  Quando | Onde |
 |------|------| --------  |-------- | -----|
 |1.0| Letícia Karla | Criou o documento. |29/09/2019| Remoto, via Gerador de Personas e Google Drive |
 |1.1| Dâmaso Júnio | Formatou o documento | 18/11/2019 | Remoto |
 
 # Personas
 
-**Pr**opósito****
+**Propósito**
 
 <p align="justify">Persona é a representação fictícia do seu cliente ideal. Ela é baseada em dados reais sobre comportamento e características demográficas dos seus clientes. Apresenta, também, uma criação de suas histórias pessoais, motivações, objetivos, desafios e preocupações.</p>
 
