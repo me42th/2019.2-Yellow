@@ -41,3 +41,9 @@
 - Adicionar ID para cada cenário.
 - Linkar cenários aos léxicos.
 - Linkar atores do cenário aos léxicos.
+
+### Referências
+
+- SERRANO, Maurício; SERRANO, Milene. Requisitos - Slides Aula 023. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+- SERRANO, Maurício; SERRANO, Milene. Requisitos - Slides Aula 010. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
