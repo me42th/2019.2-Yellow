@@ -2,7 +2,7 @@
 |------|------| --------  |-------- | -----|
 |1.0| Lucas Gomes | Criou o documento. |30/09/2019| Remoto, via Google Drive|
 |1.1| Lucas Gomes | Atualizou o documento. |18/11/2019| Remoto, via Google Drive|
-|1.2| Lucas Gomes | Atualizou a rastreabilidade. |22/11/2019| Remoto, via Google Drive|
+|1.2| Lucas Gomes | Adicionou rastreabilidade ao documento. |22/11/2019| Remoto, via Google Drive|
 
 # Especificação Suplementar
 
@@ -23,7 +23,7 @@ A Yellow é uma aplicação de dispositivo móvel que visa facilitar o transport
 | iOS | Sistema operacional móvel desenvolvimento para iPhone pela Apple. |
 | Android | Sistema operacional móvel desenvolvido pela Google. |
 
-
+Demais definições estão disponíveis no [Léxicos](https://github.com/Requisitos-de-Software/2019.2-Yellow/blob/master/docs/modelagem/lexicos.md)
 
 ## Visão geral
 Este documento apresenta uma introdução a aplicação Yellow. No decorrer desta especificação são expostas requisitos que foram descritas de acordo com o FURPS+.
