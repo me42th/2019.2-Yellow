@@ -1,6 +1,6 @@
 |Versão| Autor | O que fez |  Quando | Onde |
 |------|------| --------  |-------- | -----|
-|1.0| Pedro Igor | Criou o documento. |05/11/2019| Remoto, via Google Drive|
+|1.0| Pedro Igor | Criou o documento. |05/11/2019| Remoto|
 
 # Rich Picture (Verificação)
 

@@ -76,11 +76,10 @@ nav:
             #- Casos de Uso: analise/verificacao/casos_de_uso.md
             - Especificação Suplementar: analise/verificacao/especificacao_suplementar.md
             - Cenários: analise/verificacao/cenarios.md
-            #- Léxicos: analise/verificacao/lexicos.md
+            - Léxicos: analise/verificacao/lexicos.md
             - Rich Picture: analise/verificacao/rich_picture.md
             - MoSCoW: analise/verificacao/moscow.md
             - Personas: analise/verificacao/personas.md
-            - Léxicos: analise/verificacao/LexicosVerificacao.md
         - Validação: analise/validacao/validacao.md
     - Pós-Rastreabilidade:
         - BackWard From: pos_rastreabilidade/backward.md
