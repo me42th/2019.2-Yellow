@@ -1,6 +1,7 @@
 |Versão| Autor | O que fez |  Quando | Onde |
 |------|------| --------  |-------- | -----|
 |1.0| Julio Litwin | Criou o documento. |04/11/2019| Remoto, via Google Drive|
+|2.0| Julio Litwin | Adicionado as outras referências que estavam faltando |22/11/2019| Remoto, via Google Drive|
 
 # Especificação Suplementar (Verificação)
 
@@ -42,4 +43,9 @@
 ### Referências
 - **Requisitos de Software Habitica Especificação Suplementar **. Disponível em: https://requisitos-habitica.herokuapp.com/EspecificacaoSuplementar
 - **Requisitos de Software Duolingo Especificação Suplementar **. Disponível em: https://requisitos-de-software.github.io/2019.2-Duolingo/analise/verificacao/inspecaoEspecificacao/
-- **SERRANO, Maurício; SERRANO, Milene. Requisitos** - Aula 23. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+- **SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 13. 1º/2019. 27-30 slides**. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+- **SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2019**. Material apresentado para a disciplina de 
+- **Habitica. Privacy Policy. ** Disponível em: https://habitica.com/static/privacy
+- **Requisitos de Software Nubank. Especificação Suplementar.** Disponível em: http://twixar.me/3P2n
+- **Requisitos de Software Tinder. Especificação Suplementar. **Disponível em: http://twixar.me/KP2n
+- **Gois, Samily. Sobrinho, Francisco. Projeto de Software Floricultura Beija-Flor Especificação Suplementar.** Disponível em: http://twixar.me/fP2n
