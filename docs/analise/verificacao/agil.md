@@ -7,13 +7,13 @@
 
 ## 1. Sumário
 
-1. [Sumário](https://github.com/Requisitos-de-Software/2019.2-Yellow/blob/master/docs/analise/verificacao/agil.md/#agil-1)
-2. [Introdução](https://github.com/Requisitos-de-Software/2019.2-Yellow/blob/issue_rastreabilidade_esp_suplementar/docs/analise/verificacao/agil.md/#2.-Introdução)
-3. [Metodologia](https://github.com/Requisitos-de-Software/2019.2-Yellow/blob/master/docs/analise/verificacao/agil.md/#agil-3)
-4. [Questionário](https://github.com/Requisitos-de-Software/2019.2-Yellow/blob/master/docs/analise/verificacao/agil.md/#agil-4)
-5. [Resultados](https://github.com/Requisitos-de-Software/2019.2-Yellow/blob/master/docs/analise/verificacao/agil.md/#agil-5)
-6. [Conclusão](https://github.com/Requisitos-de-Software/2019.2-Yellow/blob/master/docs/analise/verificacao/agil.md/#agil-6)
-7. [Referências](https://github.com/Requisitos-de-Software/2019.2-Yellow/blob/master/docs/analise/verificacao/agil.md/#agil-7)
+1. Sumário
+2. Introdução
+3. Metodologia
+4. Questionário
+5. Resultados
+6. Conclusão
+7. Referências
 
 ## 2. Introdução
 A inspeção do backlog tem por objetivo encontrar possíveis erros, ausência de informações e melhorias necessárias no documento.
