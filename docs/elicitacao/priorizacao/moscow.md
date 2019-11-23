@@ -1,10 +1,10 @@
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Gabriela Lemos | Criou o documento. |29/08/2019| Remoto, via Google Drive|
+|1.1| Pedro Igor |Editou o documento para forma de tabela de acordo com o novo brainstorming.|27/09/2019| Remoto, via Google Drive|
+
+
 # MoSCoW
-### Histórico de edições
-| Nome|O que fez|Quando|
-|-----|---------|------|
-| Gabriela | Criou o documento. | 29/08/2019 |
-| Pedro Igor | Editou o documento para forma de tabela de acordo com o novo brainstorming. | 27/09/2019|
-<br>
 
 |   |MoSCoW|
 |---|------|

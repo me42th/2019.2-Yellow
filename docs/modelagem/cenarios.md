@@ -1,24 +1,20 @@
+|Versão| Autor | O que fez |  Quando | Onde |
+|------|------| --------  |-------- | -----|
+|1.0| Pedro Igor | Criou o documento. |30/09/2019| Remoto|
+|1.1| Pedro Igor | Adicionou mais detalhes aos cenários |30/09/2019| Remoto|
+|1.2| Pedro Igor | Adicionou mais cenários para a tela "Meu Saldo." |08/10/2019| Remoto|
+|1.3| Pedro Igor | Adicionou mais cenários de login/cadastro e menu lateral esquerdo. |01/11/2019| Remoto|
+|1.4| Pedro Igor | Refatorou cenários de acordo com os resultados da inspeção realizada pelo Dâmaso. |01/11/2019| Remoto |
+|1.5| Dâmaso Júnio | Formatou tabela de versão. |19/11/2019| Remoto |
+
 # Cenários
 
-### Histórico de edições
-| Nome|O que fez|Quando|
-|-----|---------|------|
-| Pedro Igor | Criou o documento. | 30/09/2019 |
-| Pedro Igor | Adicionou mais detalhes aos cenários. | 30/09/2019 |
-| Pedro Igor | Adicionou cenários para a tela "Meu saldo". | 08/10/2019 |
-| Pedro Igor | Adicionou cenários de login/cadastro e menu lateral esquerdo. | 01/11/2019 |
-
-<br>
+<p align="justify">Cenários são utilizados para o desenvolvimento de possibilidades de utilização de determinado produto. Sendo assim, são definidas características de cenários reais para a imaginação de algo atualmente imaginável porém de possível execução. É definido um objetivo que comumente é a realização de uma tarefa disponível, logo em seguida são descritos características como contexto, atores participantes, recursos necessários, cenas deste cenário, restrições aos participantes das cenas assim como exceções que possam interromper o cumprimento do objetivo inicial.</p>
 
 
-## Sobre Cenários
-Cenários são utilizados para o desenvolvimento de possibilidades de utilização de determinado produto. Sendo assim, são definidas características de cenários reais para a imaginação de algo atualmente imaginável porém de possível execução. É definido um objetivo que comumente é a realização de uma tarefa disponível, logo em seguida são descritos características como contexto, atores participantes, recursos necessários, cenas deste cenário, restrições aos participantes das cenas assim como excessões que possam interromper o cumprimento do objetivo inicial.
-
-
-## <b>Saldo</b>
+## Saldo
 ****
-### <b>Histórico de transações</b>
-****
+**Histórico de transações**
 
 <b>Objetivo:</b> Visualizar o histórico de transações.
 
@@ -32,19 +28,18 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
-- Usuário navega até as últimas opções.<br>
-- Usuário seleciona "Histórico de transações".<br>
-- Usuário visualiza transações caso haja.<br>
+- O usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
+- O usuário navega até as últimas opções.<br>
+- O usuário seleciona "Histórico de transações".<br>
+- O usuário visualiza transações caso haja.<br>
 
-<b>Restrições:</b> Usuário está restrito a visualizar suas transações se houver.<br>
+<b>Restrições:</b> O usuário está restrito a visualizar suas transações se houver.<br>
 
 <b>Excessões:</b> Erro na conexão com a internet.<br>
 
 
 ****
-### <b>Solicitação de reembolso</b>
-****
+**Solicitação de reembolso**
 
 <b>Objetivo:</b> Solicitar um reembolso.
 
@@ -58,13 +53,13 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
-- Usuário navega até as últimas opções.<br>
-- Usuário seleciona "Solicitar reembolso".<br>
-- Usuário seleciona o motivo pelo qual está solicitando um reembolso.<br>
-- Usuário clica em "Retornar a minha carteira".<br>
-- Suporte da Yellow pode analisar o motivo da solicitação.<br>
-- O reembolso fica disponível.<br>
+- O usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
+- O usuário navega até as últimas opções.<br>
+- O usuário seleciona "Solicitar reembolso".<br>
+- O usuário seleciona o motivo pelo qual está solicitando um reembolso.<br>
+- O usuário clica em "Retornar a minha carteira".<br>
+- O suporte da Yellow pode analisar o motivo da solicitação.<br>
+- O suporte da Yellow disponibiliza o reembolso.<br>
 
 
 <b>Restrições:</b> Usuário está restrito a solicitar reembolso de saldo disponível.<br>
@@ -73,8 +68,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Centro de Ajuda</b>
-****
+**Centro de Ajuda**
 
 <b>Objetivo:</b> Encontrar ajuda na utilização.
 
@@ -88,19 +82,18 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
-- Usuário navega até as últimas opções.<br>
-- Usuário seleciona "Acessar o centro de ajuda".<br>
-- Usuário seleciona no que deseja ser ajudado.<br>
+- O usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
+- O usuário navega até as últimas opções.<br>
+- O usuário seleciona "Acessar o centro de ajuda".<br>
+- O usuário seleciona no que deseja ser ajudado.<br>
 
 
-<b>Restrições:</b> Usuário está restrito a visualizar conteúdo sobre ajuda.<br>
+<b>Restrições:</b> O usuário está restrito a visualizar conteúdo sobre ajuda.<br>
 
 <b>Excessões:</b> Erro na conexão com a internet. Bug no app que não mostra o conteúdo a ser mostrado.<br>
 
 ****
-### <b>Pagar conta e serviços</b>
-****
+**Pagar conta e serviços**
 
 <b>Objetivo:</b> Pagar uma conta ou serviço por meio do app.
 
@@ -114,10 +107,10 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
-- Usuário navega até a opção "Serviços e contas".<br>
-- Usuário seleciona a conta a qual deseja pagar.<br>
-- Usuário preenche informações sobre a conta a ser paga. (No momento é mostrado apenas um formulário em branco.)<br>
+- O usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
+- O usuário navega até a opção "Serviços e contas".<br>
+- O usuário seleciona a conta a qual deseja pagar.<br>
+- O usuário preenche informações sobre a conta a ser paga. (No momento é mostrado apenas um formulário em branco.)<br>
 
 
 <b>Restrições:</b> Usuário está restrito a pagar algum tipo de conta ou serviço.<br>
@@ -126,8 +119,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Pagar conta e serviços</b>
-****
+**Pagar conta e serviços**
 
 <b>Objetivo:</b> Pagar uma conta ou serviço por meio do app.
 
@@ -141,10 +133,10 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
-- Usuário navega até a opção "Serviços e contas".<br>
-- Usuário seleciona a conta a qual deseja pagar.<br>
-- Usuário preenche informações sobre a conta a ser paga. (No momento é mostrado apenas um formulário em branco.)<br>
+- O usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
+- O usuário navega até a opção "Serviços e contas".<br>
+- O usuário seleciona a conta a qual deseja pagar.<br>
+- O usuário preenche informações sobre a conta a ser paga. (No momento é mostrado apenas um formulário em branco.)<br>
 
 
 <b>Restrições:</b> Usuário está restrito a pagar algum tipo de conta ou serviço.<br>
@@ -153,8 +145,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Recarga de celular</b>
-****
+**Recarga de celular**
 
 <b>Objetivo:</b> Recarregar número de celular.
 
@@ -168,11 +159,11 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
-- Usuário navega até "Recargas de celular e planos" e seleciona uma operadora.<br>
-- Usuário informa um número de celular para que seja realizado o serviço.<br>
-- Usuário seleciona o valor da recarga e clica em "Próximo".<br>
-- Usuário confirma o pagamento com o saldo na Yellow.<br>
+- O usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
+- O usuário navega até "Recargas de celular e planos" e seleciona uma operadora.<br>
+- O usuário informa um número de celular para que seja realizado o serviço.<br>
+- O usuário seleciona o valor da recarga e clica em "Próximo".<br>
+- O usuário confirma o pagamento com o saldo na Yellow.<br>
 
 <b>Restrições:</b> Usuário está restrito a fazer recargas nas operadoras disponíveis, restrito ao valor máximo de crédito disponível na conta.<br>
 
@@ -180,8 +171,7 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 
 
 ****
-### <b>Transferir crédito</b>
-****
+**Transferir crédito**
 
 <b>Objetivo:</b> Transferir créditos entre contas.
 
@@ -195,19 +185,18 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
-- Usuário navega até "Transferir dinheiro" e clica em "Enviar ou receber com QR".<br>
-- Usuário informa o valor a ser recebido ou enviado.<br>
-- Usuário prossegue e é gerado um QR Code para que seja feito o envio/recepção do crédito.<br>
+- O usuário 1 e 2 abre o aplicativo e clica em "Meu saldo" ou em "Minha carteira" no menu lateral esquerdo.<br>
+- O usuário 1 e 2 navega até "Transferir dinheiro" e clica em "Enviar ou receber com QR".<br>
+- O usuário 2 informa o valor a ser enviado.<br>
+- O usuário 2 gera um QR Code para enviar o crédito, o usuário 1 recebe o crédito por meio do QR Code do usuário 1.<br>
 
-<b>Restrições:</b> Usuário está restrito a enviar o crédito disponível na conta.<br>
+<b>Restrições:</b> Usuário 2 está restrito a enviar o crédito disponível na conta.<br>
 
 <b>Excessões:</b> Erro na conexão com a internet.<br>
 
 
 ****
-### <b>Adicionar crédito</b>
-****
+**Adicionar crédito**
 
 <b>Objetivo:</b> Adicionar crédito a conta.
 
@@ -221,22 +210,21 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone, dinheiro para ser inserido na conta.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo e clica em "Meu saldo" ou clica em "Adicionar crédito" na tela inicial.<br>
-- Usuário seleciona "Adicionar crédito".<br>
-- Usuário seleciona o valor ser inserido e a forma de pagamento.<br>
-- Usuário confirma a compra de crédito.<br>
+- O usuário abre o aplicativo e clica em "Meu saldo" ou clica em "Adicionar crédito" na tela inicial.<br>
+- O usuário seleciona "Adicionar crédito".<br>
+- O usuário seleciona o valor ser inserido e a forma de pagamento.<br>
+- O usuário confirma a compra de crédito.<br>
 
-<b>Restrições:</b> Usuário está restrito inserir as quantidades disponíveis.<br>
+<b>Restrições:</b> O usuário está restrito inserir as quantidades disponíveis.<br>
 
 <b>Excessões:</b> Erro na conexão com a internet. Boleto vencer.<br>
 
 
 
-## <b>Cadastro e Login</b>
+## Cadastro e Login
 
 ****
-### <b>No Android e IOS</b>
-****
+**No Android e IOS**
 
 <b>Objetivo:</b> Criar uma conta ou entrar em uma conta existente.
 
@@ -250,23 +238,20 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone
 
 <b>Episódios:</b> <br>
-- Usuário quer utilizar o aplicativo.<br>
-- Usuário baixa a aplicação e abre.<br>
-- Usuário dá as permissões para acesso a conta do google ou facebook.<br>
-- Caso tudo esteja correto as funções do aplicativo se tornam utilizáveis.<br>
+- O usuário quer utilizar o aplicativo.<br>
+- O usuário baixa a aplicação e abre.<br>
+- O usuário dá as permissões para acesso a conta do google ou facebook.<br>
+- O usuário pode utilizar o aplicativo se o login for feito com sucesso.<br>
 
-<b>Restrições:</b> Usuário está restrito a logar por meio de uma conta do Google.<br>
+<b>Restrições:</b> O usuário está restrito a logar por meio de uma conta do Google.<br>
 
 <b>Excessões:</b> Falha na conexão na internet, erro ao digitar senha caso necessário.<br>
 
 
 
-## <b>Utilização</b>
-
-
+## Utilização
 ****
-### <b>Centro de Ajuda (Tela principal) </b>
-****
+**Centro de Ajuda (Tela principal)**
 
 <b>Objetivo:</b> Encontrar ajuda com carteira, bicicleta ou patinete.
 
@@ -280,20 +265,19 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário precisa de ajuda.<br>
-- Usuário clica no "?" na tela inicial.<br>
-- É mostrada as opções de temas de ajuda disponíveis.<br>
-- Usuário seleciona um tema.<br>
-- Usuário especifica a ajuda que precisa selecionando as opções posteriormente disponibilizadas..<br>
+- O usuário precisa de ajuda.<br>
+- O usuário clica no "?" na tela inicial.<br>
+- O usuário visualiza as opções de temas de ajuda disponíveis.<br>
+- O usuário seleciona um tema.<br>
+- O usuário especifica a ajuda que precisa selecionando as opções posteriormente disponibilizadas..<br>
 
-<b>Restrições:</b> Usuário está restrito a encontrar ajuda com carteira, patinete e bicicleta.<br>
+<b>Restrições:</b> O usuário está restrito a encontrar ajuda com carteira, patinete e bicicleta.<br>
 
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
 
 
 ****
-### <b>Reportar problema</b>
-****
+**Reportar problema**
 
 <b>Objetivo:</b> Reportar problema encontrado na utilização da aplicação.
 
@@ -307,19 +291,18 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário quer informar problema.<br>
-- Usuário clica no "?" na tela inicial.<br>
-- Usuário seleciona "Report Issue".<br>
-- Usuário especifica o tipo de problema a ser reportado.<br>
-- Usuário segue o passo a passo solicitado pelo app.<br>
+-O usuário quer informar problema.<br>
+-O usuário clica no "?" na tela inicial.<br>
+-O usuário seleciona "Report Issue".<br>
+-O usuário especifica o tipo de problema a ser reportado.<br>
+-O usuário segue o passo a passo solicitado pelo app.<br>
 
-<b>Restrições:</b> Usuário está restrito a reportar problema mecânicos, de veículos não encontrados, veículos atrapalhando a circulação e fazer uma queixa.<br>
+<b>Restrições:</b>O usuário está restrito a reportar problema mecânicos, de veículos não encontrados, veículos atrapalhando a circulação e fazer uma queixa.<br>
 
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
 
 ****
-### <b>Contatar suporte</b>
-****
+**Contatar suporte**
 
 <b>Objetivo:</b> Entrar em contato com o suporte.
 
@@ -333,19 +316,18 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário quer entrar em contato com a equipe de suporte.<br>
-- Usuário clica no "?" na tela inicial.<br>
-- Usuário seleciona "Contact Us".<br>
-- Usuário especifica o tipo de contato assim como o tema.<br>
-- Usuário escreve uma mensagem entre 15 e 200 caracteres e clica em "Send".<br>
+- O usuário quer entrar em contato com a equipe de suporte.<br>
+- O usuário clica no "?" na tela inicial.<br>
+- O usuário seleciona "Contact Us".<br>
+- O usuário especifica o tipo de contato assim como o tema.<br>
+- O usuário escreve uma mensagem entre 15 e 200 caracteres e clica em "Send".<br>
 
-<b>Restrições:</b> Usuário está restrito a contatar suporte sobre os motivos listados na aplicação.<br>
+<b>Restrições:</b> O usuário está restrito a contatar suporte sobre os motivos listados na aplicação.<br>
 
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
 
 ****
-### <b>Encontrar patinete</b>
-****
+**Encontrar patinete**
 
 <b>Objetivo:</b> Encontrar um patinete disponível para utilização.
 
@@ -359,19 +341,18 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário quer encontrar um patinete.<br>
-- Usuário clica em "patinete" na tela inicial.<br>
-- É mostrado num mapa patinetes disponíveis e sua localização.<br>
+- O usuário quer encontrar um patinete.<br>
+- O usuário clica em "patinete" na tela inicial.<br>
+- O usuário visualiza num mapa patinetes disponíveis e sua localização.<br>
 - O usuário se dirige ao local do patinete.<br>
 
-<b>Restrições:</b> Usuário está restrito a encontrar um patinete no mapa.<br>
+<b>Restrições:</b> O usuário está restrito a encontrar um patinete no mapa.<br>
 
 <b>Excessões:</b> Falha na aplicação ao mostrar localização, patinete foi alugado enquanto o usuário chegava ao local.<br>
 
 
 ****
-### <b>Encontrar bicicleta</b>
-****
+**Encontrar bicicleta**
 
 <b>Objetivo:</b> Encontrar uma bicicleta disponível para utilização.
 
@@ -385,21 +366,20 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário quer encontrar uma bicicleta.<br>
-- Usuário clica em "bike" na tela inicial.<br>
-- É mostrado num mapa bicicletas disponíveis e sua localização.<br>
+- O usuário quer encontrar uma bicicleta.<br>
+- O usuário clica em "bike" na tela inicial.<br>
+- O usuário visualiza num mapa bicicletas disponíveis e sua localização.<br>
 - O usuário se dirige ao local da bicicleta.<br>
 
-<b>Restrições:</b> Usuário está restrito a encontrar uma bicicleta no mapa.<br>
+<b>Restrições:</b> O usuário está restrito a encontrar uma bicicleta no mapa.<br>
 
 <b>Excessões:</b> Falha na aplicação ao mostrar localização, bicicleta foi alugada enquanto o usuário chegava ao local.<br>
 
 
 ****
-### <b>Liberar veículo</b>
-****
+**Liberar veículo**
 
-<b>Objetivo:</b> Liberar um veículo para utilização. 
+<b>Objetivo:</b> Liberar um veículo para utilização.
 
 <b>Contexto:</b><br>
 - <b>Local:</b> Tela inicial.<br>
@@ -411,19 +391,18 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone e veículo (bicicleta, patinete)
 
 <b>Episódios:</b> <br>
-- Usuário encontra um veículo.<br>
-- Usuário clica em "Scan" na tela inicial.<br>
-- Usuário liga o flash casso necessário e tenta capturar o QR Code no veículo.<br>
-- Caso o episódio anterior falhe ou o usuário prefira é possível digitar o código.<br>
-- O veículo é liberada caso haja créditos suficientes para um aluguel.<br>
+- O usuário encontra um veículo.<br>
+- O usuário clica em "Scan" na tela inicial.<br>
+- O usuário liga o flash casso necessário e tenta capturar o QR Code no veículo.<br>
+- O usuário pode digitar o código caso o episódio anterior falhe ou o usuário prefira.<br>
+- O usuário pode utilizar o veículo caso haja créditos suficientes para um aluguel.<br>
 
-<b>Restrições:</b> Usuário está restrito a desbloquear um veículo e alugar.<br>
+<b>Restrições:</b> O usuário está restrito a desbloquear um veículo e alugar.<br>
 
 <b>Excessões:</b> Rasura no QR Code do veículo.<br>
 
 ****
-### <b>Utilização da Yellow - Lazer</b>
-****
+**Utilização da Yellow - Lazer**
 
 <b>Objetivo:</b> Utilizar uma bicicleta para lazer.
 
@@ -438,20 +417,18 @@ Cenários são utilizados para o desenvolvimento de possibilidades de utilizaç�
 <b>Recursos:</b> Smartphone
 
 <b>Episódios:</b> <br>
-- Usuário precisa de uma bicicleta para lazer.<br>
-- Usuário utiliza o smartphone para procurar uma bicicleta.<br>
-- Ao encontrar uma bicicleta desbloqueia e aluga.<br>
-- Utiliza a bicicleta para se divertir.<br>
-- Bloqueia novamente a bicicleta.<br>
+- O usuário precisa de uma bicicleta para lazer.<br>
+- O usuário utiliza o smartphone para procurar uma bicicleta.<br>
+- O usuário desbloqueia e aluga ao encontrar uma bicicleta.<br>
+- O usuário utiliza a bicicleta para se divertir.<br>
+- O usuário bloqueia novamente a bicicleta.<br>
 
-<b>Restrições:</b> Usuário está restrito a escolher uma bicicleta dentre as disponibilizadas.<br>
+<b>Restrições:</b> O usuário está restrito a escolher uma bicicleta dentre as disponibilizadas.<br>
 
 <b>Excessões:</b> Não encontrar bicicleta disponível, bicicleta disponível com defeito.<br>
 
 ****
-### <b>Utilização da Yellow - Trabalho</b>
-****
-Título: 
+**Utilização da Yellow - Trabalho**
 
 <b>Objetivo:</b> Utilizar uma bicicleta para o transporte para o trabalho.
 
@@ -466,15 +443,14 @@ Título:
 <b>Recursos:</b> Smartphone
 
 <b>Episódios:</b> <br>
-- Usuário precisa de uma bicicleta para ir da parada de ônibus para o local de trabalho.<br>
-- Usuário utiliza o smartphone para procurar uma bicicleta.<br>
-- Ao encontrar uma bicicleta desbloqueia e aluga.<br>
-- Utiliza a bicicleta para se locomover até o local de trabalho.<br>
-- Bloqueia novamente a bicicleta.<br>
+- O usuário precisa de uma bicicleta para ir da parada de ônibus para o local de trabalho.<br>
+- O usuário utiliza o smartphone para procurar uma bicicleta.<br>
+- O usuário desbloqueia e aluga uma bicicleta após econtrá-la.<br>
+- O usuário utiliza a bicicleta para se locomover até o local de trabalho.<br>
+- O usuário bloqueia novamente a bicicleta.<br>
 
 ****
-### <b>Utilização da Yellow - Transporte até Faculdade</b>
-****
+**Utilização da Yellow - Transporte até Faculdade**
 
 <b>Objetivo:</b> Utilizar uma bicicleta para o transporte até a faculdade.
 
@@ -489,16 +465,15 @@ Título:
 <b>Recursos:</b> Smartphone
 
 <b>Episódios:</b> <br>
-- Usuário precisa de uma bicicleta para ir da parada de ônibus até a faculdade.<br>
-- Usuário utiliza o smartphone para procurar uma bicicleta.<br>
-- Ao encontrar uma bicicleta desbloqueia e aluga.<br>
-- Utiliza a bicicleta para se locomover até a faculdade.<br>
-- Após utilização bloqueia novamente.<br>
+- O usuário precisa de uma bicicleta para ir da parada de ônibus até a faculdade.<br>
+- O usuário utiliza o smartphone para procurar uma bicicleta.<br>
+- O usuário desbloqueia e aluga uma bicicleta após encontrá-la.<br>
+- O usuário utiliza a bicicleta para se locomover até a faculdade.<br>
+- O usuário bloqueia novamente a bicicleta.<br>
 
 
 ****
-### <b>Utilização da Yellow - Transporte entre prédios da faculdade</b>
-****
+**Utilização da Yellow - Transporte entre prédios da faculdade**
 
 <b>Objetivo:</b> Utilizar uma bicicleta para o transporte entre prédios da faculdade.
 
@@ -513,17 +488,16 @@ Título:
 <b>Recursos:</b> Smartphone
 
 <b>Episódios:</b> <br>
-- Usuário precisa de uma bicicleta para se locomover entre os prédios da universidade.<br>
-- Usuário utiliza o smartphone para procurar uma bicicleta.<br>
-- Ao encontrar uma bicicleta desbloqueia e aluga.<br>
-- Se locomove para os locais necessários.<br>
-- Bloqueia novamente a bicicleta.<br>
+- O usuário precisa de uma bicicleta para se locomover entre os prédios da universidade.<br>
+- O usuário utiliza o smartphone para procurar uma bicicleta.<br>
+- O usuário desbloqueia e aluga após encontrar uma bicicleta.<br>
+- O usuário se locomove para os locais necessários.<br>
+- O usuário bloqueia novamente a bicicleta.<br>
 
-## <b>Menu lateral esquerdo</b>
+## Menu lateral esquerdo
 
 ****
-### <b>Ganhe corridas grátis</b>
-****
+**Ganhe corridas grátis**
 
 <b>Objetivo:</b> Ganhar corridas grátis.
 
@@ -537,19 +511,18 @@ Título:
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo.<br>
-- Usuário clica nos 3 tracinhos na horizontal.<br>
-- Usuário seleciona "Get free rides".<br>
-- Usuário compartilha seu código com amigos.<br>
-- Usuário ganha corridas de acordo com a quantidade de amigos que entraram na aplicação utilizando seu código.<br>
+- O usuário abre o aplicativo.<br>
+- O usuário clica nos 3 tracinhos na horizontal.<br>
+- O usuário seleciona "Get free rides".<br>
+- O usuário compartilha seu código com amigos.<br>
+- O usuário ganha corridas de acordo com a quantidade de amigos que entraram na aplicação utilizando seu código.<br>
 
-<b>Restrições:</b> Usuário está restrito a ganhar corridas grátis compartilhando a aplicação com amigos.<br>
+<b>Restrições:</b> O usuário está restrito a ganhar corridas grátis compartilhando a aplicação com amigos.<br>
 
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
 
 ****
-### <b>Promoções</b>
-****
+**Promoções**
 
 <b>Objetivo:</b> Aplicar promoções.
 
@@ -563,20 +536,19 @@ Título:
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo.<br>
-- Usuário clica nos 3 tracinhos na horizontal.<br>
-- Usuário seleciona "Promotions".<br>
-- Usuário clica em "Add promotion".<br>
-- Usuário insere código de promoção.<br>
-- Usuário usufrui de benefícios da promoção.<br>
+- O usuário abre o aplicativo.<br>
+- O usuário clica nos 3 tracinhos na horizontal.<br>
+- O usuário seleciona "Promotions".<br>
+- O usuário clica em "Add promotion".<br>
+- O usuário insere código de promoção.<br>
+- O usuário usufrui de benefícios da promoção.<br>
 
-<b>Restrições:</b> Usuário.<br>
+<b>Restrições:</b> Usuário está limitado a utilizar de promoções disponivéis.<br>
 
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo, código de promoção antigo ou inválido.<br>
 
 ****
-### <b>Minhas viagens</b>
-****
+**Minhas viagens**
 
 <b>Objetivo:</b> Visualizar viagens realizadas.
 
@@ -590,18 +562,17 @@ Título:
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo.<br>
-- Usuário clica nos 3 tracinhos na horizontal.<br>
-- Usuário seleciona "My trips".<br>
-- Usuário visualiza as viagens<br>
+-O usuário abre o aplicativo.<br>
+-O usuário clica nos 3 tracinhos na horizontal.<br>
+-O usuário seleciona "My trips".<br>
+-O usuário visualiza as viagens<br>
 
-<b>Restrições:</b> Usuário está restrito a visualizar as próprias viagens realizadas.<br>
+<b>Restrições:</b>O usuário está restrito a visualizar as próprias viagens realizadas.<br>
 
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo, demora ao processar viagem recém finalizada.<br>
 
 ****
-### <b>Termos e condições</b>
-****
+**Termos e condições**
 
 <b>Objetivo:</b> Visualizar termos e condições.
 
@@ -615,18 +586,17 @@ Título:
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo.<br>
-- Usuário clica nos 3 tracinhos na horizontal.<br>
-- Usuário seleciona "Terms & Conditions".<br>
-- Usuário visualiza os termos e condições de utilização.<br>
+- O usuário abre o aplicativo.<br>
+- O usuário clica nos 3 tracinhos na horizontal.<br>
+- O usuário seleciona "Terms & Conditions".<br>
+- O usuário visualiza os termos e condições de utilização.<br>
 
-<b>Restrições:</b> Usuário está restrito a visualizar os termos e condições de utilização.<br>
+<b>Restrições:</b> O usuário está restrito a visualizar os termos e condições de utilização.<br>
 
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
 
 ****
-### <b>Deslogar (sair) da conta</b>
-****
+**Deslogar (sair) da conta**
 
 <b>Objetivo:</b> Sair da conta.
 
@@ -640,10 +610,10 @@ Título:
 <b>Recursos:</b> Smartphone.
 
 <b>Episódios:</b> <br>
-- Usuário abre o aplicativo.<br>
-- Usuário clica nos 3 tracinhos na horizontal.<br>
-- Usuário seleciona "Logout".<br>
-- A conta é removida.<br>
+- O usuário abre o aplicativo.<br>
+- O usuário clica nos 3 tracinhos na horizontal.<br>
+- O usuário seleciona "Logout".<br>
+- O usuário tem a conta removida.<br>
 
 <b>Restrições:</b> Usuário está restrito a sair de sua conta.<br>
 
