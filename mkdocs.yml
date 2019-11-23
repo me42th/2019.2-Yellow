@@ -80,6 +80,7 @@ nav:
             - Rich Picture: analise/verificacao/rich_picture.md
             - MoSCoW: analise/verificacao/moscow.md
             - Personas: analise/verificacao/personas.md
+            - Léxicos: analise/verificacao/LexicosVerificacao.md
         - Validação: analise/validacao/validacao.md
     - Pós-Rastreabilidade:
         - BackWard From: pos_rastreabilidade/backward.md
