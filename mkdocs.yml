@@ -19,10 +19,10 @@ nav:
 
         - Elicitação:
             - 5W2H:
-                - 5W2H v0: elicitacao/requisitos/5w2h_v0.md
                 - 5W2H v1: elicitacao/requisitos/5w2h_v1.md
+                - 5W2H v2: elicitacao/requisitos/5w2h_v2.md
             - Análise de Discurso: elicitacao/requisitos/analise_discurso.md
-            - Análise de Protócolo: elicitacao/requisitos/analise_protocolo.md
+            - Análise de Protocólo: elicitacao/requisitos/analise_protocolo.md
             - Brainstorming:
                 - Brainstorming v0: elicitacao/requisitos/brainstorm_v0.md
                 - Brainstorming v1: elicitacao/requisitos/brainstorm_v1.md
@@ -73,18 +73,21 @@ nav:
         - Verificação:
             - Ágil: analise/verificacao/agil.md
             - NFR: analise/verificacao/nfr.md
-            #- Casos de Uso: analise/verificacao/casos_de_uso.md
+            - Casos de Uso: analise/verificacao/casos_de_uso.md
             - Especificação Suplementar: analise/verificacao/especificacao_suplementar.md
             - Cenários: analise/verificacao/cenarios.md
-            #- Léxicos: analise/verificacao/lexicos.md
+            - Léxicos: analise/verificacao/lexicos.md
             - Rich Picture: analise/verificacao/rich_picture.md
             - MoSCoW: analise/verificacao/moscow.md
             - Personas: analise/verificacao/personas.md
-        - Validação: analise/validacao/validacao.md
+        - Validação:
+            - Email: analise/validacao/validacao.md
+            - Protótipo: analise/validacao/prototipo.md
+
     - Pós-Rastreabilidade:
         - BackWard From: pos_rastreabilidade/backward.md
         - Forward To: pos_rastreabilidade/forwardto.md
-        
+
 theme:
   palette:
       primary: 'black'
