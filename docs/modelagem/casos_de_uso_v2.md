@@ -25,9 +25,10 @@ Em sua segunda versão, o diagrama foi dividido. E atualizado, de acordo com os 
 Um Caso de Uso define uma sequencia de ações executadas pelo sistema retornando valores que podem ser observados pelos Atores. Um Ator é um papel que um usuário desempenha em relação ao sistema. Cada Caso de Uso descreve ações que o sistema deve executar para retornar algum valor para o Ator,   demostra as funcionalidades do sistema utilizadas pelos Atores. O Caso de Uso representa um fluxo completo de eventos, diálogo entre os Atores e o sistema.
 
 ## 4. Casos de Uso
-![UC1_RequisitosYellow](/img/modelagem/UC/UC_cadastro.png)
+
+![UC1_RequisitosYellow](../img/modelagem/UC/UC_cadastro.png)
 <br>
-![UC2_RequisitosYellow](/img/modelagem/UC/UC_creditos.png)
+![UC2_RequisitosYellow](../img/modelagem/UC/UC_creditos.png)
 
 ## 5. Resultados
 

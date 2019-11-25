@@ -6,14 +6,60 @@
 |1.3| Pedro Igor | Adicionou mais cenários de login/cadastro e menu lateral esquerdo. |01/11/2019| Remoto|
 |1.4| Pedro Igor | Refatorou cenários de acordo com os resultados da inspeção realizada pelo Dâmaso. |01/11/2019| Remoto |
 |1.5| Dâmaso Júnio | Formatou tabela de versão. |19/11/2019| Remoto |
+|1.6| Pedro Igor | Adicionando rastreabilidade e formatando o artefato. | 23/11/2019 | Remoto |
 
 # Cenários
 
-<p align="justify">Cenários são utilizados para o desenvolvimento de possibilidades de utilização de determinado produto. Sendo assim, são definidas características de cenários reais para a imaginação de algo atualmente imaginável porém de possível execução. É definido um objetivo que comumente é a realização de uma tarefa disponível, logo em seguida são descritos características como contexto, atores participantes, recursos necessários, cenas deste cenário, restrições aos participantes das cenas assim como exceções que possam interromper o cumprimento do objetivo inicial.</p>
+## Rastreabilidade
+Como o intuito dos cenários é criar cenas da utilização da aplicação, por consequência, grande parte (se não todos) dos requisitos elicitados participam da rastreabilidade deste artefato.
+### Pré-rastreabilidade:
+[Rich Picture](../pre_rastreabilidade/rich_picture.md)
+### Elicitação:
+[5W2H](../elicitacao/requisitos/5w2h_v2.md)<br>
+[Análise de Discuso](../elicitacao/requisitos/analise_discurso.md)<br>
+[Bainstrorming](../elicitacao/requisitos/brainstorm_v1.md)<br>
+[Entrevista](../elicitacao/requisitos/entrevista.md)<br>
+[Introspecção](../elicitacao/requisitos/introspeccao.md)<br>
+[Observação](../elicitacao/requisitos/observacao.md)<br>
+[Questionário](../elicitacao/requisitos/questionario.md)<br>
+[Story Telling](../elicitacao/requisitos/storytelling_v1.md)<br>
+[Requisitos Elicitados](../elicitacao/requisitos/requisitos_elicitados/requisitos_elicitados_v3.md)
+
+<br>
 
 
-## Saldo
-****
+
+## 1. Sumário
+1. Sumário
+2. Introdução
+3. Metodologia
+4. Questionário
+5. Resultados
+6. Conclusão
+7. Referências
+
+## 2. Introdução
+<p align="justify">Cenários são utilizados para o desenvolvimento de possibilidades de utilização de determinado produto. Sendo assim, são definidas características de cenários reais para a imaginação de algo atualmente imaginável porém de possível execução. É definido um objetivo que comumente é a realização de uma tarefa disponível, logo em seguida são descritos características como contexto, atores participantes, recursos necessários, cenas deste cenário, restrições aos participantes das cenas assim como exceções que possam interromper o cumprimento do objetivo inicial. Cenários podem ser úteis para descrição em geral de requisitos visto que são mais fáceis de serem visualizados pelas pessoas.</p>
+
+## 3. Metodologia
+A metologia se baseou no livro Engenharia de Software - Ian Sommerville 9ª Edição que define o que são cenários e como utilizá-los. A técnica é útil por ser de simples interpretação por praticamente qualquer pessoa. Foram definidos então cenários baseados em possíveis utilizações de cada funcionalidade da aplicação.
+
+## 4. Questionário
+De acordo com o livro, cenários devem conter as seguinte características:
+
+1. Uma descrição do que o sistema e os usuários esperam quando o cenário se iniciar.
+2. Uma descrição do fluxo normal de eventos no cenário.
+3. Uma descrição do que pode dar errado e como isso é tratado.
+4. Informações sobre outras atividades que podem acontecer ao mesmo tempo.
+5. Uma descrição do estado do sistema quando o cenário acaba.
+A elicitação baseada em cenários envolve o trabalho com os stakeholders para identificar cenários e capturar
+detalhes que serão incluídos nesses cenários. Os cenários podem ser escritos como texto, suplementados por diagramas, telas etc. Outra possibilidade é uma abordagem mais estruturada, em que cenários de eventos ou casos
+de uso podem ser usados.
+
+## 5. Resultados
+
+### Saldo
+***
 **Histórico de transações**
 
 <b>Objetivo:</b> Visualizar o histórico de transações.
@@ -221,7 +267,7 @@
 
 
 
-## Cadastro e Login
+### Cadastro e Login
 
 ****
 **No Android e IOS**
@@ -249,7 +295,7 @@
 
 
 
-## Utilização
+### Utilização
 ****
 **Centro de Ajuda (Tela principal)**
 
@@ -494,7 +540,7 @@
 - O usuário se locomove para os locais necessários.<br>
 - O usuário bloqueia novamente a bicicleta.<br>
 
-## Menu lateral esquerdo
+### Menu lateral esquerdo
 
 ****
 **Ganhe corridas grátis**
@@ -618,3 +664,9 @@
 <b>Restrições:</b> Usuário está restrito a sair de sua conta.<br>
 
 <b>Excessões:</b> Erro de conexão com a internet, erro ao mostrar contéudo.<br>
+
+## 6.Conclusão
+Os cenários foram úteis para visualizar na prática a utilização da aplicação, o caminho feliz da utilização. O detalhamento dos cenários permitem até mesmo que sirvam como uma espécie de guia de utilização da aplicação assim como visualizar possíveis erros que o usuário possa encontrar.
+
+## 7. Referências
+Sommerville, I. Engenharia de Software. 9a Edição. Addison Wesley. 2007.
