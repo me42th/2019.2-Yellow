@@ -3,12 +3,32 @@
 |1.0| Julio Litwin | Criou o documento. |30/09/2019| Remoto, via Google Drive|
 |1.1| Julio Litwin | Adicionado léxicos de cenários que estavam faltando |19/11/2019| Remoto, via Google Drive|
 |1.2| Julio Litwin | Corrigido alguns problemas a partir da análise realizada. |19/11/2019| Remoto, via Google Drive|
+|1.3| Julio Litwin | Realizado a padronização do documento.  |23/11/2019| Remoto, via Google Drive|
 
 # Léxico
 
-**Metodologia:**
+### 1. Sumário
+1. Sumário
+2. Introdução
+3. Metodologia
+4. Questionário
+5. Resultados
+6. Conclusão
+7. Referências
 
-<p align="justify">Uma notação que usa descrição de termos via léxico é o: **LAL - Léxico Ampliado da Linguagem**. Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. O principal objetivo a ser perseguido pelos Engenheiros de Requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo.</p>
+### 2. Introdução
+Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. O principal objetivo a ser perseguido pelos Engenheiros de Requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo.
+
+### 3. Metodologia
+
+A metodologia é baseada no material apresentado em aula, sendo uso o slide dos professores Milene e Maurício. Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. O principal objetivo a ser perseguido pelos Engenheiros de Requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo.
+
+### 4.  Questionário
+De acordo com o slide, na qual é explicado o questionário a ser realizado:
+1.  É necessário a identificação da palavra? Não sendo algo tão trivial.
+2. É uma frase peculiar?
+
+### 5. Resultado
 
 | Definição | Sinônimo(s) | Noção | Impacto | Classificação |
 |-----|---------|------|---------|---------|
@@ -28,5 +48,8 @@
 | Termos de Uso | Regras, condições | Condições e regras para o uso da Yellow | O usuário deverá ler e concordar com os termos de uso da Yellow para poder usufruir sem problemas futuros e o usuário sempre terá acesso aos termos caso ainda haja alguma dúvida. | Objeto
 | Sair | Fechar, terminar | Sair da atual conta em uso | O usuário poderá deslogar a atual conta da Yellow caso deseje fechar o aplicativo | Verbo
 
-### Referências
-SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+### 6. Conclusão
+Os léxicos são utéis para poder se familiarizar com as palavras e/ou frases encontradas dentro da Aplicação, podendo saber o verdadeiro significado, encontrar sinônimos e a classificação.
+
+### 7. Referências
+**SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides.** Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
